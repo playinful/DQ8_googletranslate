@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D58><se_low>King Trode: Are we not already in possession of the Venus' tear? Why didn't you just give it to her?", true],
+		["<voice_0x01000D59><se_low>Yangus: Nah! You don't get it, do ya Grandad!?\nWe've gotta make 'er think we're goin' to\nthe cave for 'er, see. We gotta play it cool.", true],
+		["<voice_0x01000D5A><se_low>Yangus: Otherwise she's gonna think we've done nuffin' special. She won't 'ave no gratistude!", true]
+	]
+}

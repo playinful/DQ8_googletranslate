@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: So Gemon's up on top o' this mountain, is 'e, sittin' on the Godbird's egg?", true],
+		["<se_low>Yangus: Come on then!\nLet's bowl on up there and show 'im who's boss!", true],
+		["<se_high>Jessica: So this huge mountain is hollow.\nThat's really weird.", true],
+		["<se_high>Jessica: The spire-like shape makes it feel more like climbing a tower than exploring a cave.", true],
+		["<se_def>Angelo: Empyrea certainly likes to build her nests in awkward places. I suppose that's why she chose here...", true],
+		["<se_def>Angelo: But it's hard work for us poor souls who have to walk all the way up. At least she can fly.", true],
+		["<se_high>Red: Gordon Bennett, talk about an exposed spot.\nThere might as well be a flashin' sign above the nest sayin' \u2018'elp yerself to eggs\u2019!", true],
+		["<se_high>Red: That Godbird's gettin' careless cos she's 'igh an' mighty, that's wot it is. It ain't 'ardly surprisin' that Gemon swooped in to attack, eh?", true],
+		["<se_low>Morrie: Uno, due, uno due!\nWhen you climb to the high places, you must do the hotting-up first, si? Otherwise you gonna pray for it later, ay?", true]
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E15><se_def>Ishmahri: I have witnessed the passing of many moons,\nbut never before have I felt time pass so slowly.", true],
+		["<voice_0x01000E16><se_def>Ishmahri: I see the outcome of your quest from the brightness in your eyes.\nYou have retrieved the Moonshadow harp.", true],
+		["<voice_0x01000E17><se_def>Ishmahri: Please show it to me. The mighty instrument that will rouse the memory of the ocean.", true],
+		["<voice_0x01000E18><se_def>Ishmahri: ...This harp has travelled far, just as you have.", true],
+		["<voice_0x01000E19><se_def>Ishmahri: I did not imagine it would ever find its way into my hands again. Now, let us attend to the task at hand.", true],
+		["<voice_0x01000E1A><se_def>Ishmahri: Let us go to the ship. Music will awaken it\nfrom its slumber and set it sailing once more.", true]
+	]
+}

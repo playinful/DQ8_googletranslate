@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 115, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F39><se_def>Prince Charmles: Ah, there you are!\nAnd you've arrived just in time...", true],
+		["<voice_0x01000F3A><se_def>Prince Charmles: Without further ado, allow me to present my NEW Argon heart!", true],
+		["<voice_0x01000F3B><se_def>Prince Charmles: The biggest you ever saw!", true],
+		["<voice_0x01000F3C><se_def>Prince Charmles: I mean, you've seen a real Argon heart for yourselves. You can tell this is no fake.", true],
+		["<voice_0x01000F3D><se_def>Prince Charmles: I suppose you're wondering where I acquired it. Well, as luck would have it, one of the peddlers was selling one!", true],
+		["<voice_0x01000F3E><se_def>*: Service is our motto.\nWe gots another if you gots the money.", true],
+		["<voice_0x01000F3F><se_def>Prince Charmles: Another...!? One is quite enough!", true],
+		["<voice_0x01000F40><se_def>Prince Charmles: Anyway. You can keep the Argon heart from the royal hunting ground for yourselves.", true],
+		["<voice_0x01000F41><se_def>Prince Charmles: I'm going to take this one back to the castle.\nYou'll stay quiet about this, of course.", true],
+		["<voice_0x01000F42><se_def>Prince Charmles: And once the bazaar moves on, I won't need to worry about that peddler telling anyone.\nIt's a flawless plan! Ha ha ha!", true],
+		["<voice_0x01000F43><se_def>Prince Charmles: Well, this is farewell. I'm off to the castle.\nDrop by some time if you'd like to see the adoration on my subjects' faces first-hand!\nTa-ta!", true],
+		["<voice_0x01000F44><se_low>King Clavius: Oh, Charmles.", true],
+		["<voice_0x01000F45><se_low>King Clavius: What have you done?", true]
+	]
+}

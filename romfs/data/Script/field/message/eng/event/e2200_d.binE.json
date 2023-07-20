@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x010014EF><se_low>King Trode: Oh my... He does seem to be in a bad way,\ndoesn't he.", true],
+		["<voice_0x010014F0><se_low>King Trode: Men, carry this boy back to the castle at once!", true],
+		["<voice_0x010014F1><se_low>King Trode: AT ONCE, I say!", true]
+	]
+}

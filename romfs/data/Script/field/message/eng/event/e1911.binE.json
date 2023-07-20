@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010017C1><se_low>Chen Mui: Hm? Is there something troubling you?", true],
+		["<voice_0x010017C2><se_low>Chen Mui: I see. You feel that we might be hiding something from you. Is that it, <hero>?", true],
+		["<voice_0x010017C3><se_low>Chen Mui: I completely understand. But would you indulge me and wait for the time being?", true],
+		["<voice_0x010017C4><se_low>Chen Mui: I don't want anything distracting you from your mission to bring the Lord of the Dragovians back to his senses.", true],
+		["<voice_0x010017C5><se_low>Chen Mui: Once you save the Dragovian Sanctuary,\nI promise everything will be revealed.\nYou have my word.", true],
+		["<se_low>Chen Mui: It is late. Please, go back to your room and get some rest.", true],
+		["<voice_0x010017C6><se_low>Chen Mui: Awake already? How do you feel?\nDid you sleep well?", true],
+		["<voice_0x010017C7><se_low>Chen Mui: Glad to hear it. I'm counting on you.", true],
+		["<voice_0x010017C8><se_low>Chen Mui: Hardly a surprise, given the gravity of the situation. But I have faith in your strength.", true],
+		["<voice_0x010017C9><se_low>Chen Mui: Today you will visit the Heavenly Dais.", true],
+		["<voice_0x010017CA><se_low>Chen Mui: The path is a labyrinth. The entrance lies beyond a portal beneath the council chamber.", true]
+	]
+}

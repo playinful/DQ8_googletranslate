@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000FE7><se_def>*: The dark aura!\nIt's disappeared!", true],
+		["<voice_0x01000FE8><se_def>*: So you managed to get the royal Argonian mirror!", true],
+		["<voice_0x01000FE9><se_def>*: I don't know how you got hold of it,\nbut now we can finally get inside and fight Dhoulmagus! Well done!", true],
+		["<voice_0x01000FEA><se_def>*: Right!\nEr...well then, I'll just go and fetch my men!", true],
+		["<voice_0x01000FEB><se_def>*: That won't do any good. Even if it's the same size, without any magic power, the mirror can't break through the dark aura.", true]
+	]
+}

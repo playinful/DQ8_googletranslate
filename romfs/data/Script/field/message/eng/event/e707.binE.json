@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<se_high>*: I've not been able to sleep a wink since I\nsaw it...", true],
+		["<se_high>*: I mean, no one expects to see a jester come running across the sea like that!", true],
+		["<se_high>*: He ran off along the shoreline, so he was probably heading for Baccarat.", true],
+		["<se_high>*: I just wish I could put the image out of my head. Maybe it was some kind of phantom...", true],
+		["<se_low>King Trode: Did you hear that, <hero>!?\nHe must be talking about Dhoulmagus!", true],
+		["<se_low>King Trode: We should go and investigate this Baccarat place and see if we can't pick up the scent.", true],
+		["<se_low>Yangus: COR BLIMEY!", true]
+	]
+}

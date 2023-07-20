@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<tag_voice_0x01001938><se_low>Morrie: <Cap><nickname>! Behind this door lies a world you cannot imagine!", true],
+		["<tag_voice_0x0100193D><se_low>Morrie: This will be a day of remembrance for you!\nPrepare to be dazzled!", true]
+	]
+}

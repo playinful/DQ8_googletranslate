@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 122, 183, 15, 0, 132, 183, 15, 0, 142, 183, 15, 0, 152, 183, 15, 0, 162, 183, 15, 0, 172, 183, 15, 0, 182, 183, 15, 0, 192, 183, 15, 0, 202, 183, 15, 0, 212, 183, 15, 0, 222, 183, 15, 0, 232, 183, 15, 0, 242, 183, 15, 0, 252, 183, 15, 0, 127, 150, 152, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x010008F2><se_def>*: Haven't you had enough, Mr. Kalderasha, sir?", true],
+		["<voice_0x010008F3><se_def>*: I'm sorry but I've got a business to run.\nThis, er, haphazard fortune-telling of yours\nis costing me a fortune in free drinks!", true],
+		["<voice_0x010008F4><se_low>Kalderasha: WHAT!? My fortune-telling... HAPHAZARD!?\nAre you a complete fool!?", true],
+		["<voice_0x010008F5><se_low>Kalderasha: Let me tell you something for free.\nAll fortune-telling is \u2018haphazard\u2019!\nWhat do you expect!?", true],
+		["<voice_0x010008F6><se_low>Kalderasha: Anyway, so what if I saw it?\nSo what if I foretold the fire?\nIf I'd tried to stop it, then what!?", true],
+		["<voice_0x010008F7><se_low>Kalderasha: It would only have led to another disaster,\nthat's what!", true],
+		["<voice_0x010008F8><se_def>*: I'm sorry, Mr. Kalderasha, sir.\nI don't follow...", true],
+		["<voice_0x010008F9><se_def>*: If you're saying you knew about the fire, shouldn't you at least have warned Master Rylus?", true],
+		["<voice_0x010008FA><se_low>Kalderasha: Yes... Poor Rylus...\nHow many times I argued with the old man...\nI cannot believe he is gone...", true],
+		["<voice_0x010008FB><se_low>Kalderasha: What!? What is it?", true],
+		["<voice_0x010008FC><se_low>Kalderasha: Hmm!? ...You!\nCome, show your face to the Great Kalderasha!\nYes! Yeeesss!", true],
+		["<voice_0x010008FD><se_def>*: Q-Quick, quick!\nEveryone come quick!\nThere's a monster in town!", true],
+		["<voice_0x010008FE><se_low>*: What!?", true],
+		["<voice_0x010008FF><se_def>*: Just come and see!\nThe whole town's gone crazy!", true],
+		["", false]
+	]
+}

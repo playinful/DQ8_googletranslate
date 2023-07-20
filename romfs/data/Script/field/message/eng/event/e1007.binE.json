@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 191, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E64><se_low>King Trode: Hm? Is that a castle?", true],
+		["<voice_0x01000E65><se_low>King Trode: Let's see... If my memory serves me correctly...", true],
+		["<voice_0x01000E66><se_low>King Trode: This must be... Yes!\nIt's the Kingdom of Argonia!", true],
+		["<voice_0x01000E67><se_low>King Trode: My daughter is due to marry the Prince of\nthis realm.", true],
+		["<voice_0x01000E68><se_low>King Trode: Well, well, well...Argonia indeed. That means you'll undoubtedly meet King Clavius and Prince Charmles when you go to collect the magic mirror.", true],
+		["<voice_0x01000E69><se_low>King Trode: And when that happens, you must keep the current condition of the Princess and I absolutely secret!", true],
+		["<voice_0x01000E6A><se_low>King Trode: If anyone enquires as to the purpose of your travels, tell them you are hunting the villain known as Dhoulmagus and nothing more.", true],
+		["<voice_0x01000E6B><se_low>King Trode: In any case, there's no way the Princess and I can enter the kingdom looking as we do.", true],
+		["<voice_0x01000E6C><se_low>King Trode: We have Dhoulmagus's treachery to thank\nfor that.", true],
+		["<voice_0x01000E6D><se_low>King Trode: All the more reason to find him and put an end to his schemes as quickly as possible.", true],
+		["<voice_0x01000E6E><se_low>King Trode: I'm not about to let Dhoulmagus's hellish curse cheat my daughter of a match made in heaven!", true]
+	]
+}

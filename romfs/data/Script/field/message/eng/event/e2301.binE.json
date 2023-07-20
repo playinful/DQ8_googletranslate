@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010015D6><se_high>Jessica: Everyone! This is it! This is the place I saw!", true],
+		["<voice_0x010015D7><se_high>Jessica: Come on, then.\nThe crystal ball should be in here.", true],
+		["<voice_0x010015D8><se_high>Red: S'pose there's nuffin' for it then. In we go...", true],
+		["<voice_0x010015D9>*: .........", true]
+	]
+}

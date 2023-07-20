@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 46, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 188, 2, 0, 0, 32, 3, 0, 0, 33, 3, 0, 0, 132, 3, 0, 0, 133, 3, 0, 0, 232, 3, 0, 0, 233, 3, 0, 0, 76, 4, 0, 0, 176, 4, 0, 0, 177, 4, 0, 0, 20, 5, 0, 0, 21, 5, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: It's funny 'ow the Godbird's nest is 'ere in this world, even though she ain't 'ere 'erself.", true],
+		["<se_low>Yangus: It ain't funny 'ow knackerin' it is to climb up 'ere, though.", true],
+		["<se_high>Jessica: Now that we're able to fly freely, we can go anywhere. Even places like this that we couldn't reach before.", true],
+		["<se_high>Jessica: I wonder if there are other remote and inaccessible places out there? We should try to find them! We might discover something new!", true],
+		["<se_def>Angelo: The Godbird's soulstone must be a dream come true for a detour-lover like you, <hero>! But this is going a bit far even for you!", true],
+		["<se_def>Angelo: Not all of us are born wanderers, you know! Spare a thought for us folk who aren't quite as partial to scaling great heights as you are!", true],
+		["<se_def>Angelo: If we're allowing ourselves to be sidetracked, how about sidetracking in the direction of a casino? I mean, how's a man supposed to resist those bingo healslimes?", true],
+		["<se_low>Yangus: This mountain's pretty tall, eh? Maybe Rhapthorne's floatin' castle'll bump into it!?", true],
+		["<se_low>Yangus: That'd bring 'im crashin' down to earth!\nAn' it'd save us a bit o' trouble wiv all that flyin' malarkey, an' all!", true],
+		["<se_high>Jessica: Why did we use a precious gift like the Godbird's soulstone to come to a place like this!?", true],
+		["<se_high>Jessica: Don't we have more important work to do?\nYou know, like getting to the floating castle and defeating Rhapthorne?", true],
+		["<se_def>Angelo: The climb up to the nest is hardly what you'd call a gentle stroll.", true],
+		["<se_def>Angelo: Why have you dragged us all the way up here, anyway!? We're not mountaineers, you know!", true],
+		["<se_low>Yangus: This mountain's pretty tall, eh? Maybe Rhapthorne'll bump into it one day when 'e's floatin' past!?", true],
+		["<se_high>Jessica: Why did we use a precious gift like the Godbird's soulstone to come to a place like this!?", true],
+		["<se_high>Jessica: Listen. We've got more important things to do.\nWe need to use Empyrea's power to defeat Rhapthorne in his new form! Remember?", true],
+		["<se_def>Angelo: The climb up to the nest is hardly what you'd call a gentle stroll.", true],
+		["<se_def>Angelo: Why have you dragged us all the way up here, anyway!? We're not mountaineers, you know!", true],
+		["<se_high>Red: So wot's really the diff'rence between the two\nworlds then, eh? Just the colours? Or lack of,\nI should say.", true],
+		["<se_high>Red: Not that I'm really bothered, mind.\nJust tryin' to make conversation.", true],
+		["<se_low>Morrie: If we can fly in the sky, the world is in the sweaty palm of my hands! Think of the new monsters we can meet and invite to my monstrous pit!", true],
+		["<se_high>Red: All right, wot is it, then? Wot ya got up yer sleeve? There's gotta be some reason you've brought us all 'ere, right?", true],
+		["<se_high>Red: Or are you some kinda weirdo wot likes climbin' mountains wiv no flamin' treasure up 'em!?", true],
+		["<se_low>Morrie: Si, a FANTASTICO plan! Before the final slowdown of the Rhapthorne, we build up our muscoli with a walk up the mountain!", true],
+		["<se_low>Morrie: Allora! We make it a race, ay?\nLast one to the top is a pamby-namby!", true]
+	]
+}

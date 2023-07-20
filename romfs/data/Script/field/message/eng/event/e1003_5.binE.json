@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EE9><se_def>Prince Charmles: So THIS is an Argon heart? But it's so small!", true],
+		["<voice_0x01000EEA><se_def>Prince Charmles: Looks like the Argon lizards aren't anything to worry about after all.", true],
+		["<voice_0x01000EEB><se_def>Prince Charmles: We'll have to keep hunting lizards until we find one big enough to do justice to my heroism!", true],
+		["<voice_0x01000EEC><se_high>Jessica: This from a guy who runs at the slightest hint of danger? Don't make me laugh...", true],
+		["<voice_0x01000EED><se_low>Yangus: Would ya look at that! He can barely 'old 'is own knife an' 'e still thinks 'e stands a chance!", true],
+		["<voice_0x01000EEE><se_def>Angelo: A legend in his own mind. It's as though he's forgotten who's going to be doing the actual fighting...", true]
+	]
+}

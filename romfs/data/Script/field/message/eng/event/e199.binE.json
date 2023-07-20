@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 122, 93, 30, 0, 132, 93, 30, 0, 142, 93, 30, 0, 152, 93, 30, 0, 162, 93, 30, 0, 172, 93, 30, 0, 182, 93, 30, 0, 192, 93, 30, 0, 202, 93, 30, 0, 212, 93, 30, 0, 213, 93, 30, 0, 214, 93, 30, 0, 215, 93, 30, 0, 222, 93, 30, 0, 232, 93, 30, 0, 15, 0, 0, 0],
+	"strings": [
+		["<se_low>*: Hm?\nI don't often get visitors all the way up here!", true],
+		["<se_low>*: Well, now that you're here, maybe I could ask you a little favour?", true],
+		["<se_low>*: Huh. That was unexpected!<page>*: I was sure you'd say yes. I mean, you must have plenty of time on your hands to have come all the way up here.<page>*: Still, not my place to try and talk you into it.", true],
+		["<se_low>*: Hm? Have you changed your mind about helpin' me out?", true],
+		["<se_low>*: Okay, I'm only goin' to say this once,\nso clean out your ears and get listenin'.<page>*: If you go outside and look at the view from the top of the mountain, you should be able to spot a tree with red leaves.<page>*: I had a bit of a snooze there when I was out the other day, and it seems I left my tool bag behind.<page>*: I don't expect you to do this for free of course.\nI'll be able to give you a small reward.<page>*: I'll be waitin' here in my hut for you to bring it back.\nTry not to take too long.", true],
+		["<se_low>*: Hm? Didn't you follow what I was sayin'?\nI told you I was only goin' to explain it once!<page>*: Just forget it! Never mind!<page>*: Go on! Get out of here!", true],
+		["<se_low>*: Er, I shouldn't have lost my rag like that.\nBang out of order, I was. Sorry.<page>*: Anyway, all I want you to do is bring back somethin' of mine that I left under the red tree. You can see it easily from up here on the mountain.<page>*: It won't be anythin' grand, but I will be able to give you a small reward if you help me out here.", true],
+		["<se_low>*: Ah! Have you got it? <page>*: Oh! You couldn't find it?\nDid you forget what I told you?\nIt should be under the red tree! <page>*: I'll be waitin' here in my hut for you to bring it back. Try not to take too long.", true],
+		["<se_low>*: Ah! You found it! Let's see!<page>*: Yep, this is the one!\nThis is definitely my tool bag.<page>*: Thanks! I suppose I'd better give you that reward I promised...<page>*: Hm!? Hey! You there!<page>*: That little mouse you've got there is no normal mouse!<page>*: It's your pet, is it? Right...<page>*: Here. Have this cheese as your reward.", true],
+		["<Cap><hero> places eight pieces of plain cheese in the bag.", true],
+		["Yangus places eight pieces of plain cheese in the bag.", true],
+		["Jessica places eight pieces of plain cheese in the bag.", true],
+		["Angelo places eight pieces of plain cheese in the bag.", true],
+		["<se_low>*: It may just be plain old cheese, but that mouse of yours is sure to like it.<page>*: And I could be wrong, but try givin' it some next time you've got monster trouble...<page>*: You never know what might happen!<page>*: Anyway, that's enough noise out of me. Thanks again for bringin' my bag back.", true],
+		["<se_low>*: Hm? You're still here?\nSorry? Munchie, you say?<page>*: Well, well. Now there's an interestin' name!", true]
+	]
+}

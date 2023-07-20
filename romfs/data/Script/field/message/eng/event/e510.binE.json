@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D11><se_low>King Trode: It never used to be this difficult to get a drink...", true],
+		["<voice_0x01000D12><se_low>King Trode: Another thing that wretched Dhoulmagus\nis responsible for!\nConfound him and confound this curse!", true],
+		["<voice_0x01000D13><se_low>King Trode: But it's Medea who's really suffering.\nTurned into a horse just when she was\nbetrothed to be married...", true],
+		["<voice_0x01000D14><se_low>King Trode: Oh! You're back already!\nThat was unduly expedient of you.\nSo, have you found out where Dhoulmagus is?", true],
+		["<voice_0x01000D15><se_low>King Trode: What was that!?\nI thought I heard Medea...", true]
+	]
+}

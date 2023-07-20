@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010010D2><se_high>Red: How many times 'ave I told ya to clear off, eh?\nBut you still keep comin' back, don't you,\nyou doughnut!", true],
+		["<voice_0x010010D3><se_high>Red: Ever since you've 'ooked up wiv those blokes yer travellin' wiv, you've changed.", true],
+		["<voice_0x010010D4><se_low>Yangus: Changed? How's that then?", true],
+		["<voice_0x010010D5><se_high>Red: Just look at yer face! You've lost yer oomph! There's not an 'int of the old Yangus left in ya!", true]
+	]
+}

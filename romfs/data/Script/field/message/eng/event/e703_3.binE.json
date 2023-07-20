@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001133><se_high>Carrie: Nnngh...!", true],
+		["<voice_0x01001134><se_def>Cash: Carrie!", true],
+		["<voice_0x01001135><se_def>Cash: Look at you, Carrie.\nThis is what you get when you cheat!\nYou're pathetic!", true],
+		["<voice_0x01001136><se_def>Cash: I swear, you've been like this ever since we\nwere kids. Taking things too far and getting\nus BOTH in trouble.", true],
+		["<voice_0x01001137><se_def>Cash: But I'm in a generous mood today.\nAll you have to do is beg me for help,\nand I'll bail you out. Just like always.", true],
+		["<voice_0x01001138><se_def>Cash: Come on, Carrie! I'm waiting!", true],
+		["<voice_0x01001139>Carrie: ......", true],
+		["<voice_0x0100113A><se_def>Cash: Carrie! Are you listening!?\nAnswer me!", true],
+		["<voice_0x0100113B><se_def>Cash: Watch out, Carrie! RUN!", true],
+		["<voice_0x0100113C><se_high>Carrie: Cash!? What are you doing here?\nWhat's going on?", true],
+		["<voice_0x0100113D><se_def>Cash: Nnngh...!", true],
+		["<voice_0x0100113E><se_high>Carrie: Cash...", true],
+		["<voice_0x0100113F><se_high>Carrie: Whatever, Cash. You made your bed.", true],
+		["<voice_0x01001140><se_high>Carrie: This is what you get for being a cheater.\nNow you're monster food!", true],
+		["<voice_0x01001141><se_high>Carrie: But if you cry for help like a little baby,\nI might have my men give you a hand.\nWhat do you say?", true],
+		["<voice_0x01001142>Cash: ......", true],
+		["<voice_0x01001143><se_high>Carrie: Cash! Are you listening!? Quit playing around and answer me before it's too late!", true],
+		["<voice_0x01001144><se_high>Carrie: CASH! LOOK OUT!", true],
+		["<voice_0x01001145><se_def>Cash: Carrie!? What are you doing here?", true]
+	]
+}

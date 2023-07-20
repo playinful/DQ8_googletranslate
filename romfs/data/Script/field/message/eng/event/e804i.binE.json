@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001D03><se_high>Princess Medea: ...Do I look grey to you?\n...No? Thank goodness.\nI was worried that being here\nmight affect us somehow.", true],
+		["<voice_0x01001D04><se_high>Princess Medea: At first, I thought the World of Darkness was no more than a black void, but I see now that I was wrong. It simply lacks colour.", true],
+		["<voice_0x01001D05><se_high>Princess Medea: It seems a rather melancholy place to me...but I wonder if the people who live here would find our world bright and garish.", true],
+		["<voice_0x01001D06><se_high>Princess Medea: I must admit, there is something slightly romantic about this shadowy landscape...though I certainly wouldn't want to stay forever.", true],
+		["<voice_0x01001D07><se_high>Princess Medea: I mean...it can be a little scary in the dark.", true],
+		["<voice_0x01001D08><se_high>Princess Medea: But as long as I have you by my side,\nI know I have nothing to be frightened of.", true]
+	]
+}

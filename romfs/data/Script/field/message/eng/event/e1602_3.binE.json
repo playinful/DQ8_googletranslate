@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001501><se_low>*: G'day? So what's goin' down up top then?", true],
+		["<voice_0x01001502><se_low>*: I'm goin' troppo stuck down this hole lookin' at these filthy cons all day.", true],
+		["<voice_0x01001503><se_low>*: I gotta tell ya, mate, there's some big news! The whole world's gone crazy!", true],
+		["<voice_0x01001504><se_low>*: Come on then, spit it out!\nDon't make me guess, mate!", true],
+		["<voice_0x01001505><se_low>*: Okay, but it's gonna shock you! The Lord High Priest...went an' kicked the flamin' bucket\na month ago. An' that's fair dinkum, mate!", true],
+		["<voice_0x01001506><se_low>High Priest Rolo: What!? His Holiness is dead...\nTh-That can't be!", true],
+		["<voice_0x01001507><se_low>*: Shut yer trap!\nDon't forget where you are!", true],
+		["<voice_0x01001508><se_low>High Priest Rolo: B-But what happened!?\nHow did he die?", true],
+		["<voice_0x01001509><se_low>*: Didn't he just tell you to shut it,\nya big galah!?", true],
+		["<voice_0x0100150A>High Priest Rolo: ........................", true],
+		["<voice_0x0100150B><se_low>High Priest Rolo: It can't be...", true],
+		["<voice_0x0100150C><se_low>High Priest Rolo: How could this have happened? A month ago!? His Holiness has been dead all that time!", true],
+		["<voice_0x0100150D><se_low>High Priest Rolo: A whole month...", true],
+		["<voice_0x0100150E><se_low>High Priest Rolo: It must have been just after we were\nbrought here.", true],
+		["<voice_0x0100150F><se_low>High Priest Rolo: Listen to me, <hero>...", true],
+		["<voice_0x01001510><se_low>High Priest Rolo: When I overheard the guards talking about the Lord High Priest's death, do you know who sprung to mind?", true],
+		["<voice_0x01001511><se_low>High Priest Rolo: Marcello! He had something to do with this!", true],
+		["<voice_0x01001512><se_low>High Priest Rolo: Maybe he...! No! He may be a traitor,\nbut surely he wouldn't go that far?", true],
+		["<voice_0x01001513><se_low>High Priest Rolo: We're helpless to do anything while we're trapped here on Purgatory Island.", true],
+		["<voice_0x01001514><se_low>High Priest Rolo: We have to escape from this place if we're to find out the truth. There must be a way...", true],
+		["<voice_0x01001515><se_low>High Priest Rolo: Ah! I have an idea!\nGather everyone together and I'll tell you.", true]
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 48, 167, 0, 0, 148, 167, 0, 0, 149, 167, 0, 0, 248, 167, 0, 0, 92, 168, 0, 0, 93, 168, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<se_high>*: I don't want to be made into a maid stew!\nI don't want to die here!", true],
+		["<se_high>*: Eeeek! You there! Help us!", true],
+		["<se_high>*: I can't die before I've seen my beloved son, Lorenzo, again!", true],
+		["<se_low>*: You have to help us! We'll be a troll's dinner at this rate! Can't you overpower them?", true],
+		["<se_low>*: Fee! Fie! Foe! Yum! \u266a\nJuicy humans in my tum! \u266a", true],
+		["The boss troll is so engrossed in his cooking that he doesn't notice he has company.", true]
+	]
+}

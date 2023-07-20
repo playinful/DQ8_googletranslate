@@ -1,0 +1,25 @@
+{
+	"header": [1, 0, 0, 0, 20, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 20, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000FD3><se_low>The Seer: Ah! If it isn't the people I met at the spring! Well, well! Well, well, well... Well... Let me see... Hm? Can I help you with something?", true],
+		["<voice_0x01000FD4><se_low>The Seer: What!? But the magic mirror is a royal heirloom!\nAnd you say King Clavius gave it to you!?\nWell, well! Let me examine it, then!", true],
+		["<voice_0x01000FD5><se_low>The Seer: Yes! This is it! The sun mirror!\nA quite unmistakable feel it has.\nI'll never forget the first time I touched it\nin Argonia.", true],
+		["<voice_0x01000FD6><se_low>The Seer: But...hmm... Yes... Most curious...\nIt's lost all of its magic.", true],
+		["<voice_0x01000FD7><se_low>The Seer: Oh, dear! I'm not being very clear, am I?\nYou see, this mirror that you call the magic mirror is really called the sun mirror.", true],
+		["<voice_0x01000FD8><se_low>The Seer: But now that all its magic has been lost, you can't very well call it a magic mirror any more...", true],
+		["<voice_0x01000FD9><se_low>Yangus: There was a bloke in the castle who said the same thing. That's why we're 'ere to see ya. Thought ya could give us some assistation.", true],
+		["<voice_0x01000FDA><se_def>Angelo: The scholar we spoke to in Argonia said you might know how to restore its magic.", true],
+		["<voice_0x01000FDB><se_high>Jessica: That's why we've come to see you.\nBeing so wise and everything, we thought you could tell us how to get its magic back.", true],
+		["<voice_0x01000FDC><se_low>King Trode: Quite right, old man! But we need this mirror's power! It's imperative we find a way...", true],
+		["<voice_0x01000FDD><se_low>The Seer: Hm... A way to get magic back into the mirror...? Yes...", true],
+		["<voice_0x01000FDE><se_low>The Seer: I remember hearing long ago about a spell of blinding light that was cast on the sun mirror. That's what gave it such tremendous brilliance.", true],
+		["<voice_0x01000FDF><se_low>The Seer: If the mirror has lost that magic now... Hm...", true],
+		["<voice_0x01000FE0><se_low>The Seer: Perhaps casting the same spell could restore its magical properties.", true],
+		["<voice_0x01000FE1><se_low>The Seer: The problem is...I can't remember what the spell was... A spell that casts a blinding light...\nHm, what a conundrum...", true],
+		["<voice_0x01000FE2><se_low>The Seer: Ah! Of course!\nThe sea dragon's spell!", true],
+		["<voice_0x01000FE3><se_low>The Seer: Just north of this land you will find a stone arch bridging the straits. A sailor once told me of a giant sea dragon in the waters there.", true],
+		["<voice_0x01000FE4><se_low>The Seer: He said it cast a spell on him that left him blinded for a few moments.", true],
+		["<voice_0x01000FE5><se_low>The Seer: I suppose it's possible a bright light such as that could restore the magic to the mirror.", true],
+		["<voice_0x01000FE6><se_low>The Seer: You never know, it might just work. Try using the mirror to reflect the sea dragon's spell!\nAha, good luck!", true]
+	]
+}

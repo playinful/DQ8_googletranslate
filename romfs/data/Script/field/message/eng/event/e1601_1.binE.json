@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001472><se_def>Marcello: Well, well, who have we here?\nHaven't we met somewhere before?", true],
+		["<voice_0x01001473><se_def>Angelo: I see your memory's got worse.\nHow much older than me are you, brother?", true],
+		["<voice_0x01001474><se_def>Marcello: Ah, yes! The persistent rule-breaker I had to expel from the abbey.", true],
+		["<voice_0x01001475><se_def>Marcello: ...Angelo, wasn't it?", true],
+		["<voice_0x01001476><se_def>Marcello: Ah, enough fun!\nI do hope I didn't cause any offence.", true],
+		["<voice_0x01001477><se_def>Marcello: Anyway, no time for idle chit-chat.\nI have to select men to form the\nLord High Priest's personal guard.", true],
+		["<voice_0x01001478><se_def>Marcello: The luxury of a carefree existence such as\nyours is not something I can afford.\nSo if you'll excuse me.", true],
+		["<voice_0x01001479><se_def>Marcello: Be well.\nAnd may the Goddess keep a close eye on you.", true],
+		["<voice_0x0100147A><se_def>*: It's indecent!\nHow does a nobody like him get to become master of the Lord High Priest's guards?", true],
+		["<voice_0x0100147B><se_def>*: Such an important responsibility demands\na person of repute! Someone of character,\nlike you or I.", true],
+		["<voice_0x0100147C><se_def>*: No doubt that peasant bribed His Holiness. I've heard rumours about him.", true],
+		["<voice_0x0100147D><se_def>*: It won't last. He'll never be anything more than a watchdog. He's enjoyed all the promotion he's going to get.", true],
+		["<voice_0x0100147E><se_def>*: This is as far as his money will take him.\nThe burden of his lowly origins will soon bring him crashing back down to earth.", true],
+		["<voice_0x0100147F><se_def>*: Shhh!", true]
+	]
+}

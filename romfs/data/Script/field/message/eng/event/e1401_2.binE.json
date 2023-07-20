@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013E3><se_def>*: Gojoshar! I see the horse you came with.\nIt is the most beautifullest white horse ever\nI be seeing.", true],
+		["<voice_0x010013E4><se_def>*: So I thinking... Maybe you would trade it? For that I will give you my horses two.", true],
+		["<voice_0x010013E5><se_low>King Trode: YOU BLINKERED IDIOT! You'd swap my Princess for those bedraggled mares!?", true],
+		["<voice_0x010013E6><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x010013E7><se_low>King Trode: ...I am not amused! Just who do you think Medea is, hm? I don't know...!", true],
+		["<voice_0x010013E8><se_def>*: Of course... Where your treasure is,\nthere your heart be also. Oh, well.", true],
+		["<voice_0x010013E9><se_def>*: If only I could give a horse that spiffing to my bride-to-be. That would certainly show her how much she means to me...", true]
+	]
+}

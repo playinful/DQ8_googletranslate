@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 244, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<se_low>King Trode: Despite the Lord of Darkness's resurrection, things seem remarkably similar to before.", true],
+		["<se_low>King Trode: But the monsters will start to become fiercer soon.<page>King Trode: And when they start attacking in groups, they shan't leave even a single hut standing anywhere in the world!", true],
+		["<se_low>Yangus: It's the royal 'untin' ground up 'ere, ain't it?\nI remember comin' 'ere wiv old Prince Charmless.", true],
+		["<se_low>Yangus: Not many good mem'ries from them days, mind.", true],
+		["<se_high>Jessica: Argon lizards don't like the scent of humans, right?", true],
+		["<se_high>Jessica: Does that mean they won't ever attack humans?\nYou know, no matter how much Rhapthorne stirs up the monsters?", true],
+		["<se_def>Angelo: With the monsters becoming ever more bloodthirsty, isn't it a bit dangerous living this far from civilisation?", true],
+		["<se_high>Red: Are this lot off their rockers? They don't look like they've got nuffin' by the way of proper weapons. Wot if a monster attacks, eh?", true],
+		["<se_low>Morrie: The Argon lizards, they are monsters. Fine monsters, si. But in the end, the power of Rhapthorne is gonna make them go nutty as a panettone!", true],
+		["<se_low>Morrie: These people on the montagna are in danger. We need to wipe the door with the don of the darkness, or they're gonna be toast, ay?", true]
+	]
+}

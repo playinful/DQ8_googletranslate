@@ -1,0 +1,27 @@
+{
+	"header": [1, 0, 0, 0, 22, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 22, 0, 0, 0],
+	"strings": [
+		["<voice_0x010016F1><se_low>*: Well! So this is Savella Cathedral!\nWhat a perfect place for a grand royal wedding!", true],
+		["<voice_0x010016F2><se_low>*: Excellent work, young man!\nYou did an admirable job of escorting us.\nYour duty here has now been fulfilled.", true],
+		["<voice_0x010016F3><se_low>*: You shall stay the night at the inn and return to Trodain tomorrow.", true],
+		["<voice_0x010016F4><se_high>Princess Medea: But...!?\nI thought they'd all be attending the wedding!", true],
+		["<voice_0x010016F5><se_low>*: I'm sorry, Princess...\nBut I'm afraid that won't be possible...", true],
+		["<voice_0x010016F6><se_def>Prince Charmles: Well, well!\nPleased to make your acquaintance indeed.\nI am Prince Charmles of Argonia.", true],
+		["<voice_0x010016F7><se_def>Prince Charmles: Goodness! You must be Princess Medea.\nCharmed, I'm sure!", true],
+		["<voice_0x010016F8><se_def>Prince Charmles: One look at you is enough to make me forget all the other beautiful girls I've ever met!", true],
+		["<voice_0x010016F9><se_def>Prince Charmles: I'm the luckiest man in the world to have you as my wife.", true],
+		["<voice_0x010016FA><se_low>Yangus: Blimey! Wot's wiv all the romance!?\nI didn't know you 'ad it in ya, Charmless!", true],
+		["<voice_0x010016FB><se_def>Prince Charmles: It's Charmles! Ah!\nAren't you those servants from the initiation?", true],
+		["<voice_0x010016FC><se_def>Prince Charmles: Hmph. No doubt you're here because you heard the news of my wedding. Well, I'm afraid this is as far as you can come.", true],
+		["<voice_0x010016FD><se_def>Prince Charmles: I can't possibly have commoners like you at such a grand royal affair.", true],
+		["<voice_0x010016FE><se_def>Prince Charmles: It's not as if you're aristocracy or wealthy, or, well, anything. Ha ha ha!", true],
+		["<voice_0x010016FF><se_def>Angelo: That brat is unbelievable! Can't let us in on account of our being too common, indeed!\nThe preening little snob!", true],
+		["<voice_0x01001700><se_def>Angelo: It's been a while since the initiation,\nbut he is still just as obnoxious as ever.", true],
+		["<voice_0x01001701><se_def>Angelo: And yet tomorrow he's going to be marrying the Princess... Can you believe it, <hero>!?", true],
+		["<voice_0x01001702><se_def>Angelo: Are you really going to let this happen?\nIf you ask me, it's your duty as chief of the palace guard to protect the Princess's happiness.", true],
+		["<voice_0x01001703><se_def>Angelo: Wait a minute! The ring! You still have the ring, don't you, <hero>? The one that belonged to your father!", true],
+		["<voice_0x01001704><se_def>Angelo: If you have it with you, go and show it to King Clavius!", true],
+		["<voice_0x01001705><se_def>Angelo: If he knew you were his nephew, he might just change his mind about this ridiculous marriage.", true],
+		["<voice_0x01001706><se_def>Angelo: Go and find him at the Lord High Priest's place and see what he says! It has to be worth a try!", true]
+	]
+}

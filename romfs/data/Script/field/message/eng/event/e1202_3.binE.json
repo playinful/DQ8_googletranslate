@@ -1,0 +1,21 @@
+{
+	"header": [1, 0, 0, 0, 16, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 16, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011F0><se_low>Dominico: You disgust me!", true],
+		["<voice_0x010011F1><se_low>Dominico: I didn't know you from Adam, but still I took you in. And THIS is how you repay me!?", true],
+		["<voice_0x010011F2><se_def>David: I, I didn't do anything!\nPlease believe me!\nI, I was just feeding Leopold as norm<endash>", true],
+		["<voice_0x010011F3><se_low>Dominico: WHAT!? What did you call him?", true],
+		["<voice_0x010011F4><se_low>Dominico: It's Sir Leopold!\nJust who do you think you are!?", true],
+		["<voice_0x010011F5><se_def>Sir Leopold: Woof, woof!", true],
+		["<voice_0x010011F6><se_low>Dominico: Has this imbecile upset you too, Sir Leopold?\nOf course he has!", true],
+		["<voice_0x010011F7><se_low>Dominico: Such impertinence! And as if omitting your title wasn't enough, no doubt the vile layabout's late feeding you too, hm?", true],
+		["<voice_0x010011F8><se_def>David: P-Please, Master! D-Don't be angry!\nI'm more than happy to serve Leopold<endash> Ah, ah, Sir Leopold his dinner whenever he wants it.", true],
+		["<voice_0x010011F9><se_low>Dominico: And well you should be! ...Get on with it then, you disgusting little maggot.", true],
+		["<voice_0x010011FA><se_def>David: Yes, Master! At once, Master!", true],
+		["<voice_0x010011FB><se_low>Dominico: Well, Sir Leopold, enjoy your dinner <endash>\nnow that it's FINALLY arrived. Hmph.", true],
+		["<voice_0x010011F5><se_def>Sir Leopold: Woof! Woof!", true],
+		["<voice_0x010011FC><se_low>Dominico: David! Sir Leopold is as much your master as I am! I shouldn't have to remind you that you treat him with the utmost respect! Understood!?", true],
+		["<voice_0x010011FD><se_low>Dominico: Ah, you're back! Ha ha! I, er, I apologise for my servant's unsightly display.", true],
+		["<voice_0x010011FE><se_low>Dominico: So what are you doing here? If you've come to report back, I'll, er, be waiting in my room.", true]
+	]
+}

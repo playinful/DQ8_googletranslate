@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 146, 1, 0, 0, 147, 1, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_high>*: It's been a long time since we've had visitors here in this poor lonely land.", true],
+		["<se_high>*: It used to be so lively around these parts, but now no one ever comes by.", true],
+		["<se_high>*: It's all because of those cursed thorns at Castle Trodain to the north of here. What a terrible affair.", true],
+		["<se_low>*: I heard a rumour about a magic key at Castle Trodain, so I went looking for it. I couldn't believe my eyes...", true],
+		["<se_low>*: I don't mean to interfere in your business, but I wouldn't go there if I were you. You might end up getting cursed too!", true],
+		["<se_low>*: Sorry. Did I scare you? That wasn't my intention. It's just...", true],
+		["<se_low>*: Never mind. Why don't we forget about that and do some business?", true]
+	]
+}

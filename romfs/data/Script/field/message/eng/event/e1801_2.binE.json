@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 191, 0, 0, 0, 200, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x010016CD><se_def>Angelo: Ah! It's been a while, <hero>. I came as soon as I heard the news. So it seems we'll have the honour of escorting the lovely Princess.", true],
+		["<voice_0x010016CE><se_def>Angelo: I just ran into Yangus, too.\nSame as ever!", true],
+		["<voice_0x010016CF><se_def>Angelo: I'm a busy man, as you know. So I wasn't too thrilled at first at having to drop everything and come over. But it is good to see the old gang again.", true],
+		["<voice_0x010016D0><se_def>Angelo: Anyway, are you really all right with this wedding going ahead? You don't have to stick around if it's too hard for you.", true],
+		["<voice_0x010016D1><se_def>Angelo: Just do what you have to do, my friend.\nLike I did when I left the abbey.", true],
+		["<voice_0x010016D2><se_high>*: Angelo's so wonderful!\nYou know, he looks after children who don't have anywhere else to go, don't you?<page>*: He says he wants to repay all the kindness Abbot Francisco showed him when he was all alone in the world. Isn't he just the sweetest man you ever met!?", true],
+		["<voice_0x010016D5><se_def>Angelo: Hey! No need to tell the whole world! I have a certain image to maintain with my...admirers.", true],
+		["<voice_0x010016D6><se_def>Angelo: Well then, see you in a bit, <hero>.\nI'll be down in the courtyard taking a break.\nCome and find me when you're ready.", true],
+		["<voice_0x010016D2><se_high>*: Angelo's so wonderful!\nYou know he looks after children who don't have anywhere else to go, don't you?", true],
+		["<voice_0x010016D3>*: He says he wants to repay all the kindness Abbot Francisco showed him when he was all alone in the world.", true],
+		["<voice_0x010016D4>*: Isn't he just the sweetest man you ever met!?", true],
+		["<voice_0x010016D5><se_def>Angelo: Hey! No need to tell the whole world! I have a certain image to maintain with my...admirers.", true]
+	]
+}

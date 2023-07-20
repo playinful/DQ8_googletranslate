@@ -1,0 +1,31 @@
+{
+	"header": [1, 0, 0, 0, 26, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 244, 1, 0, 0, 88, 2, 0, 0, 188, 2, 0, 0, 32, 3, 0, 0, 33, 3, 0, 0, 132, 3, 0, 0, 232, 3, 0, 0, 76, 4, 0, 0, 77, 4, 0, 0, 176, 4, 0, 0, 20, 5, 0, 0, 21, 5, 0, 0, 120, 5, 0, 0, 220, 5, 0, 0, 221, 5, 0, 0, 64, 6, 0, 0, 164, 6, 0, 0, 26, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_def>*: Where on earth is Captain Marcello going with such serious injuries?", true],
+		["<se_def>*: What on earth happened!? There's nothing left of the Holy Isle! And what's that floating castle!? And the crimson sky!?", true],
+		["<se_def>*: What are we going to do!?", true],
+		["<se_low>*: The earthquake left a huge crater in the ground. Everyone who was in the shrine must have...", true],
+		["<se_low>*: Dear Goddess! Thank you for sparing my family!", true],
+		["<se_high>*: Our house collapsed, but at least my daughter wasn't hurt.", true],
+		["<se_high>*: I wasn't scared! I wasn't scared at all!", true],
+		["<se_high>Pumpkin: (Whine)", true],
+		["<se_def>*: Well it looks like I'll be out under the stars tonight. Oh, dear me!", true],
+		["<se_def>*: Just as I predicted! I didn't attend the ceremony, and I'm absolutely fine!", true],
+		["<se_def>*: But the shrine... Oh, what a terrible waste!", true],
+		["<se_high>*: I saw everything! There was a monster that zoomed away in a flying castle!", true],
+		["<se_high>*: I'm scared! Mum!\nDon't let the monster eat me!", true],
+		["<se_def>*: ...I don't know...", true],
+		["<se_def>*: This can only be the judgement of the Goddess. Or the work of pure evil, perhaps.", true],
+		["<se_low>*: My shop was my pride and joy. But now it's all gone. There's nothing left. Nothing! What am I going to do?", true],
+		["<se_low>*: What in the Goddess's name happened back there in the shrine!? Where did that flyin' lump of rock spring from!?", true],
+		["<se_low>*: We're done for, aren't we!? Tell me what's goin' on! Someone! Please!", true],
+		["<se_def>*: This is the end! The monster that destroyed the Goddess statue will devour us all!", true],
+		["<se_high>*: So this is what the dark silhouettes I saw in my crystal ball meant!", true],
+		["<se_high>*: But it's...it's just too terrible! No one could ever stand up to such a monstrosity.", true],
+		["<se_low>*: No! The Holy Isle!", true],
+		["<se_high>*: All we can do now is pray for those who lost their lives...", true]
+	]
+}

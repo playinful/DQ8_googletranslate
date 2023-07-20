@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<se_high>Red: Wot d'you want!?\nCome to show me your ugly mush again, 'ave ya!?", true],
+		["<se_low>Yangus: Come on, Red. Leave it out. I got the Moonshadow 'arp so I wanted to come 'ere and<endash>", true],
+		["<se_high>Red: If you've come 'ere to show off, clear off!\nI ain't got time to listen to your braggin'!", true],
+		["<se_low>Yangus: F-Fine! I'm goin' then! Bye!", true]
+	]
+}

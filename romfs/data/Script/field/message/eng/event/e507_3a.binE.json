@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013DC><se_high>Red: Oh, 'ere we go... Come to rub me nose in it,\n'ave ya? As if I don't feel like enough of a\nlemon already.", true],
+		["<voice_0x010013DD><se_high>Red: Well, go on then <endash> 'ave a good laugh.", true],
+		["<voice_0x010013DE><se_low>Yangus: Wot you on about? We got the treasure,\ndidn't we? An' you ain't even 'urt, neither.\nAll's well that ends well, innit?", true],
+		["<voice_0x010013DF><se_high>Red: Oh, don't take the 'igh road, Yangus!\nBein' beholden to the likes o' you is bad enough as it is.", true],
+		["<voice_0x010013E0><se_high>Red: Gordon Bennett, I can't 'ardly bear to look at meself in the mirror!", true]
+	]
+}

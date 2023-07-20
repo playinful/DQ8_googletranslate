@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B2D><se_low>King Trode: Ah, there you are!\nI've been waiting for you.", true],
+		["<voice_0x01000B2E><se_low>King Trode: I hope you haven't forgotten about the alchemy pot! You really should give it a try.", true],
+		["<voice_0x01000B2F><se_low>King Trode: What's that?\nYou say you don't know what to make?", true],
+		["<voice_0x01000B30><se_low>King Trode: Well, I'm sure you'll come across some recipes as we travel from place to place.", true],
+		["<voice_0x01000B31><se_low>King Trode: Why don't we have a look inside your bag...\nWell, well! You already have enough items to make some very interesting things!", true],
+		["<voice_0x01000B32><se_low>King Trode: Just try mixing some ingredients and see what you come up with. Practice makes perfect!", true],
+		["<voice_0x01000B33><se_low>King Trode: Use the Miscellaneous Menu to open the\nAlchemy Pot screen. Give it a try!", true],
+		["<voice_0x01000B34><se_low>King Trode: Well, I'm sure you'll find some recipes as we\ntravel around. Keep your eyes peeled!", true],
+		["<voice_0x01000B35><se_low>King Trode: Let's have a look inside your bag...\nHm, you don't seem to have enough items\nto make anything just yet.", true],
+		["<voice_0x01000B36><se_low>King Trode: Why don't you have another look around Peregrin Quay and see if you can find any recipes?", true],
+		["<voice_0x01000B37><se_low>King Trode: Well, go on, then!\nLook around and see what you can find.", true],
+		["<voice_0x01000B38><se_low>King Trode: Ah, I see you've returned!", true],
+		["<voice_0x01000B39><se_low>King Trode: Well? If the look on your face is anything to\ngo by, you seem to have found a recipe for the alchemy pot.", true],
+		["<voice_0x01000B3A><se_low>King Trode: That means you can get started right away!\nGive it a try! Practice makes perfect!", true],
+		["<voice_0x01000B33><se_low>King Trode: Use the Miscellaneous Menu to open the\nalchemy pot screen. Give it a try!", true],
+		["<voice_0x01000B3B><se_low>King Trode: Still short of recipes, eh?", true],
+		["<voice_0x01000B3C><se_low>King Trode: You can't just ignore it, you know. It's far too important. You have to master it, otherwise we'll have a hard time later on.", true],
+		["<voice_0x01000B3D><se_low>King Trode: So go back to Peregrin Quay and have another look around.", true],
+		["<voice_0x01000B3E><se_low>King Trode: Chin up! Don't despair!\nNow get to it!", true]
+	]
+}

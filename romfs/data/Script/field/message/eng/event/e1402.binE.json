@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013EA><se_high>*: (W-Who are those people!?\nTheir clothes are so colourful!\nAre they friends of Empyrea?)", true],
+		["<voice_0x010013EB><se_def>*: (No, no! Look at them! Apart from their bright clothes, they're nothing like Empyrea.)", true],
+		["<voice_0x010013EC><se_def>*: (...I think they look like humans! Yes.\nThey look strange, but they're still humans!)", true],
+		["<voice_0x010013ED><se_high>*: (Humans!? But I thought Empyrea is the only one who can look so colourful...)", true],
+		["<voice_0x010013EE><se_def>*: (Now, now! Stay calm!\nThey're not dangerous, so don't get carried away.\nCall the Chief!)", true],
+		["<voice_0x010013EF><se_high>*: O-Okay! Spiffing!", true],
+		["<voice_0x010013F0><se_low>Chief: Ah... So this is what all the fuss was about...", true],
+		["<voice_0x010013F1><se_low>Chief: If I'm not mistaken, you must have come through the Dark Eye. You are dwellers from the World of Light, no?", true],
+		["<voice_0x010013F2><se_low>Chief: Just as I thought. Then it must be the will of the Goddess that brings you to us.", true],
+		["<voice_0x010013F3><se_low>Chief: Well...\nThere is something I wish to discuss with you.\nPerhaps you would visit me in my home later.", true],
+		["<voice_0x010013F4><se_low>Chief: If you'll just promise me that, you can take your time and look around the village as much as\nyou like.", true],
+		["<voice_0x010013F5><se_low>Chief: I will be waiting, then. My home is the largest dwelling here, so you'll know where to find me.", true],
+		["<voice_0x010013F6><se_low>Chief: Flock of Empycchu! Let us go back to our work and carry on as normal! Do not forget to be kind to strangers!", true],
+		["<voice_0x010013F7><se_low>Chief: Please! There is no need to hide it!\nIt is quite clear from your vivid appearance.", true],
+		["<voice_0x010013F8><se_low>Chief: Let me ask you again.\nAre you dwellers from the World of Light?", true]
+	]
+}

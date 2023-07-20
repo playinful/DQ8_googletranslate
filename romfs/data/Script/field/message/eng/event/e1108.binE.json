@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E5D><se_def>*: When you all set off so bravely,\nwe decided it was time we did the same...", true],
+		["<voice_0x01000E5E><se_def>*: So, perhaps you could fill us in?", true],
+		["<voice_0x01000E5F><se_def>*: ...Hm, I see.\nThe dark aura coming out of the ruins is some kind of barrier set up by Dhoulmagus, is it?", true],
+		["<voice_0x01000E60><se_def>*: So we have to break through that before\nwe can fight him, then. But how...?\nHow do you break through darkness...?", true],
+		["<voice_0x01000E61><se_def>*: Ah, wait a minute!\nHow about the magic mirror of Argonia?\nPeople say that can dispel the dark.", true],
+		["<voice_0x01000E62><se_def>*: You never know, it might do the trick.", true],
+		["<voice_0x01000E63><se_def>*: If I remember rightly, Argonia's off to the south-east of Baccarat, isn't it?", true]
+	]
+}

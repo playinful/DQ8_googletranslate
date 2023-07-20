@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 208, 7, 0, 0, 218, 7, 0, 0, 228, 7, 0, 0, 184, 11, 0, 0, 194, 11, 0, 0, 204, 11, 0, 0, 160, 15, 0, 0, 170, 15, 0, 0, 180, 15, 0, 0, 4, 16, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012D1><se_low>King Trode: I shouldn't have to p-put up with being in\na f-freezing place like this!\nIt's all D-Dhoulmagus's fault!", true],
+		["<voice_0x010012D2><se_low>King Trode: Oh, but he's d-dead now. So I suppose it's that L-Leo-what's-his-name's fault. I don't know!\nA d-dog of all things!", true],
+		["<voice_0x010012D3><se_low>King Trode: Brrrr... Brrrr...", true],
+		["<voice_0x010012D4><se_low>Yangus: Oh, stop yer whingin', Grandad! It ain't as if we've got a sweat on, y'know! Just get on wiv it!", true],
+		["<voice_0x010012D5><se_high>Jessica: Oh, please! Give it a rest! Complaining the whole time won't make it any warmer, you know!", true],
+		["<voice_0x010012D6><se_def>Angelo: For goodness' sake!\nYou're not the only one who's cold, you know!", true],
+		["<voice_0x010012DC><se_low>King Trode: I beg your pardon! How uncalled for!\nI don't see why I shouldn't be able to say whatever I p-please!", true],
+		["<voice_0x010012DD><se_low>King Trode: You've no right to talk to me like that!\nNo right at all!", true],
+		["<voice_0x010012DE><se_low>King Trode: I'm absolutely livid! Livid, I tell you!\nI'm going on ahead!", true],
+		["<voice_0x010012DF><se_low>King Trode: Why are you looking at me like that!? Spit it out! Have you got some kind of problem with me, boy!?", true],
+		["<voice_0x010012E0><se_low>King Trode: Is that all you've got to say for yourself!? Well! Your silence speaks volumes!", true],
+		["<voice_0x010012E1><se_low>King Trode: I don't know, just looking at you at the moment makes my blood boil! I'm going on ahead!", true],
+		["<voice_0x010012DB><se_low>Morrie: Si, Don Toad, I understand your feelings.\nBut we are all in the same boats here.\nKeep your chattering teeth to yourself, ay?", true]
+	]
+}

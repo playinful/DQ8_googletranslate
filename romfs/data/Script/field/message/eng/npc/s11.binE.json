@@ -1,0 +1,29 @@
+{
+	"header": [1, 0, 0, 0, 24, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 246, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 90, 2, 0, 0, 91, 2, 0, 0, 92, 2, 0, 0, 32, 3, 0, 0, 33, 3, 0, 0, 132, 3, 0, 0, 133, 3, 0, 0, 134, 3, 0, 0, 24, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_low>Yangus: I shoulda known a bird wouldn't get a story like ours, guv.", true],
+		["<se_low>Yangus: Still, no skin off my nose.", true],
+		["<se_def>*: Imagine the effort it must have taken to go from rafts and the like to enormous vessels like this. It's absolutely fascinating!", true],
+		["<se_def>*: Listen to me going on! I often end up musing about civilisation when I'm on a boat. Must be the sea air!", true],
+		["<se_def>*: Do I go straight on to Maella Abbey for the straight life, or do I go down, down to good ol' Pickham town!?", true],
+		["<se_def>*: I s'pose this is like a crossroads in me life, really. Decisions, decisions!", true],
+		["<se_low>*: Cleared up nice today, eh? This is boat travel at its best!", true],
+		["<se_low>*: It's days like these that make me think how the life of a sailor ain't half bad!", true],
+		["<se_def>*: Eh... That girl over there looking out at the sea... Is it really Miss Jessica from Alexandria!?", true],
+		["<se_def>*: I, I thought so! What a turn up for the books that is! She's every sailor's dream! I never thought I'd get to see her up close!", true],
+		["<se_def>*: N-No, course not! What would a lady like her be doing on a ship like this!?", true],
+		["<se_high>Jessica: Oh, hi, <hero>. Or should I call you \u2018guv\u2019!?", true],
+		["<se_high>Jessica: Sorry, just joking! That kind of thing isn't really my style.", true],
+		["<se_high>Jessica: I was just looking out across the sea and thinking about Dhoulmagus.", true],
+		["<se_high>Jessica: I wonder why he went over to the southern continent.", true],
+		["<se_high>Jessica: And I wonder what will be waiting for us when we get there... It makes me nervous just thinking about it.", true],
+		["<se_def>*: That horse tethered up over there is a real beauty. I don't think I've ever seen such a fine beast.", true],
+		["<se_def>*: The more I look at her, the more elegant she seems...", true],
+		["<se_def>*: I'm at a loss!<page>*: That monster-like creature's gone and made himself comfortable in my room! Doesn't a captain command ANY respect nowadays!?", true],
+		["<se_def>*: I've asked him over and over again to leave, but he just says that someone more important than me needs the use of it.", true],
+		["<se_def>*: He's gone and strewn his luggage all over the place as well! The cheek of it!", true]
+	]
+}

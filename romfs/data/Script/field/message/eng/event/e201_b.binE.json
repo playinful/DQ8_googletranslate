@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010009E5><se_low>*: What on earth are you two rascals up to now? Stop it at once!", true],
+		["<voice_0x010009E6><se_low>*: Where are your manners!?\nThat's no way to welcome travellers!", true],
+		["<voice_0x010009E7><se_high>Bangerz: Ow!", true],
+		["<voice_0x010009E8><se_high>Mash: Ow!", true],
+		["<voice_0x010009E9><se_low>*: Didn't Miss Jessica ask you to run an errand for her? And here you are playing around!", true],
+		["<voice_0x010009EA><se_high>Bangerz: Uh! I forgot!", true],
+		["<voice_0x010009EB><se_low>*: You'd better run along before Jessica\nfinds out!", true],
+		["<voice_0x010009EC><se_high>Bangerz: Yikes!", true],
+		["<voice_0x010009ED><se_low>*: I'm so sorry.\nThey don't mean any harm.", true],
+		["<voice_0x010009EE><se_low>*: It's just that our village has been through a lot lately. Ask around for yourselves. You'll see.", true],
+		["<voice_0x010009EF><se_low>*: There's nothing wrong with the place, mind. It's a lovely village, really.\nMake yourselves at home.", true]
+	]
+}

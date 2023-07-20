@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 191, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C78><se_high>Emma: ...Oh!", true],
+		["<voice_0x01000C79><se_high>Emma: Did you meet with His Majesty in the royal suite!?", true],
+		["<voice_0x01000C7A><se_high>Emma: I must explain! The King is refusing to speak with anyone at present. Please forgive him if he caused offence.", true],
+		["<voice_0x01000C7B><se_high>Emma: You see, he's never been quite the same since Queen Sasha died two years ago.", true],
+		["<voice_0x01000C7C><se_high>Emma: If only it were possible to meet with those who've passed away... It would mean the\nworld to the King if he could see his Queen\nonce more.", true],
+		["<voice_0x01000C7D><se_high>Emma: ...You know, my grandmother used to tell\nme lots of stories when I was small.\nLots of very strange stories.", true],
+		["<voice_0x01000C7E><se_high>Emma: I'm sure there was one about a way to make\nany wish come true... It's no good, though.\nI just can't remember it.", true],
+		["<voice_0x01000C7F><se_high>Emma: I'm sure she'd be happy to tell me if I went to\nsee her, but I'm so busy with work here at\nthe castle...", true],
+		["<voice_0x01000C80><se_high>Emma: I'm afraid I must ask you a favour.", true],
+		["<voice_0x01000C81><se_high>Emma: I'd like you to go and see my grandmother. She lives in a house west of here, next to a bridge.", true],
+		["<voice_0x01000C82><se_high>Emma: Could you ask her to tell you the old story about how to make wishes come true?", true],
+		["<voice_0x01000C83><se_high>Emma: Maybe it's just a fairy tale, but if there's any chance it might be true, then I have to try and help the King.", true],
+		["<voice_0x01000C84><se_high>Emma: I wish I could go and ask her myself,\nbut there's so much to do here at the castle.\nAnd I... I can't leave him on his own...", true],
+		["<voice_0x01000C85><se_high>Emma: I'm really counting on your help.\nMy grandmother lives west of Ascantha,\nin a house next to a bridge.", true],
+		["<voice_0x01000C86><se_high>Emma: I pray at church every day that the King will be happy again. Please...help me to help him...", true]
+	]
+}

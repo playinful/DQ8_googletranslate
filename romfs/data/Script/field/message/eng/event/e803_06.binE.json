@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C78><se_high>Princess Medea: I can't believe it!", true],
+		["<voice_0x01001C79><se_high>Princess Medea: ...After everything you did, <hero>, after defeating Dhoulmagus, I'm still cursed?", true],
+		["<voice_0x01001C7A><se_high>Princess Medea: So what will we do now?", true],
+		["<voice_0x01001C7B>Princess Medea: .........", true],
+		["<voice_0x01001C7C><se_high>Princess Medea: I heard that Jessica disappeared.\nDo you have any idea where she went?\nI hope she's all right.", true],
+		["<voice_0x01001C7D>Princess Medea: .........", true]
+	]
+}

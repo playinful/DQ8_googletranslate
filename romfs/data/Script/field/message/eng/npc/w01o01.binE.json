@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 44, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 146, 1, 0, 0, 147, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 246, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 90, 2, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_high>*: The Princess rescued all of the monsters here from hunger, hurt and hardship!", true],
+		["<se_high>*: Can you believe it!? She helps us even though we're monsters! The girl's a mini miracle!", true],
+		["<se_def>*: I want to be of some use to the Princess, but that means leaving her side to search for medals.", true],
+		["<se_def>*: It's just too painful! I don't know if I could bear to spend even one day away from her!", true],
+		["<se_def>*: So I've decided to try serenading her instead. Maybe my voice will make her happy and I won't have to leave. Doremini! \u266a", true],
+		["<se_high>*: Aaaaah. It's been a long day. Sleep time...", true],
+		["<se_def>*: I tried seranading the Princess with heavy-medal music, but her maid got angry and said it sounded like I was strangling a cat!", true],
+		["<se_def>*: I suppose I was partly in the wrong for singing when the King was asleep, but there was no need to be quite so harsh.", true],
+		["<se_def>*: I'm sure the Princess would have asked me to stop in a much more gracious way...", true],
+		["<se_def>*: That monster of a maid isn't a patch on her.", true],
+		["<se_def>*: It seems I must admit defeat when it comes to making the Princess happy.", true],
+		["<se_def>*: My songs could never make her smile as much as you just did...", true],
+		["<se_def>*: But I mustn't fret! The main thing is that she's happy. It doesn't matter to me who made her that way.", true],
+		["<se_def>*: It's funny, but that maid who serves the King hasn't been shouting at me lately. She seems a lot happier all of a sudden...", true],
+		["<se_def>*: She was probably just a bit tense before, what with the King's ill health and everything.", true],
+		["<se_def>*: I suppose I was a bit unfair when I called her a monster. She's not all that bad really.", true]
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010018DB><se_high>Jessica: Great Alexandra...grant us your blessing,\nand watch over us until the end of our days.", true],
+		["<voice_0x010018DC><se_high>Jessica: I can't believe how much has happened since I first met you and the others here.", true],
+		["<voice_0x010018DD><se_high>Jessica: You know, I really wasn't sure about you at first.\nI thought you were a bit of a pushover,\nalways doing what other people told you.", true],
+		["<voice_0x010018DE><se_high>Jessica: But then when you saved me from Rhapthorne's curse, I started to see you in a different light.", true],
+		["<voice_0x010018DF><se_high>Jessica: Before I knew it, I felt like I could rely on you like I used to rely on Alistair.", true],
+		["<voice_0x010018E0><se_high>Jessica: And the longer we spent together, the more my feelings grew...until I realised I'd fallen for you.", true],
+		["<voice_0x010018E1><se_high>Jessica: Ha ha, it all seems like a lifetime ago already.\nJust too much has happened.", true],
+		["<voice_0x010018E2><se_high>Jessica: Anyway, we should be getting back to the house. To OUR house.", true],
+		["<voice_0x010018E3><se_high>Jessica: I am so happy right now.", true],
+		["<voice_0x010018E4><se_high>Jessica: Just think...", true],
+		["<voice_0x010018E5><se_high>Jessica: ...from now on, I can come to you for everything. Right...hubby?", true]
+	]
+}

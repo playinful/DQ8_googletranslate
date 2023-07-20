@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<se_def>*: Huh? Ya wanna go round back?\nGot some business to do, eh?", true],
+		["<se_def>*: Be my guest!", true],
+		["<se_def>*: Heh heh! Straight down to business eh, Yangus!? I'm sure Dodgy Dave'll be 'appy to see\n'is best customer back again!", true],
+		["<se_def>*: Go on, in ya go!", true]
+	]
+}

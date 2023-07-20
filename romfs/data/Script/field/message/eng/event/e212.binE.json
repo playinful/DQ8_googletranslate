@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 165, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B1E><se_low>King Trode: I did it! I did it!\nI finally did it!", true],
+		["<voice_0x01000B1F><se_low>King Trode: Ah, there you are, <hero>!\nPerfect timing! I've got something to show you!", true],
+		["<voice_0x01000B20><se_low>King Trode: Ta-daaa! Looks like a normal pot, doesn't it?\nBut it's actually a legendary alchemy pot!", true],
+		["<voice_0x01000B21><se_low>King Trode: ...I can see that doesn't mean much to you.\nAllow me to explain.", true],
+		["<voice_0x01000B22><se_low>King Trode: The alchemy pot is an invaluable tool for making different kinds of items!", true],
+		["<voice_0x01000B23><se_low>King Trode: It lets you mix different ingredients to create hard-to-find items, armour, and weapons.", true],
+		["<voice_0x01000B24><se_low>King Trode: After my kingdom was cursed, I thought it might come in handy and managed to spirit it out of the castle.", true],
+		["<voice_0x01000B25><se_low>King Trode: But that's not all. I spent night after night\ntrying to get it working again.\nNo, no. You can thank me later.", true],
+		["<voice_0x01000B26><se_low>King Trode: Right. Well, it's in my carriage,\nso why don't you give it a try?\nIt's surprisingly easy to use.", true],
+		["The party can now use King Trode's alchemy pot!", true],
+		["<voice_0x01000B27><se_def>*: Captain! Land ho!", true],
+		["<voice_0x01000B28><se_def>Captain: Belay the rigging and prepare to make port!", true],
+		["<voice_0x01000B29><se_def>*: Aye aye, sir!", true],
+		["<voice_0x01000B2A><se_def>Quartermaster: Helmsman!\nBring us alongside Peregrin Quay!", true]
+	]
+}

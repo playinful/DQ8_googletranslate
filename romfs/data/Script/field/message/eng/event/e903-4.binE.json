@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 208, 7, 0, 0, 218, 7, 0, 0, 228, 7, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<Cap><hero> takes the sand of serenity out of the bag.", true],
+		["<voice_0x010010AD><se_low>Baumren: ...Hm?", true],
+		["<voice_0x010010AE><se_low>Baumren: Hmmm!? Th-That powder!?\nWhere did you get that powder!?", true],
+		["<voice_0x010010AF><se_low>Baumren: What!?\nMaster Felix gave it to you?\nThis is unbelievable...", true],
+		["<voice_0x010010B0><se_low>Baumren: Of course...\nNow I finally understand...", true],
+		["<voice_0x010010B1><se_low>Baumren: I thought it was a bit strange. I just kept going round and round and round in circles.", true],
+		["<voice_0x010010B2><se_low>Baumren: You've been a great help. If you hadn't come, I might have been wandering around here forever.", true],
+		["<voice_0x010010B3><se_low>Baumren: Would you mind opening that bottle and sprinkling the powder around?", true],
+		["<Cap><hero> sprinkles the sand of serenity in the air.", true],
+		["<voice_0x010010B4><se_low>Baumren: If you see Master Felix again, I'd like you to give him a message from me.", true],
+		["<voice_0x010010B5><se_low>Baumren: Tell him that I...Baumren...owe a lifetime of happiness entirely to him.", true],
+		["<voice_0x010010B6><se_low>Baumren: Farewell, and good health on your journey.", true],
+		["<se_low>Baumren: I came out here on an errand for my master, Felix, but I seem to have lost my way.", true],
+		["<se_low>Baumren: I know it's probably a strange thing to ask,\nbut perhaps you know? Where is it I'm supposed to be going...?", true],
+		["Offer Baumren the sand of serenity?", true]
+	]
+}

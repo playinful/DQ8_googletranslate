@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001916><se_low>Kalderasha: .........\nSo, now we know how it happened.\nWhat a terrible end for poor Rylus.", true],
+		["<voice_0x01001917><se_low>King Trode: Had I only known what a fiend that jester was, I would never have let him cross the threshold!", true],
+		["<voice_0x01001918><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x01001919><se_low>King Trode: But Rylus was a careless master, I must say.", true],
+		["<voice_0x0100191A><se_low>King Trode: One must be in touch with one's servants' needs and moods. It's little wonder he met such a \u2018sticky\u2019 end. Ha ha ha! ...Ahem!", true],
+		["<voice_0x0100191B><se_low>Kalderasha: There is nothing more to see in my crystal ball today. Go.", true],
+		["<voice_0x0100191C><se_low>Kalderasha: When next you come, the Great Kalderasha will tell for you another fortune...though maybe not for free.", true]
+	]
+}

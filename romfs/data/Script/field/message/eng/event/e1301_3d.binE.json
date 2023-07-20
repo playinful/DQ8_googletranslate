@@ -1,0 +1,29 @@
+{
+	"header": [1, 0, 0, 0, 24, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 111, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 24, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012EF><se_low>Marta: Please, drink. This nook grass tea will keep you warm even in the bitter cold of this snowy land.", true],
+		["<voice_0x010012F0><se_low>King Trode: How terribly kind of you. First you save us from the avalanche, then you put us up for the night, and now you warm our innards!", true],
+		["<voice_0x010012F1><se_low>King Trode: Now that's what I call hospitality!", true],
+		["<voice_0x010012F2><se_low>Yangus: An' what's really amazin' is that you 'elped a weird old monster like 'im in the first place!", true],
+		["<voice_0x010012F3><se_low>King Trode: You loathsome lowlife! You of all people have no right to call me \u2018weird\u2019!", true],
+		["<voice_0x010012F4><se_low>Marta: It is true that his appearance is a little unusual. But when you get to my age, you learn not to judge a horse by its harness.", true],
+		["<voice_0x010012F5><se_low>Marta: And of course I would help anyone who was in trouble so far from civilisation.", true],
+		["<voice_0x010012F6><se_high>Jessica: I hope you don't mind me asking, but why do you live all the way out here on your own?", true],
+		["<voice_0x010012F7><se_low>Marta: Of course I do not mind, dear! There is an\nold ruin behind my house. My ancestors have\nlooked after it generation after generation.\nIt is a family duty.", true],
+		["<voice_0x010012F8><se_low>Marta: But that will all end with me. I have no one to follow in my footsteps when my life is finished.", true],
+		["<voice_0x010012F9><se_high>Jessica: Really? It must be pretty tough living on your own like this, duty or no duty.", true],
+		["<voice_0x010012FA><se_low>Marta: It is comfortable enough. I have lived here since I was a child, so it is not a hardship. Besides,\nto live life is not to walk through a meadow.", true],
+		["<voice_0x010012FB><se_low>Marta: And from time to time people get lost here in the mountains like you, so I am not lonely.\nAnd I always have Boris to keep me company.", true],
+		["<voice_0x010012FC><se_def>Angelo: Ah, on the subject of dogs, we had something to ask you, Marta.", true],
+		["<voice_0x010012FD><se_def>Angelo: This will sound a bit strange but we're pursuing a big black dog, and we heard that he might have been headed in this direction.", true],
+		["<voice_0x010012FE><se_def>Angelo: There's a good chance he may have come this way. Have you seen anything?", true],
+		["<voice_0x010012FF><se_low>Marta: Hm... No, I am sorry. The only dog I know about is big old Boris over there.", true],
+		["<voice_0x01001300><se_low>Marta: Sorry I cannot be of more help.\nYou should ask where there is a lot of people.", true],
+		["<voice_0x01001301><se_low>Marta: If you go down the mountain and go to the north, you will come to a town called Orkutsk. Maybe someone will know something there.", true],
+		["<voice_0x01001302><se_low>King Trode: Ah, that sounds like an excellent idea.\nRight then, chaps! There's no time to lose!", true],
+		["<voice_0x01001303><se_low>Marta: Oh-yo-yoy! If you are hasty, others will only be amused. That is an old saying here. One should not be so eager to go back out into the blizzard.", true],
+		["<voice_0x01001304><se_low>Marta: The night is coming.\nWhy don't you rest here?", true],
+		["<voice_0x01001305><se_low>Marta: I am sure the blizzard will be gone by morning, so you can leave for Orkutsk then.", true],
+		["<voice_0x01001306><se_low>King Trode: Yes, yes, wise words, my good woman. Very well! We shall rest here for the night.", true]
+	]
+}

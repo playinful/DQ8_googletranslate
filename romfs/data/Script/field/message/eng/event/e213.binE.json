@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B2B><se_low>King Trode: Well, it looks like we've arrived. I'll meet you outside town with Medea and the carriage.", true],
+		["<voice_0x01000B2C><se_low>King Trode: It wouldn't do to stir up the natives again with my extraordinary appearance...!", true]
+	]
+}

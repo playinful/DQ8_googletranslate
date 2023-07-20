@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C20><se_def>*: Uuuurgh...", true],
+		["<voice_0x01000C21><se_def>*: The...jest...errrrr...\nYou must...save...the Abbot...", true],
+		["<voice_0x01000C1B><se_def>*: Guuurgh...", true]
+	]
+}

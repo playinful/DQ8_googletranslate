@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E58><se_def>*: Surely it's too dangerous to carry on pursuing this fiend! I mean, look at what he did to Golding...", true],
+		["<voice_0x01000E59><se_def>*: Huh!? Who are you!?", true],
+		["<voice_0x01000E5A><se_def>*: Interesting... I thought there was no one on this island besides us and Golding's murderer.", true],
+		["<voice_0x01000E5B><se_def>*: Let me give you a piece of advice. Steer clear of the old ruins in the middle of the island.", true],
+		["<voice_0x01000E5C><se_def>*: Ignore me at your peril!\nYou have been warned.", true]
+	]
+}

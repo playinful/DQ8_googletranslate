@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 105, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F6A><se_high>*: Ah, bonjour, 'ansome!", true],
+		["<voice_0x01000F6B><se_high>*: Ah, bonjour, mademoiselle!", true],
+		["<voice_0x01000F6C><se_high>*: Can I interest you in ze...'ow can I say? Puff-puff? It feels soooo good!", true],
+		["<voice_0x01000F6D><se_high>*: Ah, but why not!?", true],
+		["<voice_0x01000F6E><se_high>*: Oh no... You are not...in ze mood!? Bof!", true],
+		["<voice_0x01000F6F><se_high>*: Zis way! I show you a good time!", true],
+		["<voice_0x01000F70><se_high>*: Ah, oui, just relax!\nRelax and let it all 'ang out!", true],
+		["<voice_0x01000F71><se_high>*: Oh, I 'ope I didn't scare you! But you will 'ave twice ze fun with ze eyes closed!", true],
+		["<voice_0x01000F72><se_high>*: Brace yourself! Here it comes!", true],
+		["<voice_0x01000F73><se_high>*: Puff, puff!", true],
+		["<voice_0x01000F74><se_high>*: Puff-puff! Puff-puff!", true],
+		["<Cap><leader>: .........", true],
+		["<voice_0x01000F94><se_high>*: 'Ave you ever felt a pair as warm and soft as mine? Just relax and enjoy.", true],
+		["<voice_0x01000F95><se_high>*: Voil\u00e0! Le puff-puff!", true],
+		["<voice_0x01000F96><se_high>*: Feels good, doesn't it? If you've got ze urge for a bit of my puff-puff, come back any time!\nAu revoir, ch\u00e9ri<IF_MALE><ELSE_NOT_MALE>e<ENDIF_MALE>!", true]
+	]
+}

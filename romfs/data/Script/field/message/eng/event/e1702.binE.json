@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100184E><se_low>Chen Mui: Greetings. It has been a while since we met like this, with me in human form.", true],
+		["<voice_0x0100184F><se_low>*: Chen Mui! ...What are you doin'!?\nYou can't show yourself like this!", true],
+		["<voice_0x01001850><se_low>Chen Mui: It is no longer a problem.\nHe knows everything now.\nHe has been to the Dragovian Sanctuary.", true],
+		["<voice_0x01001851><se_low>*: Oh. Well that's a relief. ...So why are you still goin' around as a mouse, then?", true],
+		["<voice_0x01001852><se_low>Chen Mui: B-Because I am! Why shouldn't I go around in any form I choose!? It's just convenient, that's all!", true],
+		["<voice_0x01001853><se_low>*: ...I see. Convenient. Because you get carried around rather than havin' to walk, eh?", true],
+		["<voice_0x01001854><se_low>Chen Mui: L-Let's just drop this! I only turned back into human form so I could thank you!", true],
+		["<voice_0x01001855><se_low>Chen Mui: You have been of great help to us.\nMy gratitude is as deep and full as the ocean.", true],
+		["<voice_0x01001856><se_low>Chen Mui: ...So, anyway...it is time I transformed back into my mouse form. Excuse me.", true]
+	]
+}

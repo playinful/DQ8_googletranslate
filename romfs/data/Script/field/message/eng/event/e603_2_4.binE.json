@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Awright, Brains!\nCan I beg a bit of info off ya again!?", true],
+		["<se_def>Brains: Ah, Yangus. How are you doing?\nDid you manage to find the ship?", true],
+		["<se_low>Yangus: Yeah! But 'ave you ever 'eard o' this thing called the Moonshadow 'arp? We need it, desp'rate like.", true],
+		["<se_def>Brains: The Moonshadow harp?\nHm, I've got a feeling there was once a\npiece of treasure in Ascantha called that.", true],
+		["<se_low>Yangus: Nice one, Brains!\nI knew you'd come up wiv the goods!\nI'd better get a move on to Ascantha then!\nSee ya!", true],
+		["<se_def>Brains: ...Er, bye then!\nAlways in a rush, eh!?", true]
+	]
+}

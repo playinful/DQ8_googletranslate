@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001383><se_low>King Trode: Hmm. That was disappointingly inconclusive. We have no idea where the sea chart is,\nfor one thing...", true],
+		["<voice_0x01001384><se_low>King Trode: Still, chin up! All we can do now is head east after that pesky hound!", true]
+	]
+}

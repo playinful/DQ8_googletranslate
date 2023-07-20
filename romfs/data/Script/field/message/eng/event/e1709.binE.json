@@ -1,0 +1,32 @@
+{
+	"header": [1, 0, 0, 0, 27, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 104, 1, 0, 0, 27, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001635><se_low><center>Whaaaaaaargh!", true],
+		["<voice_0x01001636><se_low><center>The power!", true],
+		["<voice_0x01001637><se_low><center>At last my soul has the almighty\n<center>flesh and blood it deserves!", true],
+		["<voice_0x01001638><se_low><center>The time has come...\n<center>Now for the rite of union that will\n<center>bring the two worlds together as one!", true],
+		["<voice_0x01001639><se_low><center>Come, my slaves!\n<center>Devour this vulgar world!", true],
+		["<voice_0x0100163A><center>Rhapthorne has opened the door between the\n<center>World of Light and the World of Darkness.\n<center>I was able to come through.", true],
+		["<voice_0x0100163B><center>But in my wake come dark hordes innumerable!", true],
+		["<voice_0x0100163C><center>Unchecked, his evil minions will exterminate\n<center>every living being in this world!", true],
+		["<voice_0x0100163D><center>Rhapthorne has already assumed his full\n<center>physical form. Matters have gone beyond\n<center>sealing him away now.", true],
+		["<voice_0x0100163E><center>Our only recourse is to defeat him in battle,\n<center><hero>.", true],
+		["<voice_0x0100163F><center>It is the only way to save our world\n<center>now that he has become so powerful.", true],
+		["<voice_0x01001640><center>But the chances of defeating him are slim...\n<center>You are our only hope.", true],
+		["<voice_0x01001641><center>You, <hero>, have the blood\n<center>of a chosen one in your veins...\n<center>Within you, <hero>,\n<center>there shines a glimmer of light.", true],
+		["<voice_0x01001642><center>But in his current state, Rhapthorne\n<center>is protected by a mighty shield.", true],
+		["<voice_0x01001643><center>We must first break it down,\n<center>for it renders him impervious to harm.", true],
+		["<voice_0x01001644><center>Hold out your hand, <hero>.", true],
+		["<voice_0x01001645><center>That is the echo flute.", true],
+		["<voice_0x01001646><center>We will not be able to penetrate\n<center>Rhapthorne's shield alone.\n<center>We will need help.", true],
+		["<voice_0x01001647><center>The help of the seven sages...\n<center>The brave souls who sealed\n<center>Rhapthorne away long ago.", true],
+		["<voice_0x01001648><center>I can feel them. Their will is strong.\n<center>They have returned to help us to defeat\n<center>the Lord of Darkness once and for all.", true],
+		["<voice_0x01001649><center>They have taken the form of seven\n<center>magical orbs, each containing\n<center>the power of one sage.", true],
+		["<voice_0x0100164A><center>Use the flute. It will aid you in finding them.\n<center>They are scattered around the world,\n<center>but you must bring them together.", true],
+		["<voice_0x0100164B><center>If you are near an orb when you play the flute,\n<center>it will answer you with an echo.", true],
+		["<voice_0x0100164C><center>Just as there were seven sages,\n<center>now there are seven orbs.", true],
+		["<voice_0x0100164D><center>You must gather all seven\n<center>before returning to me here.", true],
+		["<voice_0x0100164E><center>I too have something I must find.\n<center>So I must go, but I will return.", true],
+		["<voice_0x0100164F><center>There is little time, <hero>.\n<center>We must hurry!", true]
+	]
+}

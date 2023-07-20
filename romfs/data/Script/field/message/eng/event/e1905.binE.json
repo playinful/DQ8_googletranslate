@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001771><se_def>*: Are you... Are you humans?", true],
+		["<voice_0x01001772><se_def>*: Well, it doesn't matter.\nWe're dying out anyway.", true],
+		["<voice_0x01001773><se_low>Chen Mui: Tell me! What is going on?\nWhat in the world happened here?", true],
+		["<voice_0x01001774><se_def>*: Ah, Master Chen Mui.\nI see you have returned to us.", true],
+		["<voice_0x01001775><se_def>*: You have my sympathies.\nYou've arrived just in time to witness\nthe end of the Dragovian race.", true],
+		["<voice_0x01001776><se_low>Chen Mui: The end of the Dragovians?\nThings are even worse than they appear.", true],
+		["<voice_0x01001777><se_low>Chen Mui: We had better visit the other Elders.\nWe must get to the bottom of this!", true]
+	]
+}

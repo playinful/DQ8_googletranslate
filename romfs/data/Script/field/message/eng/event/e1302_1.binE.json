@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100130C><se_low>King Trode: Well, it seems we've arrived in Orkutsk at last!", true],
+		["<voice_0x0100130D><se_low>King Trode: And that nook grass really is quite marvellous!\nI wasn't a bit cold even in all that snow!", true],
+		["<voice_0x0100130E><se_low>King Trode: Now we can stay outdoors as long as we like. Excellent! Well, I'll be waiting outside the town as usual. In you go!", true]
+	]
+}

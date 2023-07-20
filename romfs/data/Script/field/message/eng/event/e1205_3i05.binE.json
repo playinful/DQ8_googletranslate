@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012A6><se_high>Rosalind: J-Jessica!? When did you get back!?", true],
+		["<voice_0x010012A7><se_high>Jessica: Just now.\nBut I've got to leave again straight away.", true],
+		["<voice_0x010012A8><se_high>Jessica: I still haven't dealt with the person responsible for Alistair's death... I'm sorry...", true],
+		["<voice_0x010012A9>Rosalind: No.......................", true],
+		["<voice_0x010012AA><se_high>Rosalind: ...That's all right. You do what you have to do.", true],
+		["<voice_0x010012AB><se_high>Rosalind: Just make sure you come back when it's all taken care of.", true],
+		["<voice_0x010012AC><se_high>Rosalind: <Cap><hero>, I have something I should like to give to you.", true],
+		["<voice_0x010012AD><se_high>Rosalind: Please, come this way...", true],
+		["<voice_0x010012AE><se_high>Rosalind: This is...", true],
+		["<voice_0x010012AF><se_high>Rosalind: This is Alistair's<endash> This was my son Alistair's armour. I want you to have it. I'm sure it will be of use to you on your travels.", true],
+		["<voice_0x010012B0><se_high>Rosalind: He wouldn't have wanted it to sit here gathering dust... He would have wanted it to be used.", true],
+		["<voice_0x010012B1><se_high>Jessica: Mum...", true],
+		["<voice_0x010012B2><se_high>Rosalind: It's what he would have wanted, Jessica.", true],
+		["<voice_0x010012B3><se_high>Jessica: Thank you.", true],
+		["<Cap><hero> receives Alistair's armour.", true]
+	]
+}

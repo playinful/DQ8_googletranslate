@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E08><se_low>*: ...Huh?", true],
+		["<voice_0x01000E09><se_low>*: Hey, you guys! This is a mole's world!\nBut I wouldn't be nothin', nothin' without\nan audience. Wanna dig my funky tune?", true],
+		["<voice_0x01000E0A><se_low>*: You dug it, baby!\nPapa's in the swing!\nAin't it funky now? Ha!", true],
+		["<voice_0x01000E0B><se_low>*: Can I hit ya one more time?", true],
+		["<voice_0x01000E0C><se_low>*: Right on!\nDig on up! Dig on down!\nYeah, sugar!", true],
+		["<voice_0x01000E0D><se_low>*: Ow! Jump back!\nYou come to steal my harp!?\nThat ain't hip!", true],
+		["<voice_0x01000E0E><se_low>*: I'm ready to get up and do my thing!\nHit me now!", true]
+	]
+}

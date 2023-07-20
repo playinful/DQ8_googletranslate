@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001014><se_def>Dhoulmagus: Gwaaaaargh! Back again!?", true],
+		["<voice_0x01001015><se_def>Dhoulmagus: You stubborn idiots! My body was just moments away from complete restoration!", true],
+		["<voice_0x01001016><se_def>Dhoulmagus: Prepare to meet your end!\nYou will never disturb me again!", true]
+	]
+}

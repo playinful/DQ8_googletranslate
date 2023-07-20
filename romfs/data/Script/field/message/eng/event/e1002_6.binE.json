@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<se_def>Prince Charmles: I say! Where do you think you're going!?", true],
+		["<se_def>Prince Charmles: The royal hunting ground is due east of Argonia. You're going in entirely the wrong direction, you incompetent fool!", true],
+		["<se_def>Prince Charmles: Halt, <leader>! You won't reach the royal hunting ground by going north from here!", true],
+		["<se_def>Prince Charmles: The royal hunting ground is to the EAST!\nNow stop this dilly-dallying and take me there at once!", true]
+	]
+}

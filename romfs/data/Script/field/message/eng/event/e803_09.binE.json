@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C8A>Princess Medea: .........", true],
+		["<voice_0x01001C8B><se_high>Princess Medea: I'm sorry.\nGive me a minute...", true],
+		["<voice_0x01001C8C><se_high>Princess Medea: I spend my days thinking about what I should talk to you about the next time we come to the spring.", true],
+		["<voice_0x01001C8D><se_high>Princess Medea: But there are so many things to share.\nSometimes I just don't know where to start...", true],
+		["<voice_0x01001C8E><se_high>Princess Medea: Travelling together is so much fun, <hero>.", true],
+		["<voice_0x01001C8F><se_high>Princess Medea: But it would be even better if I weren't a horse.", true]
+	]
+}

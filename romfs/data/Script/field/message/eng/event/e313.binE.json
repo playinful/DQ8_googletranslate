@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C0A><se_def>Angelo: Damn! Where's Marcello!?", true],
+		["<voice_0x01000C0B>Angelo: ............!?", true],
+		["<voice_0x01000C0C><se_def>Angelo: That sinister presence again...\nNo, not sinister... It's worse than that...", true],
+		["<voice_0x01000C0D><se_def>Angelo: It's pure evil... As if all the demons of hell had gathered to feast upon...", true],
+		["<voice_0x01000C0E><se_def>Angelo: ABBOT FRANCISCO!", true],
+		["<voice_0x01000C0F><se_def>Angelo: It's locked from the inside!", true],
+		["<voice_0x01000C10><se_def>Angelo: Marcello! Are you in there!?\nDamn! What's going on!?", true],
+		["<voice_0x01000C11><se_def>Angelo: It's no good! It won't budge!", true],
+		["<voice_0x01000C12><se_def>Angelo: You lot...! Did you follow me here?", true],
+		["<voice_0x01000C13><se_def>Angelo: Doesn't matter! I need your help!\nJust one last time, all right!?", true],
+		["<voice_0x01000C14><se_def>Angelo: We're going to have to do this by brute force.\nThere might just be enough of us!", true],
+		["<voice_0x01000C15><se_def>Angelo: The door's locked from the inside.\nWe've got to break it down!\nCome on, everyone together!", true],
+		["<voice_0x01000C16><se_def>Angelo: Yes!", true]
+	]
+}

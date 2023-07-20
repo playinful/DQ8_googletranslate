@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 230, 68, 12, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001D0F><se_high>Princess Medea: Isn't it wonderful that Cash and Carrie both managed to complete the trial?", true],
+		["<voice_0x01001D10><se_high>Princess Medea: Now they can work together to carry on their father's business.", true],
+		["<voice_0x01001D11><se_high>Princess Medea: They're actually very close, aren't they <endash>\nbeneath all the bickering, I mean.", true],
+		["<voice_0x01001D12><se_high>Princess Medea: We used to fight, too, do you remember?\nWhen we were little.", true],
+		["<voice_0x01001D13><se_high>Princess Medea: I always thought of you as my older brother...", true],
+		["<voice_0x01001D14><se_high>Princess Medea: But now I see you more as...a man.", true],
+		["<voice_0x01001D15><se_high>Princess Medea: I, I mean, never mind, forget I said anything. Goodnight.", true]
+	]
+}

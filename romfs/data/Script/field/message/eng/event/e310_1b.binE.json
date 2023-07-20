@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<se_high>Jessica: I couldn't sleep at all.", true],
+		["<se_high>Jessica: Oh, I hate Dhoulmagus more than I've ever hated anything or anyone in my entire life!", true],
+		["<se_high>Jessica: And what exactly is he trying to do, anyway?\nWhy is he murdering innocent people!?", true]
+	]
+}

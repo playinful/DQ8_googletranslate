@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<se_def>*: ...So that's why you're here! You're chasing after him too! Well, I suppose it's my turn to tell you our story now...", true],
+		["<se_def>*: Dhoulmagus murdered our boss, Mr. Golding.\nWe're chasing after him so that we can avenge his death.", true],
+		["<se_def>*: He went into the ruins here,\nso we followed him inside, but...", true],
+		["<se_def>*: It's pitch black in there and we couldn't see a thing. We had no choice but to withdraw.\nIt looks like we've come as far as we can.", true],
+		["<se_def>*: The darkness doesn't seem to hinder that devil at all.", true],
+		["<se_def>*: I'm sure he's still inside, but we can't get any closer to him while that dark aura remains.", true],
+		["<se_def>*: We were racking our brains trying to think of a way to pass through it and we remembered the royal mirror of Argonia...", true],
+		["<se_def>*: Apparently the Argonian royal family has\na magical mirror that can dispel darkness.\nMaybe that would do the trick.", true],
+		["<se_def>*: I doubt very much that they'd lend it to us, though. Unless they were in our debt somehow...", true]
+	]
+}

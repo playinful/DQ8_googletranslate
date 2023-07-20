@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EF2><se_def>Prince Charmles: Look! There's one!\nAn Argon lizard!\nIt's sound asleep, too!", true],
+		["<voice_0x01000EF3><se_def>Prince Charmles: Now then, <leader>, do you suppose you could lure it out somehow?", true],
+		["<voice_0x01000EF8><se_def>Prince Charmles: We could try enticing it with a salamango, I suppose, but maybe we're a bit too far away here?", true]
+	]
+}

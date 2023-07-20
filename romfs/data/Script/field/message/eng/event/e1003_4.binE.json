@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EE1><se_def>Prince Charmles: Bother! How dare it run away!? Don't these lizards realise I want to get this tiresome chore out of the way and return to the castle!?", true],
+		["<voice_0x01000EE2><se_def>Prince Charmles: Hmm, come to think of it, the Chancellor did say something about approaching them from behind so as not to frighten them off.", true],
+		["<voice_0x01000EE3><se_def>Prince Charmles: We'll never get close to them if you keep charging in like a herd of trolls.\nI'm sure they wouldn't run away if you approached them more slowly.", true],
+		["<voice_0x01000EE4><se_def>Prince Charmles: I say, <leader>! How many times do I have to tell you!? You have to approach them quietly from behind otherwise they'll run away!", true],
+		["<voice_0x01000EE5><se_def>Prince Charmles: You just don't listen, do you!? DO YOU!?", true],
+		["<voice_0x01000EE6><se_def>Prince Charmles: For the thousandth time, you MUSTN'T run up to them! Walk up slowly from behind! S-L-O-W-L-Y from behind, understand!? SLOWLY!!!", true],
+		["<voice_0x01000EE7><se_def>Prince Charmles: I had no idea commoners were quite so stupid! Will you never catch on!? Now just you listen carefully to your master's voice this time!", true],
+		["<voice_0x01000EE8><se_def>Prince Charmles: You have to CREEP up on them SILENTLY\nfrom BEHIND. What you have to NOT do\nis run up to them noisily from the front!\nUNDERSTAND!?", true]
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010010C7><se_def>*: Halt! Where do you think you're going!?", true],
+		["<voice_0x010010C8><se_def>*: You didn't really think we'd let an odd bunch of flea-bitten, ill-begotten, ne'er-do-well weirdos like you through, did you!? SCRAM!", true],
+		["<voice_0x010010C9><se_low>Yangus: An odd bunch!? Mind yer manners!\nWot's odd about us, eh!?\nCome on then, out wiv it. I dare ya!", true],
+		["<voice_0x010010CA><se_def>Angelo: I don't think there's any need for that tone.\nWe're no more weird than any other travellers.", true],
+		["<voice_0x010010CB><se_high>Jessica: I think you'd better apologise!\nWe've done nothing to deserve that little tirade!\nWe're just normal travellers.", true],
+		["<voice_0x010010CC><se_low>King Trode: How dare you!? What a nerve calling us all that before we've even uttered a word!", true],
+		["<voice_0x010010CD><se_low>King Trode: You should at least give us an explanation as to what exactly you think is so unsavoury about us!", true],
+		["<voice_0x010010CE><se_def>*: I don't care what you say, I'm not letting you through. I wasn't going to single anyone out, but look at your driver!", true],
+		["<voice_0x010010CF><se_def>*: You're the worst one!\nYou look just like a monster if you ask me!", true],
+		["<voice_0x010010D0><se_def>*: You've hardly got grounds for complaint,\ntravelling around with a man that looks like\na monster!", true],
+		["<voice_0x010010D1><se_def>*: You should be grateful you're not under arrest! Now get out of here before I change my mind!", true]
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 106, 171, 198, 0, 116, 171, 198, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100130F><se_def>*: Is...anybody...there?", true],
+		["<voice_0x01001310><se_def>*: Help me... I am too cold... I cannot move... Help...", true],
+		["<voice_0x0100130F><se_def>*: Is...anybody...there?", true],
+		["<voice_0x01001310><se_def>*: Help me... I am too cold... I cannot move... Help...", true]
+	]
+}

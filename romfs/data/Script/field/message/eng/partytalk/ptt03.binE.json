@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 88, 2, 0, 0, 188, 2, 0, 0, 189, 2, 0, 0, 32, 3, 0, 0, 33, 3, 0, 0, 132, 3, 0, 0, 232, 3, 0, 0, 233, 3, 0, 0, 76, 4, 0, 0, 176, 4, 0, 0, 20, 5, 0, 0, 120, 5, 0, 0, 220, 5, 0, 0, 64, 6, 0, 0, 65, 6, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Crikey!\nJust lookin' at this tower does me 'ead in!", true],
+		["<se_low>Yangus: It's times like these when I'm really glad to 'ave you around, guv.", true],
+		["<se_def>Angelo: The cliffs looked high enough already from the ship, didn't they? And now this!", true],
+		["<se_def>Angelo: The top of the tower must reach the clouds.", true],
+		["<se_low>Yangus: Shame we couldn't get them Kran Spinels, eh.", true],
+		["<se_low>Yangus: Don't s'pose there's much point tellin' Dominico about it, though.", true],
+		["<se_def>Angelo: Jewels are like women.", true],
+		["<se_def>Angelo: The harder they are to get, the more satisfaction they bring in the end. Half the fun is in the chase, my friend. Let's go.", true],
+		["<se_low>Yangus: Here again? Feels like we're always trudgin' up towers recently.", true],
+		["<se_low>Yangus: Yer not<endash>\n...Oh, we ain't goin' up there again, are we!?", true],
+		["<se_def>Angelo: Just looking at this tower makes me yawn.\nThere's only so much fun you can have on a see-saw.", true],
+		["<se_high>Jessica: Did you guys climb this tower while I was away?", true],
+		["<se_high>Jessica: I feel a little jealous that I missed out on the fun of exploring a new place together.", true],
+		["<se_low>Yangus: Here again? Feels like we're always trudgin' up towers recently.", true],
+		["<se_low>Yangus: Yer not<endash>\n...Oh, we ain't goin' up there again, are we!?", true],
+		["<se_def>Angelo: Just looking at this tower makes me yawn.\nThere's only so much fun you can have on a see-saw.", true],
+		["<se_high>Jessica: I've been wondering. Did the Lord of Darkness know I would pick up the sceptre beforehand?", true],
+		["<se_high>Jessica: I hope I wasn't part of his master plan.\nBut even if I was, it would just be another reason to hate him!", true],
+		["<se_low>Yangus: We've seen a lot o' buildin's on our travels,\nbut this one takes the biscuit. I 'ate it!", true],
+		["<se_def>Angelo: Did you leave something behind?\nIf not, then we don't need to be here, do we?", true],
+		["<se_high>Red: Wot's this tower all about then, eh?\nWot's wiv all the see-saws?\nYou 'opin' to 'ave a little play time?", true],
+		["<se_low>Morrie: Ah ha! The person who made this place has the mind of the bambino, ay? Va bene! We use the saw-sees to get to the top of the tower!", true],
+		["<se_high>Red: Look, I'm all in favour of 'onin' our skills before we take on the Lord o' Darkness, but...pick yer places, eh?", true],
+		["<se_low>Morrie: The high places make my heart sing! And it seems the Lord of the Darkness likes them too, ay?", true],
+		["<se_low>Morrie: Si, maybe our towers are not tall enough to reach our nemesis. But with the power of the Godbird, we have him in our grass, ay?", true]
+	]
+}

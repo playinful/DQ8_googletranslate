@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 82, 175, 198, 0, 92, 175, 198, 0, 102, 175, 198, 0, 112, 175, 198, 0, 117, 175, 198, 0, 122, 175, 198, 0, 132, 175, 198, 0, 142, 175, 198, 0, 152, 175, 198, 0, 162, 175, 198, 0, 172, 175, 198, 0, 182, 175, 198, 0, 192, 175, 198, 0, 202, 175, 198, 0, 212, 175, 198, 0, 222, 175, 198, 0, 232, 175, 198, 0, 242, 175, 198, 0, 252, 175, 198, 0, 6, 176, 198, 0, 16, 176, 198, 0, 21, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001311><se_def>*: I am Marek, the herb doctor of Orkutsk.\nI was gathering herbs here in this cave when suddenly some wolves attacked me.", true],
+		["<voice_0x01001312><se_def>Marek: I panicked and ran deep inside.\nThen I got trapped by the falling icicles\nand could not get out.", true],
+		["<voice_0x01001313><se_def>Marek: I, I am so cold...\nI have to find a way to warm up...", true],
+		["<voice_0x01001314><se_def>Marek: What is that bag you have!?", true],
+		["<voice_0x01001315><se_def>Marek: Did you get it from an old babushka\ncalled Marta?", true],
+		["<voice_0x01001316><se_def>Marek: So she asked you to bring it to me...?", true],
+		["<voice_0x01001317><se_def>Marek: Can you open the bag for me?", true],
+		["<voice_0x01001318><se_def>Marek: You must have! You got it from an old lady called Marta in the mountains, no?", true],
+		["There are some unfamiliar herbs in Marta's bag.", true],
+		["<voice_0x01001319><se_def>Marek: Nook grass! I knew it. Dobroe. This will be perfect. Normally we drink this diluted in tea, but now I must take it straight...", true],
+		["Marek swallows the nook grass neat,\nstraight out of the bag!", true],
+		["<voice_0x0100131A><se_def>Marek: Oh-yo-YOOOOOOY!!!", true],
+		["<voice_0x0100131B><se_def>Marek: Hurgh, hurgh.\nSo, nook grass must always be diluted!", true],
+		["<voice_0x0100131C><se_def>Marek: At least it was not the powdered form.\nNo one wants that up their nose!", true],
+		["<voice_0x0100131D><se_def>Marek: Anyway, now I am warm, that is for sure!\nThank you. You have saved me, my friends.", true],
+		["<voice_0x0100131E><se_def>Marek: And she saved me too. Now I believe her old saying that there is no bad without good. But how could she have known this would happen?", true],
+		["<voice_0x0100131F><se_def>Marek: If you are going back to Orkutsk,\nperhaps we could travel together?", true],
+		["<voice_0x01001320><se_def>Marek: Thank you. I am very grateful.", true],
+		["<voice_0x01001321><se_def>Marek: If the wolves attack again, we are better to have safety in numbers.", true],
+		["<voice_0x01001322><se_def>Marek: So now you have given me the bag,\nyou wash your hands of me?\nYou are even colder than this cave!", true],
+		["<voice_0x01001323><se_def>Marek: If you are going back to Orkutsk,\nperhaps we could travel together?", true]
+	]
+}

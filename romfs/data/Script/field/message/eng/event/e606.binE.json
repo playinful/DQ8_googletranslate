@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 155, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["The crown is stuck and won't budge.", true],
+		["<voice_0x01000E2F><se_low>*: (Slurp... Sluuuuuurp!)", true],
+		["<voice_0x01000E30><se_low>*: H-Help! Somebody! Anybody!?\nGet this crown off me!", true],
+		["<voice_0x01000E31><se_low>*: I'm down here! Look!\nI'm right next to your foot!", true],
+		["<voice_0x01000E32><se_low>*: I was bouncing up and down at the top of the well, but I fell in and now I can't get out! Help me!", true],
+		["<voice_0x01000E33><se_low>*: Pull that crown off me and set me free!\nYou'll have to give it some welly, though!\nIt's stuck fast!", true],
+		["<voice_0x01000E37><se_low>*: You changed your mind!\nYou're going to help me now, right!?", true],
+		["<voice_0x01000E34><se_low>*: Thank you! All you have to do is pull\nthe crown off me! No need to be gentle.\nJust tug at it really hard!", true],
+		["<voice_0x01000E36><se_low>*: That's mean... (Sluuurp!)", true],
+		["<voice_0x01000E35><se_high>*: Well done!\nHere, you have the silly crown!\nIt's your reward! (Slurp)", true],
+		["<Cap><leader> receives the slime crown and puts it in the bag.", true]
+	]
+}

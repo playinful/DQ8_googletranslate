@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100158B><se_def>*: Ah, thank you.\nYou saved us from disaster.", true],
+		["<voice_0x0100158C><se_high>*: But what are we going to do?\nIf Cash and Carrie hear about this...", true],
+		["<voice_0x0100158D><se_def>*: ...We'll have to make sure it never gets out.", true],
+		["<voice_0x0100158E><se_low>*: It's gone too far now.\nWe'll have to shut them up.", true],
+		["<voice_0x0100158F><se_high>*: Yes, we'll have to...\nbuy them off with...tokens!", true],
+		["<voice_0x01001590><se_high>*: Please! We'll give you 200 tokens if you promise not to tell Cash and Carrie about\nany of this.", true],
+		["<voice_0x01001591><se_high>*: Are you trying to get more out of me!?\nI can offer you 400, but that's it! No more!", true],
+		["<voice_0x01001592><se_high>*: I said I wouldn't give you any more.\n400 tokens is my last offer!", true],
+		["<voice_0x01001593><se_high>*: Thank you! I'll have the tokens credited to your account.", true],
+		["<Cap><leader> receives 200 casino tokens!", true],
+		["<Cap><leader> receives 400 casino tokens!", true],
+		["<voice_0x01001594><se_def>*: Then it's a promise!\nNot a word of this to anyone!", true]
+	]
+}

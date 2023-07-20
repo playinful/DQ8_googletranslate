@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 218, 161, 16, 0, 219, 161, 16, 0, 220, 161, 16, 0, 228, 161, 16, 0, 238, 161, 16, 0, 248, 161, 16, 0, 52, 162, 16, 0, 62, 162, 16, 0, 72, 162, 16, 0, 82, 162, 16, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000952><se_low>King Trode: Ah, <hero>.\nI was starting to think you'd got lost!", true],
+		["<se_low>King Trode: Now then, my boy, have you been to church to confess recently, hm?", true],
+		["<se_low>King Trode: Travelling is a dangerous business.\nAnd one fraught with...unfortunate events which one can occasionally end up rather regretting.", true],
+		["<voice_0x01000953><se_low>King Trode: Right, let's go to the waterfall cave and see if we can find that crystal ball.", true],
+		["<voice_0x01000954><se_low>King Trode: Medea and I will be right behind you.\nIf you have any trouble, feel free to consult us.", true],
+		["<voice_0x01000955><se_low>King Trode: Away we go!", true],
+		["<voice_0x01000956><se_low>King Trode: It looks like we've found it.", true],
+		["<voice_0x01000957><se_low>King Trode: Naturally I'd love to come in with you,\nbut I couldn't possibly put Medea in danger.", true],
+		["<voice_0x01000958><se_low>King Trode: I'm sure you'll do a fine job of finding the\ncrystal ball without us, <hero>.\nWe'll be waiting here.", true],
+		["<voice_0x01000959><se_low>King Trode: You be careful in there!", true]
+	]
+}

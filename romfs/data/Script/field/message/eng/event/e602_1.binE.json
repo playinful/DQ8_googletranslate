@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000DA9><se_low>King Trode: Hm, we can't get in like this.\nJessica, can you get rid of these thorns\nwith some of your hocus pocus?", true],
+		["<voice_0x01000DAA><se_high>Jessica: I guess I can give it a try.\nLet's see...", true],
+		["<voice_0x01000DAB><se_high>Jessica: There! Just don't ask me to get rid of all of them, okay!?", true],
+		["<voice_0x01000DAC><se_high>Jessica: My magic may be powerful,\nbut it's not that powerful!", true]
+	]
+}

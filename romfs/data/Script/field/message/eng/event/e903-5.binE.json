@@ -1,0 +1,23 @@
+{
+	"header": [1, 0, 0, 0, 18, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 106, 4, 0, 0, 116, 4, 0, 0, 126, 4, 0, 0, 136, 4, 0, 0, 146, 4, 0, 0, 18, 0, 0, 0],
+	"strings": [
+		["<voice_0x010010B7>Felix: ..................", true],
+		["<voice_0x010010B8>Felix: ...........................", true],
+		["<voice_0x010010B9><se_low>Felix: What ho! Finally made it back, I see.\nAnd you managed to give my old chum a leg up.", true],
+		["<voice_0x010010BA><se_low>Felix: That strange tree where you met him has been known since ancient times as the Tree of Styx.", true],
+		["<voice_0x010010BB><se_low>Felix: It's all too bally easy to lose your way around it, not realising that your innings is over.", true],
+		["<voice_0x010010BC><se_low>Felix: But now the old bean's realised what's\nhappened to him and he's safely on his way\nto the afterlife.", true],
+		["<voice_0x010010BD><se_low>Felix: You know, he...Baumren...was the first\nsabrecat ever to open up his heart to me.\nAbsolutely terrific chap!", true],
+		["<voice_0x010010BE><se_low>Felix: It's thanks to him that I've got where I am today.", true],
+		["<voice_0x010010BF><se_low>Felix: And that's precisely why I couldn't leave the job unattended to go and help the old boy meself.", true],
+		["<voice_0x010010C0><se_low>Felix: ...Hm? What am I doing?\nOf course! I haven't explained yet, eh!?", true],
+		["<voice_0x010010C1><se_low>Felix: I'm the chairman of the Great Sabrecat Trust!\nI know! Why don't I make you a member?\nIt's the least I can do after all your help!", true],
+		["<voice_0x010010C2><se_low>Felix: You have this!\nIt shows you're one of us.", true],
+		["<Cap><leader> receives a bell, proof of membership of the Great Sabrecat Trust.", true],
+		["<voice_0x010010C3><se_low>Felix: The bell is your proof of membership.\nIt'll call a nearby sabrecat if you ring it in the right place.", true],
+		["<voice_0x010010C4><se_low>Felix: Hm? What's the bell called?\nWell, it doesn't really have a name...\nI suppose that'll make it a bit of a pig to use, eh?", true],
+		["<voice_0x010010C5><se_low>Felix: Right ho!\nHow about we call it \u2018Baumren's bell\u2019, eh?\nIn memory of a good friend and a fine old gent!", true],
+		["<Cap><leader> receives Baumren's bell and puts it in the bag.", true],
+		["<voice_0x010010C6><se_low>Felix: Thanks for your help! Remember now,\nalways keep the sabrecats in your heart, what!", true]
+	]
+}

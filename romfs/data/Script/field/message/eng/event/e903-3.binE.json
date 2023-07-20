@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 17, 4, 0, 0, 18, 4, 0, 0, 26, 4, 0, 0, 27, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100109E><se_def>Tom: Ahem?\nWasn't Master Felix inside!?", true],
+		["<voice_0x0100109F><se_def>Tom: ...Whaaat!?\nMaster Felix asked you a favour!?", true],
+		["<voice_0x010010A0><se_def>Tom: He must think you're the cat's pyjamas if he\ngave you the go-ahead to ride on one of his\ngreat sabrecats!", true],
+		["<voice_0x010010A1><se_def>Tom: Grrrreat! I was right to let you in!", true],
+		["<voice_0x010010A2><se_def>Tom: I could tell you were a hip-cat! Okay!", true],
+		["<voice_0x010010A3><se_def>Tom: So are you ready to get on?", true],
+		["<voice_0x010010A4><se_def>Tom: Eh? Ah, come on! Don't be a scaredy cat, bru!", true],
+		["<voice_0x010010A5><se_def>Tom: Just be brave and everything will be fine!", true],
+		["<voice_0x010010A6><se_def>Tom: That's it! No pain, no gain!", true],
+		["<voice_0x010010A7><se_def>Tom: Oh, yeah! Looking smart, bru!", true],
+		["<voice_0x010010A8><se_def>Tom: Okay, let me tell you the basics about riding a great sabrecat.", true],
+		["<voice_0x010010A9><se_def>Tom: When you're riding one of these cats, you can go a lot quicker than you would on foot...", true],
+		["<voice_0x010010AA><se_def>Tom: But you can't go further. You can just go to all the same places faster. Some people get that wrong, so I wanted to explain.", true],
+		["<voice_0x010010AB><se_def>Tom: If you get off and accidentally lose your cat, come back and see me. I'll lend you a cat as many times as you like.", true],
+		["<voice_0x010010AC><se_def>Tom: That's it!\nYou're ready to go!\nGood luck!", true]
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C17><se_def>Angelo: What happened!?\nCome on, stay with it!\nTell me what happened!", true],
+		["<voice_0x01000C18><se_def>*: Thank...the Goddess...\nYou've...come... Help...the Abbot...uuurgh...", true],
+		["<voice_0x01000C19><se_def>Angelo: Who on earth did this!?", true],
+		["<voice_0x01000C1A><se_def>*: He's...dangerous...\nCaptain Marcello...is in trou...ble...", true],
+		["<voice_0x01000C1B><se_def>*: Urrrgh...", true],
+		["<voice_0x01000C1C><se_def>Angelo: Upstairs! Come on, let's go!\nYou're with me, right!?", true],
+		["<voice_0x01000C1D><se_def>Angelo: ...Thanks.", true],
+		["<voice_0x01000C1E><se_def>Angelo: This is no time to be fooling around!", true],
+		["<voice_0x01000C1F><se_def>Angelo: Come on!", true]
+	]
+}

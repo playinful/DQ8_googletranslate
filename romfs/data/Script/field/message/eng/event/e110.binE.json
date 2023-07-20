@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x010009D5><se_low>*: Ah! You found it! Let's see!", true],
+		["<voice_0x010009D6><se_low>*: Yep, this is the one!\nThis is definitely my tool bag.", true],
+		["<voice_0x010009D7><se_low>*: Thanks! I suppose I'd better give you that reward I promised...", true],
+		["<voice_0x010009D8><se_low>*: Hm!? Hey! You there!", true],
+		["<voice_0x010009D9><se_low>*: That little mouse you've got there is no normal mouse!", true],
+		["<voice_0x010009DA><se_low>*: It's your pet, is it? Right...", true],
+		["<voice_0x010009DB><se_low>*: Here. Have this cheese as your reward.", true],
+		["<Cap><hero> places eight pieces of plain cheese in the bag.", true],
+		["<voice_0x010009DC><se_low>*: It may just be plain old cheese, but that mouse of yours is sure to like it.", true],
+		["<voice_0x010009DD><se_low>*: And I could be wrong, but try givin' it some next time you've got yourself into a fight with some monsters...", true],
+		["<voice_0x010009DE><se_low>*: You never know what might happen!", true],
+		["<voice_0x010009DF><se_low>*: Anyway, that's enough noise out of me. Thanks again for bringin' my bag back.", true]
+	]
+}

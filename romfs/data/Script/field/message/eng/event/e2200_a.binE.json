@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<center>High Priest Rolo is filled with\n<center>remorse and repents day and night\n<center>for his past transgressions.", true],
+		["<center>One day, completely out of the blue,\n<center><hero> has a peculiar dream.", true],
+		["<center>It's a memory, really, of a day\n<center>many years earlier, when a certain\n<center>young boy met a certain young girl\n<center>for the very first time...", true],
+		["<voice_0x010014D8><se_low>King Trode: How fares my dear Medea?", true],
+		["<voice_0x010014D9><se_high>*: Oh, Your Majesty, it's been such a terrible shock to her.", true],
+		["<voice_0x010014DA><se_high>*: She's barely touched a morsel of food since it happened.", true],
+		["<voice_0x010014DB><se_low>King Trode: Oh dear, what to do, what to do...", true]
+	]
+}

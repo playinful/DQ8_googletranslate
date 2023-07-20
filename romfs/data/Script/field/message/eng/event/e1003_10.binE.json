@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EFA><se_def>Prince Charmles: Hmm... What a troublesome creature!\nWhy won't it come for the fruit, I wonder...?", true],
+		["<voice_0x01000EFB><se_def>Prince Charmles: It looks like we'll have to try throwing the salamango from a distance.\nThis just doesn't seem to be working at all.", true]
+	]
+}

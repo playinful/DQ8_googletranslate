@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<se_def>*: Halt! Don't move!", true],
+		["<se_def>*: State your business!\nYou're approaching the Dark Ruins!\nDo you not realise how dangerous it is here!?", true],
+		["<se_def>*: You're either very brave or very stupid if you do! Just coming this far's enough to chill a hero's heart!", true],
+		["<se_def>*: Wait a minute...\nYou're not Dhoulmagus's minions, are you!?", true],
+		["<se_def>*: Hey! Hold on! You can't go waving your sword at people and asking things like that!", true],
+		["<se_def>*: Anyway, judging from how he killed the boss, I'd say this Dhoulmagus is working alone.", true],
+		["<se_def>*: And even if these chaps here are his \u2018minions\u2019, they're hardly likely to admit to it, are they!?", true],
+		["<se_high>*: He's right. Let's just calm down a bit.", true],
+		["<se_high>*: If they worked for him, I doubt they'd be as brazen as to stroll up here like this.<page>*: No, they'd join him in the ruins via a sinister underground cave...or something...", true],
+		["<se_def>*: Hmm, yes... I suppose you're right.\nI'd better put my sword away then.", true],
+		["<se_def>*: Sorry for doubting you.", true]
+	]
+}

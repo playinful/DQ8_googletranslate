@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x010016DB><se_high>Jessica: Hey there, <hero>!\nLong time, no see!\nHow've you been!?", true],
+		["<voice_0x010016DC><se_high>Jessica: You look pretty well, that's for sure. But how come you haven't visited me in Alexandria?\nI've missed you!", true],
+		["<voice_0x010016DD><se_high>Jessica: You know, I was planning to go off and live on my own, but my mother was so worried I ended up settling down back at home.<page>Jessica: I guess the time I spent away from her made us both realise what's truly important to us.\nWe get on really well now!<page>Jessica: I'm not much of a replacement for my brother, but I decided to stay and look after Alexandria. With everyone's help, of course.", true],
+		["<voice_0x010016E2><se_high>Jessica: But enough of that! Have you heard!?\nApparently Yangus and Red have teamed up now and they're doing something together!<page>Jessica: Can you believe it!? Last I remember, they couldn't exchange two words without three insults! I wonder what went on between them.", true],
+		["<voice_0x010016E3><se_high>Jessica: Huh? You're on your way to pick up Princess Medea? Yeah, I guess it's time to get going.", true],
+		["<voice_0x010016E4><se_high>Jessica: Okay then, I'll be waiting for you down in the courtyard.", true],
+		["<voice_0x010016DD><se_high>Jessica: You know, I was planning to go off and live on my own, but my mother was so worried I ended up settling down back at home.", true],
+		["<voice_0x010016DE><se_high>Jessica: I guess the time I spent away from her made us both realise what's truly important to us.\nWe get on really well now!", true],
+		["<voice_0x010016DF><se_high>Jessica: I'm not much of a replacement for my brother, but I decided to stay and look after Alexandria. With everyone's help, of course.", true],
+		["<voice_0x010016E0><se_high>Jessica: But enough of that! Have you heard!?\nApparently Yangus and Red have teamed up now and they're doing something together!", true],
+		["", false],
+		["<voice_0x010016E1><se_high>Jessica: Can you believe it!? Last I remember, they couldn't exchange two words without three insults! I wonder what went on between them.", true]
+	]
+}

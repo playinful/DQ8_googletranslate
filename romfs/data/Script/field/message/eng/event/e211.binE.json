@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 104, 1, 0, 0, 114, 1, 0, 0, 124, 1, 0, 0, 144, 1, 0, 0, 154, 1, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B11><se_high>Jessica: We took care of the sea monster,\nso I got them to agree to wait for us.", true],
+		["<voice_0x01000B12><se_high>Jessica: I figured you'd like to rest and buy provisions before we set sail again.", true],
+		["<voice_0x01000B13><se_high>Jessica: I'll be waiting for you here.\nDon't take too long, now!\nWe've got work to do!", true],
+		["<voice_0x01000B14><se_high>Jessica: Actually, before we go, <most_heroic>,\nI have a favour to ask.", true],
+		["<voice_0x01000B15><se_high>Jessica: You're after Dhoulmagus just like I am, right?\nWe're fighting for the same reasons.", true],
+		["<voice_0x01000B16><se_high>Jessica: So I was thinking, why don't we do this together? I haven't been studying magic for long, but I still have a lot to offer. What do you say?", true],
+		["<voice_0x01000B17><se_high>Jessica: No, huh?\nYeah, I expected as much.\nIt's a big decision, after all.", true],
+		["<voice_0x01000B18><se_high>Jessica: But I'm sorry. Once I've made up my mind,\nI just can't let something drop.", true],
+		["<voice_0x01000B19><se_high>Jessica: It's just how I am. So I'm not asking you,\nI'm telling you, <most_heroic>.\nI'm joining your party!", true],
+		["<voice_0x01000B1A><se_high>Jessica: I've got a great feeling about this.\nThanks, guys.", true],
+		["<se_def>Jessica joins your party!", true],
+		["<voice_0x01000B1B><se_high>Jessica: Well, now that that's taken care of, let's go!", true],
+		["<voice_0x01000B1C><se_low>King Trode: Just where do you think you're going without me and my beautiful Princess!?", true],
+		["<voice_0x01000B1D><se_low>Quartermaster: All hands on deck!\nWeigh anchor!\nPrepare to set sail for Peregrin Quay!", true]
+	]
+}

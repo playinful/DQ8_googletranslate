@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x010018F7><se_def>Dhoulmagus: How am I ever going to master real spells when my every waking minute is taken up with mind<->numbing chores?", true],
+		["<voice_0x010018F8><se_def>Dhoulmagus: Hm? What's this about...?", true],
+		["<voice_0x010018F9><se_def>Dhoulmagus: A legendary sceptre,\nsealed away in Castle Trodain?", true],
+		["<voice_0x010018FA>Dhoulmagus: .........", true],
+		["<voice_0x010018FB>Dhoulmagus: .........", true],
+		["<voice_0x010018FC><se_def>Dhoulmagus: !!!", true],
+		["<voice_0x010018FD><se_def>Dhoulmagus: That's it! That's the answer! If I only had that sceptre, I could wield any magic I wanted!", true],
+		["<voice_0x010018FE><se_low>Rylus: Dhoulmagus! What are you doing?", true],
+		["<voice_0x010018FF><se_def>Dhoulmagus: Er-ah... M-Master! I, um...", true],
+		["<voice_0x01001900><se_low>Rylus: I have warned you about reading my grimoires without prior permission, have I not?", true],
+		["<voice_0x01001901><se_low>Rylus: They are not for your eyes!\nYou still have to grasp even the most\nbasic principles of magic use!", true],
+		["<voice_0x01001902><se_low>Rylus: And yet you cannot even follow that one simple rule? Bah! I'd be better off with a dog as an apprentice! At least it would obey me!", true],
+		["<voice_0x01001903><se_def>Dhoulmagus: !!!", true],
+		["<voice_0x01001904><se_low>Rylus: Where are you going?\nDhoulmagus! Come back here!", true]
+	]
+}

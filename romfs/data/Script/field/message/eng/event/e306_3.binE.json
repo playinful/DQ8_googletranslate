@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000BF3><se_low>Yangus: ...Wot's your game, eh? First ya grass on us\nfor somefin' we ain't done, and then ya come\nan' 'elp us.", true],
+		["<voice_0x01000BF4><se_def>Angelo: Sorry if I've confused you. The people here have\na bit of a trust issue with me.", true],
+		["<voice_0x01000BF5><se_def>Angelo: I couldn't stick up for you before.\nIt would have backfired.", true],
+		["<voice_0x01000BF6><se_def>Angelo: The man who interrogated you, Marcello...\nHe hates me.", true],
+		["<voice_0x01000BF7><se_def>Angelo: That's why I had to let him put you in the cells before I could help you.", true],
+		["<voice_0x01000BF8><se_low>Yangus: That's all well an' good, but ya still don't know us from Adam.", true],
+		["<voice_0x01000BF9><se_low>Yangus: Ain't you worried about us bein' friends wiv this old monster, eh? Yer just 'appy to let us go, are ya?", true],
+		["<voice_0x01000BFA><se_def>Angelo: True, I don't know anything about you.\nAnd I wasn't there when you were caught.\nBut I do know you saved the Abbot's life.", true],
+		["<voice_0x01000BFB><se_def>Angelo: Because just before you were brought to the interrogation room, the sinister feeling that's been lingering in the air went away.", true],
+		["<voice_0x01000BFC><se_def>Angelo: I must thank you for that.\nI'm not so ruthless that I'd hang you out to dry.", true],
+		["<voice_0x01000BFD><se_def>Angelo: And besides, I couldn't stand by while there was\na lady in trouble. Marcello's a rather talented inquisitor, you know.", true],
+		["<voice_0x01000BFE><se_def>Angelo: This leads outside.", true]
+	]
+}

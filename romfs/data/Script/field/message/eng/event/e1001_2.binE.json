@@ -1,0 +1,33 @@
+{
+	"header": [1, 0, 0, 0, 28, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 104, 1, 0, 0, 114, 1, 0, 0, 28, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Guv! Did you 'ear that!?\nThat bird said Dhoulmagus is inside the ruins!", true],
+		["<se_low>Yangus: Nice one!\nLooks like we've finally caught up wiv 'im!", true],
+		["<se_high>Jessica: At last!\nNow I can finally avenge Alistair's death!", true],
+		["<se_def>Angelo: Hold on a second!\nLet's not get ahead of ourselves here.\nWe don't know if they're right yet.", true],
+		["<se_low>Yangus: How'd they know about Dhoulmagus then, eh? Dunno wot that soldier bloke was on about, mind. Wot was all that about 'is boss bein' killed?", true],
+		["<se_def>Angelo: Dhoulmagus's minions indeed! The cheek!\nI draw the line at taking orders from floating jesters!", true],
+		["<se_def>Angelo: Anyway, <hero>, they said Dhoulmagus was inside the ruins.", true],
+		["<se_def>Angelo: If that's true, then I suppose it means we've caught up with him at last.", true],
+		["<se_high>Jessica: Now I finally have the chance to take avenge my brother's death...", true],
+		["<se_high>Jessica: How dare they!? How could they possibly think I'd have anything to do with that monster!?", true],
+		["<se_high>Jessica: Anyway, they said Dhoulmagus is inside the ruins, right?", true],
+		["<se_high>Jessica: Then we've finally caught up with him!\nIt's time to take my revenge at last...", true],
+		["<se_low>King Trode: How preposterous!\nWhat utter nincompoops, thinking that we're in cahoots with that dastardly Dhoulmagus!", true],
+		["<se_low>King Trode: But enough of that!\nDid you hear them, Yangus?\nThey said he's inside the ruins!", true],
+		["<se_low>Yangus: COR BLIMEY!", true],
+		["<se_low>King Trode: Oh, pull yourself together!", true],
+		["<se_low>King Trode: If they're correct, it means that Dhoulmagus is within arm's reach at last!", true],
+		["<se_high>Jessica: So Dhoulmagus is inside the ruins! Oh, Alistair...\nNow I can finally avenge your death.", true],
+		["<se_low>King Trode: Enough of that!\nDid you hear them, Angelo?\nThey said he's inside the ruins!", true],
+		["<se_def>Angelo: Are you sure you trust that motley bunch?\nI mean, we have no idea if what they said is true. We should ask them for more information.", true],
+		["<se_low>King Trode: Well! I'd have thought a bit more excitement was in order! If those chaps are right, we've finally got Dhoulmagus just where we want him!", true],
+		["<se_high>Jessica: So Dhoulmagus is inside the ruins! Oh, Alistair...\nNow I can finally avenge your death.", true],
+		["<se_low>King Trode: Enough of that!\nDid you hear them, Jessica?\nThey said he's inside the ruins!", true],
+		["<se_high>Jessica: Yeah, so they said. If they're right, that means I can finally avenge Alistair's death.", true],
+		["<se_high>Jessica: The Dark Ruins... Now we know where he's hiding, there's no way he can escape.\nHe's like a rat in a trap.", true],
+		["<se_low>King Trode: How preposterous!\nWhat utter nincompoops, thinking that we're in cahoots with that dastardly Dhoulmagus!", true],
+		["<se_low>King Trode: Enough of that!\nDid you hear them, <hero>?\nThey said he's inside the ruins!", true],
+		["<se_low>King Trode: I wonder if they're right. We should go and press them for more information.", true]
+	]
+}

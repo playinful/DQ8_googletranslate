@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001899><se_low>King Trode: Ah...there you are, my boy.\nAhem. I confess, I am privy to what you and King Clavius just discussed.", true],
+		["<voice_0x0100189A><se_low>King Trode: Now I do understand how you feel. But this is a match the two royal families have planned for many years.", true],
+		["<voice_0x0100189B><se_low>King Trode: I'm afraid you have said rather too much on this occasion. Most unlike you.", true],
+		["<voice_0x0100189C><se_low>King Trode: Never fear, however. I shall apologise to the King on your behalf. Now hurry along back to the inn.", true]
+	]
+}

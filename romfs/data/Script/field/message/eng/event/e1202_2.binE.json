@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011E5><se_high><center>Wait, brave travellers...", true],
+		["<voice_0x010011E6><se_high><center>I am Alexandra.\n<center>Many years past I lived in your world.\n<center>It was my hands that sculpted this statue.", true],
+		["<voice_0x010011E7><se_high><center>Let me tell you a tale. A forgotten moment\n<center>lost in the great ocean of history.\n<center>The story of the bloodline of the sages...", true],
+		["<voice_0x010011E8><se_high><center>I was born into the Kranbartle family,\n<center>a family descended from one of\n<center>the legendary seven sages.", true],
+		["<voice_0x010011E9><se_high><center>But my generation saw the legacy of the sages\n<center>pass to the Albert family when I married.\n<center>You see, I was the chosen heir.", true],
+		["<voice_0x010011EA><se_high><center>The blood of the sages has remained\n<center>in the Albert family ever since.", true],
+		["<voice_0x010011EB><se_high><center>But that lineage was severed by a dark and evil\n<center>power when the life of the latest chosen heir,\n<center>Alistair, was ended...", true],
+		["<voice_0x010011EC><se_high><center>Nevertheless, I am an ancestor of\n<center>the Albert family.", true],
+		["<voice_0x010011ED><se_high><center>So I will do everything I can to help\n<center>preserve the Albert family line.", true],
+		["<voice_0x010011EE><se_high><center>I want you to take the Kran Spinels\n<center>from the statue. I have no doubt they\n<center>will be of use to you.", true],
+		["<voice_0x010011EF><se_high><center>Now Jessica is the only one who\n<center>can continue the Albert family line.\n<center>I beseech you to go to her aid.\n ", true]
+	]
+}

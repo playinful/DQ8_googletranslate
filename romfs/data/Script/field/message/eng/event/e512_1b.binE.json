@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100191F><se_low>Morrie: Wait! Don't go!\nIf I have upset you, I sorry!\nScusi, scusi!", true],
+		["<voice_0x01001920><se_low>Morrie: I hear it on the wind.\nThere is someone magnifico come here soon.", true],
+		["<tag_voice_0x01001921><se_low>Morrie: So, <nickname>!\nYou are a traveller, si?", true],
+		["<tag_voice_0x01001926><se_low>Morrie: Then I ask you one favore!\nHere, take these.", true],
+		["The party acquires 3 memos.", true],
+		["<voice_0x0100192B><se_low>Morrie: When we have finished talking,\nyou take the look at these memos, ay!", true],
+		["<voice_0x0100192C><se_low>Morrie: Each one has written on the informazione of the notorious monsters.", true],
+		["<voice_0x0100192D><se_low>Morrie: Find them!\nFight them!\nSend them to me!", true],
+		["<tag_voice_0x0100192E><se_low>Morrie: It is not to worry, <nickname>.\nFor you, it will be a slice of cake!\nI see it in your eyes!", true],
+		["<tag_voice_0x01001933><se_low>Morrie: Buona fortuna and good hunting!", true]
+	]
+}

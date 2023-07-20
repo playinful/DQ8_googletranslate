@@ -1,0 +1,32 @@
+{
+	"header": [1, 0, 0, 0, 27, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 145, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 211, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 27, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B4F><se_def>*: Not now!\nI've almost got this game in the bag!", true],
+		["<voice_0x01000B50><se_low>*: What!?", true],
+		["<voice_0x01000B51><se_low>*: You little runt!\nYou must be cheating!", true],
+		["<voice_0x01000B52><se_low>Yangus: Take it easy!\nNo need to get excited!\nI know it 'urts when ya lose an' all, but...", true],
+		["<voice_0x01000B53><se_low>*: What!?\n...Oh, I get it!", true],
+		["<voice_0x01000B54><se_low>*: You're with him!", true],
+		["<voice_0x01000B55><se_low>Yangus: Oi! You wanna watch it!\nDon't go throwin' accusions about!\nYou don't wanna get on my wrong side!", true],
+		["<voice_0x01000B56><se_high>Jessica: Take it easy, you guys!\nWhat are you, a couple of cavemen?", true],
+		["<voice_0x01000B57><se_def>*: What are you doing!?", true],
+		["<voice_0x01000B58><se_def>*: Think you'll get away with that just cos you're\na lady?", true],
+		["<voice_0x01000B59><se_low>Yangus: Wot's wiv you two, eh!?\nTwo blokes gangin' up on one bird!\nBehave!", true],
+		["<voice_0x01000B5A><se_low>*: That's it, you oaf!\nThose are my mates!", true],
+		["<voice_0x01000B5B><se_def>*: So who are you?\nYou don't look like Simpletons to me...", true],
+		["<voice_0x01000B5C><se_def>*: Anyway, I owe you one.\nThanks to you, I managed to pull that little caper off without being caught.", true],
+		["<voice_0x01000B5D><se_def>*: He was such an easy mark,\nI got a bit carried away.", true],
+		["<voice_0x01000B5E><se_def>*: Still, can't hang around.\nDon't want any more trouble!", true],
+		["<voice_0x01000B5F><se_high>Jessica: ...What!?", true],
+		["<voice_0x01000B60><se_def>*: I hope you weren't hurt by my little jape?\nAre you all right?", true],
+		["<voice_0x01000B61><se_high>Jessica: You're out of luck! I'm fine!\nApart from you leering at me!", true],
+		["<voice_0x01000B62><se_def>*: By way of thanks for helping me,\nand as a memento of our...\u2018encounter\u2019...", true],
+		["<voice_0x01000B63><se_def>*: The name's Angelo.\nI live at Maella Abbey.", true],
+		["<voice_0x01000B64><se_def>Angelo: Show them that ring if you'd like to see me.\nI'll be expecting you!", true],
+		["<voice_0x01000B65><se_def>Angelo: Au revoir, for now!\nMaella Abbey, all right?\nJust ask for Angelo!\nDon't forget!", true],
+		["<voice_0x01000B66><se_low>Yangus: Oh, 'ere you are, guv!\nI been lookin' all over for ya.", true],
+		["<voice_0x01000B67><se_low>Yangus: Gave that lot wot for!\nHe he he!", true],
+		["<voice_0x01000B68><se_high>Jessica: Hey, <hero>!\nI hope you don't plan on keeping this ring!", true],
+		["<voice_0x01000B69><se_high>Jessica: We're going to Maella Abbey right now\nto give it back to that smarmy cheat.\nWhether he likes it or not!", true]
+	]
+}

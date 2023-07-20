@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 234, 195, 121, 0, 244, 195, 121, 0, 254, 195, 121, 0, 8, 196, 121, 0, 4, 0, 0, 0],
+	"strings": [
+		["The party rests at Cash and Carrie's mansion.", true],
+		["And then morning comes...", true],
+		["<voice_0x010011A1><se_high>*: Good morning!\nI see you're up.", true],
+		["<voice_0x010011A2><se_high>*: The Master and Miss would like to see you, so perhaps you could make your way to their room when you're ready.", true]
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"header": [1, 0, 0, 0, 24, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 24, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000FC1><se_low>King Trode: Wait a second, <hero>. For some reason, Medea doesn't want to move away from the spring.", true],
+		["<voice_0x01000FC2><se_low>King Trode: Just give her a moment or two.", true],
+		["<voice_0x01000FC3><se_low>King Trode: Can you come over here? For some reason, Medea doesn't want to move away from the spring.", true],
+		["<se_low>King Trode: Oh, my precious Princess.", true],
+		["<se_low>King Trode: What a cruel disappointment. Still, we must carry on. Let us redouble our efforts to bring Dhoulmagus to account for his sins.", true],
+		["Medea gazes sadly at the spring...", true],
+		["Let Medea drink from the mystical spring?", true],
+		["Medea hangs her head in despair.", true],
+		["<Cap><leader> lets Medea drink the spring water.", true],
+		["<voice_0x01000FC4><se_high>Princess Medea: I'm terribly sorry to behave so selfishly, <hero>, but...I have a favour to ask.", true],
+		["<voice_0x01000FC5><se_high>Princess Medea: I'm only human for the briefest of moments after drinking from the spring...", true],
+		["<voice_0x01000FC6><se_high>Princess Medea: ...but it would make me very happy if you could bring me back here every now and then.", true],
+		["<voice_0x01000FC7><se_high>Princess Medea: I'd like to be able to talk to you again, <hero>. Just like we used to, back at the castle.", true],
+		["<voice_0x01000FC8><se_high>Princess Medea: We can forget all about the curse, even if it's only for the few minutes we share together...", true],
+		["<voice_0x01000FC9><se_high>Princess Medea: I can feel the enchantment wearing off!", true],
+		["<voice_0x01000FCA><se_low>King Trode: Consider it as a request from me as well.\nShe asks for so little of us.\nIt really is the least we can do.", true],
+		["<voice_0x01000FCB><se_low>King Trode: Actually, no.\nThink of it as an order.\nUnderstood, <hero>?", true],
+		["<voice_0x01000FCC><se_low>King Trode: I didn't quite catch you, <hero>.\nMy ears must need cleaning. Come again?", true],
+		["<voice_0x01000FCD><se_low>King Trode: Will you grant her this one request?", true],
+		["<voice_0x01000FCE><se_low>King Trode: Very well.\nNow that that's decided, we can move on.", true],
+		["<voice_0x01000FCF><se_low>King Trode: Very well.\nNow that that's decided, we can move on...\nWait a moment!", true],
+		["<voice_0x01000FD0><se_low>King Trode: This won't do! You're forgetting something important, <hero>.", true],
+		["<voice_0x01000FD1><se_low>King Trode: He must be the man we heard about in Argonia!\nThe old wizard who lives in the forest to the west!", true],
+		["<voice_0x01000FD2><se_low>King Trode: If I'm not mistaken, he knows something about the magic mirror. We'd better visit his home and ask him about it.", true]
+	]
+}

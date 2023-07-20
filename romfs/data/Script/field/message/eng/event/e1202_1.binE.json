@@ -1,0 +1,21 @@
+{
+	"header": [1, 0, 0, 0, 16, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 16, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011D5><se_low>*: Well, there's a surprise.\nMaking good progress, I see.", true],
+		["<voice_0x010011D6><se_low>*: ...Wha...!? You made it!\nAll the way to the top, like!", true],
+		["<voice_0x010011D7>*: ...........................", true],
+		["<voice_0x010011D8><se_low>*: ...Ha ha hah! If it's that easy, I've got more building to do! Can't have a novice like you getting to the top!", true],
+		["<voice_0x010011D9><se_low>*: You're all right, young'un! I'm Rydon. And what do you want with a sculptor like me, eh?", true],
+		["<voice_0x010011DA><se_low>Rydon: ...You're looking for the Kran Spinels!?\nAh, those old gemstones, is it?", true],
+		["<voice_0x010011DB><se_low>Rydon: They've been out of my family for donkey's years. I've never even laid eyes on them myself.", true],
+		["<voice_0x010011DC><se_low>Rydon: This is what I heard, like.\nOne of my ancestors put them in a...ooh! Argh!", true],
+		["<voice_0x010011DD><se_low>Rydon: Argh, this damn back!\nAlways giving me trouble!", true],
+		["<voice_0x010011DE><se_low>Rydon: Anyway, I heard one of my ancestors used them in a statue she carved.", true],
+		["<voice_0x010011DF><se_low>Rydon: That's right... It was the pinnacle of her career, they say. Her best work.", true],
+		["<voice_0x010011E0><se_low>Rydon: Where's the statue now? I can honestly say I don't know. You'll have to find it yourself, young'un.", true],
+		["<voice_0x010011E1><se_low>Rydon: All I can tell you is the lady's name.\nIf this old block of mine isn't letting me down,\nher name was...Alexandra.", true],
+		["<voice_0x010011E2><se_low>Rydon: That's about it, I'm afraid. Unless there's something else I can help you with?", true],
+		["<voice_0x010011E3><se_low>Rydon: What!? My son said I should pay him\na visit once in a while!? Ha ha ha!\nThere's no time for that!", true],
+		["<voice_0x010011E4><se_low>Rydon: If a novice like you can get to the top of\nmy tower, I've got my hands full here.\nI'll just have to build it higher!\nThe only way is up, as they say!", true]
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F31><se_high>Jessica: Don't you think we should tell Charmless that it's about time we got back to the castle?", true],
+		["<voice_0x01000F32><se_low>Yangus: If that Charmless geezer don't call it a day soon, we're never gonna get the magic mirror...", true],
+		["<voice_0x01000F33><se_low>Yangus: I reckon we should take 'im aside and tell it to 'im straight<:> \u2018TIME TO GO, CHARMLESS!\u2019", true],
+		["<voice_0x01000F34><se_def>Angelo: This is slowing us down too much. We need to persuade Charmless to go back to the castle so that we can get the magic mirror from Clavius.", true],
+		["<voice_0x01000F35><se_def>Angelo: If we don't hurry, Dhoulmagus might leave\nthe Dark Ruins and then we'll be back to\nsquare one.", true],
+		["<voice_0x01000F36><se_high>Jessica: Do you really think Charmless is going to try and pass off that Argon heart he bought as one he won in battle? We should go to the castle and see!", true],
+		["<voice_0x01000F37><se_low>Yangus: Oops, I nearly forgot! The reason for all that malarkey was so we could get the magic mirror.\nWe better get on over to the castle, eh?", true],
+		["<voice_0x01000F38><se_def>Angelo: Where are you going?\nWe need to go to the castle, remember?", true]
+	]
+}

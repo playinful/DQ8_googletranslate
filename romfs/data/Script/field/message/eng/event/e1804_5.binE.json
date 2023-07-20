@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100174D><se_low>King Trode: It's been a long journey.", true],
+		["<voice_0x0100174E><se_low>King Trode: A lot has happened along the way,\nbut it's all worked out well in the end.", true],
+		["<voice_0x01001873><se_low>King Trode: How curious to think that you would have been Prince of Argonia had things been different.", true],
+		["<voice_0x01001874><se_low>King Trode: Fate deals strange hands indeed.", true],
+		["<voice_0x01001875><se_low>King Trode: Well... Pooh to those old promises made so many years ago!", true],
+		["<voice_0x01001876><se_low>King Trode: Now you two are free to decide your own destiny...", true],
+		["<voice_0x01001752><se_high>Princess Medea: Never mind that now, Father.\nLook! We're home! Home for good!", true]
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<se_def>*: The dark aura! It's disappeared!", true],
+		["<se_def>*: So you managed to get the Royal Argonian mirror!", true],
+		["<se_def>*: I don't know how you got hold of it,\nbut now we can finally get inside and fight Dhoulmagus! Well done!", true],
+		["<se_def>*: Right!\nEr...well then, I'll just go and fetch my men!", true]
+	]
+}

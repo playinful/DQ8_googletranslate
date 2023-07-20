@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011C9><se_def>David: Here you are, Leopold! Dinner time!\nI'll leave it here for you.", true],
+		["<voice_0x010011CA><se_def>Sir Leopold: Woof, woof, woof!", true],
+		["<voice_0x010011CB><se_def>David: I-I'm sorry! H-Have I done something to upset you? Please... I'm truly sorry!", true],
+		["<voice_0x010011CC><se_def>David: O-Oh! It's you!", true],
+		["<voice_0x010011CD><se_def>David: Thanks for what you did before! It's because of you that Master Dominico is safe.", true],
+		["<voice_0x010011CE><se_def>David: ...Are you on your travels, by any chance?", true],
+		["<voice_0x010011CF><se_def>David: I thought so! I could tell.\nI was travelling around the world myself\nuntil about six months ago.", true],
+		["<voice_0x010011D0><se_def>David: But I can tell you are by the way you're dressed. I was travelling around the world myself until about six months ago.", true],
+		["<voice_0x010011D1><se_def>David: Yeah, it'd be six months ago now. When I got here I was penniless and so hungry I collapsed.", true],
+		["<voice_0x010011D2><se_def>David: But Master Dominico helped me.", true],
+		["<voice_0x010011D3><se_def>David: He said he'd let me work for him here at his house. I was so grateful.", true],
+		["<voice_0x010011D4><se_def>David: He can be a bit overbearing at times.\nBut in his heart, he's a truly kind man.", true]
+	]
+}

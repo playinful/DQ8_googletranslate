@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 106, 4, 0, 0, 116, 4, 0, 0, 126, 4, 0, 0, 136, 4, 0, 0, 146, 4, 0, 0, 156, 4, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100171A><se_def>Prince Charmles: Honestly! Where has the Princess got to?\nWhat's taking her so long!?", true],
+		["<voice_0x0100171C><se_def>Prince Charmles: Hm!?", true],
+		["<voice_0x0100171D><se_def>Prince Charmles: What do you think you're doing!?\nAre you trying to ruin my wedding!?", true],
+		["<voice_0x0100171E><se_def>Prince Charmles: I won't stand for it! Guards!\nGet rid of him at once!", true],
+		["<voice_0x01001864><se_low>King Clavius: Wait! That will not be necessary!", true],
+		["<voice_0x01001865><se_low>King Clavius: <Cap><hero> has a right to be at this ceremony...", true],
+		["<voice_0x01001866><se_low>King Clavius: I, I have reconsidered...\nYou are the rightful groom, <hero>.", true],
+		["<voice_0x01001867><se_def>Prince Charmles: Father! How can you say such a thing!?\nI'm the rightful groom!", true],
+		["<voice_0x01001868><se_low>King Clavius: Yesterday evening, the boy you see standing there gave me this ring.", true],
+		["<voice_0x01001869><se_def>Prince Charmles: W-What's that!?\nIs it an Argon ring?", true],
+		["<voice_0x0100186A><se_def>Prince Charmles: I don't understand! Only members of the royal family who've passed the initiation should have a ring like that!", true],
+		["<voice_0x0100186B><se_low>King Clavius: This ring belonged to my elder brother...\nIt was Eltrio's ring...", true],
+		["<voice_0x0100186C><se_low>King Clavius: That boy is his son.", true],
+		["<voice_0x0100186D><se_low>King Clavius: It is only right that he should be the one to marry Princess Medea!", true],
+		["<voice_0x0100186E><se_def>Prince Charmles: No! I won't allow it!", true],
+		["<voice_0x0100186F><se_def>Prince Charmles: Princess Medea is promised to me!\nSo I'm the one who's going to be marrying her!", true],
+		["<voice_0x01001870><se_def>*: Pardon me for interrupting, Your Majesty.", true],
+		["<voice_0x01001871><se_def>*: I've just received word that the bride is now ready to make her appearance.", true],
+		["<voice_0x01001872><se_low>King Clavius: Open the doors!\nAllow the bride to enter!", true]
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E04><se_low>*: Whoa-oa-oa! Sounds good!\nI knew that it would!", true],
+		["<voice_0x01000E05><se_low>*: Yeah! Papa's got a brand new toy!\nThis harp makes me sound hotter than ever, baby!", true],
+		["<voice_0x01000E06><se_low>*: All those years tunnelin' to the castle!\nBut y'all stayed on the scene...like a diggin' machine!", true],
+		["<voice_0x01000E07><se_low>*: Hey, come on, fellas!\nWhat's with the silence? Oh, I get it!\nMy groove's so hip it's got y'all speechless, huh!?", true]
+	]
+}

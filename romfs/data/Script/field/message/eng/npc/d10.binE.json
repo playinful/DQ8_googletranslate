@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 200, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["There's a man lying on the ground.\nHe's shivering uncontrollably and close to death.", true],
+		["Open Marta's bag?", true]
+	]
+}

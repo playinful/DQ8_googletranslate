@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001188><se_low>*: Well done, child of my children's children.\nYou have reached the inner sanctum.", true],
+		["<voice_0x01001189><se_low>*: In so doing, you have completed the\ntrials and proven your worthiness as heir.\nNow harken to my words.", true],
+		["<voice_0x0100118A><se_low>*: Noble blood courses through your veins.", true],
+		["<voice_0x0100118B><se_low>*: As a trusted descendant, you have an obligation to protect this noble heritage.\nYou may never permit this bloodline to end.", true],
+		["<voice_0x0100118C><se_low>*: For whilst it endures,\nthe world shall remain at peace.", true],
+		["<voice_0x0100118D><se_high>Carrie: That was our ancestor?", true],
+		["<voice_0x0100118E><se_def>Cash: Sure looks that way.\nThat crystal seems to be enchanted with some sort of power that shows an image to us.", true],
+		["<voice_0x0100118F><se_high>Carrie: He said not to let the bloodline die out,\nbut isn't that impossible? We were adopted,\nafter all.", true],
+		["<voice_0x01001190><se_high>Carrie: The family bloodline ended when Father\nwas killed.", true],
+		["<voice_0x01001191><se_def>Cash: Well, we can't do anything about that now.\nAll we can do is work together to make the casino even more successful.", true],
+		["<voice_0x01001192><se_def>Cash: Anyway, we've heard what he had to say. Let's go home. And don't forget, travellers! You're still on the payroll as bodyguards until we get back!", true],
+		["<Cap><leader> touches the crystal ball that sits on the pedestal.", true]
+	]
+}

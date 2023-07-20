@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EFC><se_def>Prince Charmles: No, no, no! This won't do! It isn't big enough to impress Father or anyone else for that matter.", true],
+		["<voice_0x01000EFD><se_def>Prince Charmles: If only there were some more Argon lizards! Then we could fight them all and see if we got a bigger one...", true],
+		["<voice_0x01000EFE><se_def>Prince Charmles: But those bothersome lizards keep running away and hiding when they see ME coming! I'm just too intimidating for my own good! Ha ha ha!", true],
+		["<voice_0x01000EFF><se_high>Jessica: Someone's pleased with himself. How much longer have we got to baby-sit this sissy?", true],
+		["<voice_0x01000F00><se_low>Yangus: Who'd wanna 'ave this bloke for a king, eh?", true],
+		["<voice_0x01000F01><se_def>Angelo: Someone needs to pop this brat's bulging ego...", true],
+		["<voice_0x01000F02><se_def>Prince Charmles: Anyway. I'm hungry now.", true],
+		["<voice_0x01000F03><se_def>Prince Charmles: Servants! The day's hunt is over.\nFind level ground and prepare a campsite for my night's repose.", true],
+		["The party spends the night on the mountaintop.", true]
+	]
+}

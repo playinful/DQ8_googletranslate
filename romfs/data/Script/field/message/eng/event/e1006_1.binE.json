@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F46><se_low>*: Prince Charmles!\nPlease show us the Argon heart you obtained.", true],
+		["<voice_0x01000F47><se_def>*: Why, it's enormous!", true],
+		["<voice_0x01000F48><se_high>*: I've never seen such a big Argon heart before!", true],
+		["<voice_0x01000F49><se_high>*: It must be the biggest in the history of\nthe initiation!", true],
+		["<voice_0x01000F4A><se_def>*: He must have slain quite an Argon lizard to get a heart of that size.", true],
+		["<voice_0x01000F4B><se_low>*: Prince Charmles! Present the Argon heart, symbol of your bravery and worthiness,\nto King Clavius!", true],
+		["<voice_0x01000F4C><se_low>King Clavius: No. Wait.", true],
+		["<voice_0x01000F4D><se_low>King Clavius: Charmles. Do you swear before the Almighty Goddess that you obtained this Argon heart from an Argon lizard slain by your own hand?", true],
+		["<voice_0x01000F4E><se_def>Prince Charmles: Uh...of course, Father!", true],
+		["<voice_0x01000F4F><se_low>King Clavius: Because, even if, for example, you were assisted by others in battle, I would still recognise your claim to the throne.", true],
+		["<voice_0x01000F50><se_low>King Clavius: But if you obtained it by any other means,\nI could not recognise your right to the throne.\nIs that perfectly clear?", true],
+		["<voice_0x01000F51><se_def>Prince Charmles: Uh... Yes! Of course! I fought the lizard with my own hands. And a frightful beast it was too!", true],
+		["<voice_0x01000F52><se_low>King Clavius: Very well. Then I congratulate you. I accept this Argon heart as proof of your true character.", true]
+	]
+}

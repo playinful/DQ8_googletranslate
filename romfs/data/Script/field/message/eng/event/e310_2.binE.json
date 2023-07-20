@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 16, 1, 0, 0, 24, 1, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C44><se_def>Marcello: ...Ah! There you are!\nI trust you slept well.", true],
+		["<voice_0x01000C45><se_def>Marcello: King Trode has explained everything.\nI apologise for having doubted you.", true],
+		["<voice_0x01000C46><se_def>Marcello: Dhoulmagus is the true culprit.\nIn the name of the Goddess, we must strike down that diabolical jester!", true],
+		["<voice_0x01000C47><se_def>Marcello: But I cannot leave here now.\nAs the new Abbot, I have much to do.\nI must be here to guide my people.", true],
+		["<voice_0x01000C48><se_def>Marcello: So I was wondering...", true],
+		["<voice_0x01000C49><se_def>Marcello: According to what King Trode tells me,\nyou are all pursuing Dhoulmagus.", true],
+		["<voice_0x01000C4A><se_def>Marcello: So I have a proposal. I would like my brother Angelo to accompany you on your quest.", true],
+		["<voice_0x01000C4B><se_def>Angelo: Brother? I thought you said you wouldn't have a rule-breaker as a brother...", true],
+		["<voice_0x01000C4C><se_def>Marcello: Quiet! I wasn't talking to you!", true],
+		["<voice_0x01000C4D><se_def>Marcello: Angelo. You are the only one we can spare\nat the moment.", true],
+		["<voice_0x01000C4E>Angelo: ............", true],
+		["<voice_0x01000C4F><se_def>Marcello: Everyone else here has duties to fulfil.\nOnly you are without such responsibilities.", true],
+		["<voice_0x01000C50><se_def>Angelo: ...I'm useless, you mean!\nNo need to beat about the bush.", true],
+		["<voice_0x01000C51><se_def>Angelo: Fine. I understand.", true],
+		["<voice_0x01000C52><se_def>Angelo: You've made yourself perfectly clear.\nI will leave the abbey.\nI will travel with these people.\nAnd I will avenge the Abbot's murder.", true],
+		["Angelo joins the party!", true],
+		["<voice_0x01000C53><se_low>King Trode: I'll be waiting by the carriage with Medea, then...", true],
+		["<voice_0x01000C54><se_def>Marcello: Very well then!\nI entrust Angelo to your care,\nand wish you well on your journey.", true],
+		["<Cap><leader> receives <DEF_ART_SGL_I_NAME_1> and puts <IF_PLR_NOUN_I_NAME_1>them<ELSE_NOT_PLR_NOUN_I_NAME_1>it<ENDIF_PLR_NOUN_I_NAME_1> in the bag.", true]
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 106, 144, 15, 0, 116, 144, 15, 0, 126, 144, 15, 0, 136, 144, 15, 0, 146, 144, 15, 0, 156, 144, 15, 0, 157, 144, 15, 0, 127, 150, 152, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x010008EF><se_low>Yangus: Crikey!\nI dunno wot the old codger's on about sometimes!", true],
+		["<voice_0x010008F0><se_low>Yangus: Sounds to me like we 'ave to find that Rylus geezer, right? So wot we waitin' for!?", true],
+		["<voice_0x010008F1><se_low>Yangus: I s'pose we'd better do wot 'e says.\nShall we get goin' then, guv?", true],
+		["<voice_0x010008EB><se_low>Yangus: Oi, guv!", true],
+		["<voice_0x010008EC><se_low>Yangus: You weren't thinkin' of goin' wivout me, I 'ope!", true],
+		["<voice_0x010008ED><se_low>Yangus: I'm the best there is when it comes to lookin' for people. It's my \u2018piece of resistance\u2019, innit.", true],
+		["<voice_0x010008EE><se_low>Yangus: Let's get goin', eh?", true],
+		["", false]
+	]
+}

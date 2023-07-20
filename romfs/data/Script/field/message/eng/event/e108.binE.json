@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 202, 122, 16, 0, 212, 122, 16, 0, 222, 122, 16, 0, 232, 122, 16, 0, 242, 122, 16, 0, 252, 122, 16, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x010009BE><se_low>King Trode: So? What happened? Did you do what the young girl asked? Hm? Well?", true],
+		["<voice_0x010009BF><se_low>King Trode: WHAT!? Dhoulmagus killed Master Rylus!?\nThe same Dhoulmagus we're looking for?", true],
+		["<voice_0x010009C0><se_low>King Trode: That fiend killed his own teacher!?", true],
+		["<voice_0x010009C1><se_low>King Trode: And you say he headed south?", true],
+		["<voice_0x010009C2><se_low>King Trode: Then there's no time to lose, <hero>!\nWe must go after him at once!", true],
+		["<voice_0x010009C3><se_low>King Trode: Let's be on our way!", true]
+	]
+}

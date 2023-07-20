@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001307><se_low>Marta: Dobroe utro. Good morning.\nSo you have found my herb garden.", true],
+		["<voice_0x01001308><se_low>Marta: This cave is just the right temperature and humidity for them. And it is the only place\nI can grow my nook grass.", true],
+		["<voice_0x01001309><se_low>Marta: Beyond those iron bars is the ruin I told you about. I usually keep it locked.", true],
+		["<voice_0x0100130A><se_low>Marta: It is a very special place, so I cannot allow visitors inside. Forgive me.", true],
+		["<voice_0x0100130B><se_low>Yangus: Cor blimey, Grandma.", true]
+	]
+}

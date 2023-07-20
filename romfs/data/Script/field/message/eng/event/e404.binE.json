@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000CC8><se_def>King Pavan: Never again will I forget the things Sasha\ntold me.", true],
+		["<voice_0x01000CC9><se_def>King Pavan: It felt like a dream, but I believe in what I saw.\nThank you. Thank you so much...", true],
+		["<voice_0x01000CCA><se_def>King Pavan: Thanks to you and Emma, I've finally woken\nup from an unbearable nightmare.\nNow I can be a proper king to my people again.", true],
+		["<voice_0x01000CCB><se_def>King Pavan: ...I cannot thank you enough.\nIf there is ever anything I can do for you,\nplease do not hesitate to ask.", true],
+		["<voice_0x01000CCC><se_def>King Pavan: I swear I will do anything in my power to repay you. Anything at all I can do to help.", true],
+		["<voice_0x01000CCD><se_def>King Pavan: Farewell, my friends. May fortune ride with\nyou on your continuing journey.\nI hope we will meet again soon.", true]
+	]
+}

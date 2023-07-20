@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E38><se_high>Red: What are you doin' showin' your ugly face round here again!? I said I've got nothin' more to say to ya.", true],
+		["<voice_0x01000E39><se_high>Red: So? What is it this time, eh?\nDon't tell me you've come to check on me health!", true],
+		["<voice_0x01000E3A><se_low>Yangus: No, we was just passin'. The guv's managed to get 'old of this ship, right, so...", true],
+		["<voice_0x01000E3B><se_high>Red: So yer 'ere to show off? Do me a lemon!\nI've got me own ship, so you can save yer breath.", true],
+		["<voice_0x01000E3C><se_high>Red: I'd show it to yer if I could, but I can't right now. Shame, cos she's a quality vessel.\nThe Classy Lady, she's called.", true],
+		["<voice_0x01000E3D><se_low>Yangus: ...Nah, I weren't tryin' to show off or nuffin'!\nGordon Bennett, 'ow did we end up gettin' into all this!", true]
+	]
+}

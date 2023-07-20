@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001493><se_low>High Priest Rolo: You...help me! His Holiness is in danger! An evil creature has forced its way into his chamber!", true],
+		["<voice_0x01001494><se_low>High Priest Rolo: You have to help him!", true],
+		["<voice_0x01001495><se_low>High Priest Rolo: And...don't forget to mention...", true],
+		["<voice_0x01001496><se_low>High Priest Rolo: Tell His Holiness that it was High Priest Rolo who sent for help first!", true]
+	]
+}

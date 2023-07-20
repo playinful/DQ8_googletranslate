@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001399><se_high>Red: So movin' the 'andle makes the water go down, eh?", true],
+		["<voice_0x0100139A><se_high>Red: Thanks for that!\nNow I can get even further ahead of ya!", true],
+		["<voice_0x0100139B><se_high>Red: Bad luck, eh! Must be a bit annoyin' that you figured it out but I'm the one to benefit!", true]
+	]
+}

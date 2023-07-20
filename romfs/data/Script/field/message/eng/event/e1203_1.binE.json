@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100121D><se_high>Jessica: I see you've ignored my advice to prepare a stronger defence!", true],
+		["<voice_0x0100121E><se_def>David: Sh-Shut up! You won't get past me! I won't let you lay a finger on Master Dominico!", true],
+		["<voice_0x0100121F><se_high>Jessica: ...Dominico? Ah ha ha ha!", true],
+		["<voice_0x01001220><se_def>David: W-What's so funny!?", true],
+		["<voice_0x01001221><se_high>Jessica: Such a pity...that you should die never knowing about your noble origins...", true],
+		["<voice_0x01001222><se_high>Jessica: I could tell from the start that absurd show-off was not the one! The sceptre is all-knowing!", true],
+		["<voice_0x01001223><se_high>Jessica: No. I seek the chosen heir of the great sage Kupas, one of the seven who sealed away the Lord of Darkness, Rhapthorne...", true],
+		["<voice_0x01001224><se_high>Jessica: And that, David, is you.", true],
+		["<voice_0x01001225><se_high>Jessica: What a pity that the one who should be protecting you is unaware of his responsibility!", true],
+		["<voice_0x01001226><se_high>Jessica: Ha ha hah! I wondered when you'd turn up.", true],
+		["<voice_0x01001227><se_high>Jessica: Fine! I knew I'd have to fight you somewhere along the way.", true],
+		["<voice_0x01001228><se_high>Jessica: Still, I have to admit I'll be a little sad to watch you die!", true]
+	]
+}

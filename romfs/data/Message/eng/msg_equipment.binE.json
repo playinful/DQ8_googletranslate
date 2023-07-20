@@ -1,0 +1,15 @@
+{
+	"header": [3, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 0, 0, 2, 0, 0, 0, 4, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["Don't equip", true],
+		["Cannot be equipped", true],
+		["Rotate", true],
+		["Go back", true],
+		["Change member", true],
+		["Details", true],
+		["Attack:", true],
+		["Defence:", true],
+		["Agility:", true],
+		["Wisdom:", true]
+	]
+}

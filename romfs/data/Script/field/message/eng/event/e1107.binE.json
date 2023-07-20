@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000FEC><se_low>King Trode: At last! At last we can finish off that\ndespicable Dhoulmagus!", true],
+		["<voice_0x01000E56><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x01000FED><se_low>King Trode: Yes, we've been travelling for a long while now. Looking back on all the hard times,\nI feel strangely nostalgic...", true],
+		["<voice_0x01000FEE><se_low>King Trode: But this is no time for reminiscing,\nyou dawdler! This is our chance!\nApparently Dhoulmagus is a bit under\nthe weather at the moment.", true],
+		["<voice_0x01000FEF><se_low>King Trode: We must give him a good thrashing and lift this diabolical curse!", true],
+		["<voice_0x01000FF0><se_low>King Trode: We'll be waiting here.\nI'm sure you won't have any trouble!", true]
+	]
+}

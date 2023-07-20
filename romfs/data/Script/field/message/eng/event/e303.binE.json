@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B6C><se_def>Marcello: ...Well done! You managed to cause another\nbrawl at the Simpleton pub.\nI hope you're proud of yourself.", true],
+		["<voice_0x01000B6D><se_def>Angelo: News travels fast.\nWhat a fine intelligence network the Templars h<endash>", true],
+		["<voice_0x01000B6E><se_def>Marcello: How much more shame do you intend to bring to our abbey!? You're like a curse!", true],
+		["<voice_0x01000B6F><se_def>Marcello: Yes, a filthy curse. If you hadn't been born,\nwe'd all have been spared a lot of misery.", true],
+		["<voice_0x01000B70>Angelo: ............", true],
+		["<voice_0x01000B71><se_def>Marcello: You're nothing but a petty crook with a\npretty face.", true],
+		["<voice_0x01000B72><se_def>Marcello: It sickens me to think we share any\ncommon blood.", true],
+		["<voice_0x01000B73><se_def>Marcello: ...Hmph! Enough!", true],
+		["<voice_0x01000B74><se_def>Marcello: Templar Angelo! By order of the Captain,\nyou are sentenced to a term of penitence.", true],
+		["<voice_0x01000B75><se_def>Marcello: I'm hereby stripping you of your right to\nleave the abbey. You do not leave this place.\nNot for anything! Understood?", true],
+		["<voice_0x01000B76><se_def>Marcello: Cross me on this, and I'll see to it that you're expelled from the Order! And don't think the Abbot will be able to protect you this time!", true]
+	]
+}

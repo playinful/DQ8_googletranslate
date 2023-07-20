@@ -1,0 +1,21 @@
+{
+	"header": [1, 0, 0, 0, 16, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 191, 0, 0, 0, 192, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 16, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D48><se_high>Red: Don't often see your face round these parts any more, Yangus. So...what brings you here?", true],
+		["<voice_0x01000D49><se_low>Yangus: It's like this, Red... You bought an 'orse from the black market drum in Pickham, right?", true],
+		["<voice_0x01000D4A><se_low>Yangus: Well it belongs to this bloke I'm travellin' wiv, see. Someone pinched it off 'im and then sold it on. That's 'ow it came to be in the shop.", true],
+		["<voice_0x01000D4B><se_low>Yangus: I ain't gonna beat around the bush.\nI need it back. I'll pay wotever ya want for it.\nName yer price.", true],
+		["<voice_0x01000D4C><se_high>Red: Straight up as usual, eh, Yangus.\nI like that about you.", true],
+		["<voice_0x01000D4D><se_high>Red: But I'm not sellin' that horse. She's a quality mare. Tows the line and she's got a decent coat on her.", true],
+		["<voice_0x01000D4E><se_high>Red: You know how much I like quality!\nHowever much you're willin' to pay,\nI am not partin' with it!", true],
+		["<voice_0x01000D4F><se_low>Yangus: Wot!? Not for nuffin'?\nLook, it ain't for me, it's for me mate.\nI've gotta get 'er back...\nI'll do anyfin' you want.", true],
+		["<voice_0x01000D50><se_high>Red: Interestin'... Never thought I'd hear words\nlike that comin' out of your mouth.\nMust be a good mate, eh?", true],
+		["<voice_0x01000D51><se_high>Red: Awright, then.\nHere's what you're gonna do.", true],
+		["<voice_0x01000D52><se_high>Red: I'm sure you haven't forgotten the cave just north of here, right?", true],
+		["<voice_0x01000D53><se_high>Red: Just bring us the jewel that's hidden in there.\nYou know, the Venus' tear.", true],
+		["<voice_0x01000D54><se_low>Yangus: Wot!? Not that!\nYou know I been in that cave before, an'...", true],
+		["<voice_0x01000D55><se_high>Red: You just said you'd do anyfin' I want!\nYou gonna welch on that now, are ya?", true],
+		["<voice_0x01000D56><se_high>Red: Just bring us the Venus' tear.\nThen I'll think about the 'orse.", true],
+		["<voice_0x01000D57><se_low>Yangus: Er...right...then...\nGuess I'll be on me way then, eh.", true]
+	]
+}

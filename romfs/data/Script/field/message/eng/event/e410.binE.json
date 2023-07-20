@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C87><se_low>King Trode: Hmm, I see...", true],
+		["<voice_0x01000C88><se_low>King Trode: Magnificent! What a dutiful maid,\nworrying about her master so! I am impressed!", true],
+		["<voice_0x01000C89><se_low>King Trode: A faithful retainer like her is a most precious treasure to a king. And you say she's about the same age as my dear Medea?", true],
+		["<voice_0x01000C8A><se_low>King Trode: Very well! Now, this is an order!\nI want you to help this maid with her request!", true],
+		["<voice_0x01000C8B><se_low>King Trode: I beg your pardon? A detour? Well, if you get onto it quickly, it won't be a problem, will it!?", true],
+		["<voice_0x01000C8C><se_low>King Trode: Off we go! We must lend a hand to this delightful maid of yours!", true]
+	]
+}

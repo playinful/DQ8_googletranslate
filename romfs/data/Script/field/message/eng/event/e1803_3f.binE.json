@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 243, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001743><se_def>Prince Charmles: How could you let them get away,\nyou incompetent rogues!?", true],
+		["<voice_0x01001744><se_def>Prince Charmles: How could you be so remiss as to let a ragged rabble like them rout you!? You rotten rascals!", true],
+		["<voice_0x01001745><se_def>Prince Charmles: I should have known better than to entrust my Princess's retrieval to a troop of reluctant roughnecks!", true],
+		["<voice_0x01001746><se_low>King Clavius: Then why don't you go after them and bring the Princess back yourself?", true],
+		["<voice_0x01001747><se_def>Prince Charmles: B-But...er...\nI, I can't do that all on my own.\nI'll send the royal gua<endash>", true],
+		["<voice_0x01001748><se_low>King Clavius: Typical. You think that just because you're a prince you can solve everything with money\nand power.", true],
+		["<voice_0x01001749><se_def>Prince Charmles: B-But I got that huge Argon heart during the initiation... All by myself!", true],
+		["<voice_0x0100174A><se_low>King Clavius: Enough of your lies!", true],
+		["<voice_0x0100174B><se_low>King Clavius: I know the truth!", true]
+	]
+}

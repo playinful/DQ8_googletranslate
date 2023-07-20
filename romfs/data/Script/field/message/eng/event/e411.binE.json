@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C6E><se_high>Emma: He's hardly eating a thing either.\nAnd I could hear him weeping all through\nthe night yesterday.", true],
+		["<voice_0x01000C6F><se_high>Emma: He was such a benevolent and wise king when the Queen was still alive.", true],
+		["<voice_0x01000C70><se_high>Emma: I'm terribly sorry I'm of so little use to him.", true],
+		["<voice_0x01000C71><se_low>*: I see... So it continues.\nIt must be difficult for you, Emma.", true],
+		["<voice_0x01000C72><se_low>*: But I need you to keep trying.\nIf the King cannot recover from this,\nthe country will fall apart.", true],
+		["<voice_0x01000C73><se_low>*: ...I just don't know what to suggest.", true],
+		["<voice_0x01000C74><se_high>Emma: Ah, hello there! Do you seek an audience with the King of Ascantha?", true],
+		["<voice_0x01000C75><se_high>Emma: I'm afraid that His Majesty has been unavailable to visitors since the period of mourning for the late Queen began...two years ago.", true],
+		["<voice_0x01000C76><se_high>Emma: He comes down to the royal suite every night, but I doubt that he'll grant you an audience.", true],
+		["<voice_0x01000C77><se_high>Emma: ...I realise that that must seem strange to you, but if you return after dark, you'll see for yourselves.", true]
+	]
+}

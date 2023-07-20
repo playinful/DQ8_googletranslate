@@ -1,0 +1,25 @@
+{
+	"header": [1, 0, 0, 0, 20, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 225, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 20, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D66><se_low>Yangus: There! I got it!\nThe Venus' tear!", true],
+		["<voice_0x01000D67><se_high>Red: Now that is quality!\nOh yes, this is the real deal.\nWell, Yangus, you excel yerself!", true],
+		["<voice_0x01000D68><se_low>Yangus: Now 'and over the 'orse 'n' cart like\nyou promised!", true],
+		["<voice_0x01000D69><se_high>Red: ...I never promised that! I said I'd think about it when you brought me the goods.", true],
+		["<voice_0x01000D6A><se_high>Red: And I've thought about it now,\nand I'm still not givin' it back.\nYou can keep the stone.", true],
+		["<voice_0x01000D6B><se_low>Yangus: Oi! That ain't wot you promised!\nThat's a pretty low trick, Red!\nI'm surprised at ya!", true],
+		["<voice_0x01000D6C><se_high>Red: Promises!? You wanna talk about promises!?\nIf I remember rightly, you promised me ages ago you'd bring me that stone!", true],
+		["<voice_0x01000D6D><se_low>Yangus: Wot? That was years ago!\nYou can't dredge up the past like that!", true],
+		["<voice_0x01000D6E><se_high>Red: Well you're in no position to argue!\nI ain't sayin' it again!\nThe 'orse stays wiv me!", true],
+		["<voice_0x01000D6F><se_low>Yangus: ...Yer right. I was outta line before breakin' me promise to you an' all. I ain't surprised yer 'acked off wiv me.", true],
+		["<voice_0x01000D70><se_low>Yangus: But this ain't just about me now.\nI can't leave wivout the 'orse! It's for the guv!", true],
+		["<voice_0x01000D71><se_low>Yangus: Look, do wot ya want wiv me...\nBut, I'm beggin' ya, give the 'orse back!", true],
+		["<voice_0x01000D72>Red: ...Eh!", true],
+		["<voice_0x01000D73>Red: Ooh...", true],
+		["<voice_0x01000D74><se_high>Red: ...Awright, awright! Behave, would ya!?\nStop grov'llin' about on the floor! Be a man!", true],
+		["<voice_0x01000D75><se_low>Yangus: Well...?", true],
+		["<voice_0x01000D76><se_high>Red: I thought I'd 'ave a bit of fun wiv ya, but you've lost it! Have the 'orse! Do wot ya want wiv it!", true],
+		["<voice_0x01000D77><se_high>Red: But I'll be keepin' that Venus' tear.\nThat's what we agreed, right?", true],
+		["<voice_0x01000D78><se_low>Yangus: Yeah, fair enough.\nThanks, Red.\nAnd...sorry about ev'ryfin'.", true],
+		["<voice_0x01000D79><se_high>Red: ...For cryin' out loud! Pull yerself together!\nWe're done 'ere, right?\nSo go on then! Hop it!", true]
+	]
+}

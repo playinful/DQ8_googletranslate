@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001707><se_low>Yangus: Rise an' shine, guv!\nThe Princess'll be gettin' 'itched in a bit.", true],
+		["<voice_0x01001708><se_low>Yangus: We've come all this way. We should at least try an' get a glimpse of 'er all dolled up.", true],
+		["<voice_0x01001709><se_low>Yangus: I'll go on ahead then, eh?\nI'll be waitin' in front o' that big church.", true],
+		["<voice_0x0100170A><se_def>Angelo: We thought you weren't coming.\nThe ceremony's already started.", true],
+		["<voice_0x0100170B><se_def>Angelo: It's bedlam up there with all those people.\nI doubt anyone would notice you among\nthe crowd.", true],
+		["<voice_0x0100170C><se_def>*: What a crowd! I can't see a thing from here!", true],
+		["<voice_0x0100170D><se_def>*: What's going on!?\nHas it already started?", true],
+		["<voice_0x0100170E><se_high>*: People are saying that the bride looks stunning! I wish I was more like her!", true],
+		["<voice_0x0100170F><se_low>*: I'm more interested in seeing the new\nLord High Priest than the bride and groom.\nBut it's impossible to see anything from here!", true],
+		["<voice_0x01001710><se_def>*: Congratulations, Princess Medea! Congratulations, Prince Charmles!", true],
+		["<voice_0x01001711><se_high>*: Hey! Stop pushing!", true],
+		["<voice_0x01001713><se_low>Yangus: There you are, guv!\nI knew you'd turn up!", true],
+		["<voice_0x01001714><se_low>Yangus: Right, this way!\nFollow me!", true],
+		["<voice_0x01001715><se_low>Yangus: Hurgh, hurgh...", true],
+		["<voice_0x01001716><se_low>Yangus: Well, we've got this far.\nNow we just 'ave to take care o' that knight...", true],
+		["<voice_0x0100189D><se_def>Angelo: Ah, look who it is. I was beginning to wonder if you'd left us for good. You seemed ready to throw in the towel when you got back yesterday. Better now, though, I see!", true],
+		["<voice_0x0100189E><se_def>Angelo: Anyway, it looks like the ceremony's begun.", true],
+		["<voice_0x0100189F><se_def>Angelo: And there are so many people, I doubt anyone could do anything even if they wanted to.", true],
+		["<voice_0x010018A0><se_def>Angelo: By the way, you haven't seen Jessica, have you?", true],
+		["<voice_0x010018A1><se_def>Angelo: The Princess summoned her yesterday,\nand no one seems to have seen her since.", true],
+		["<voice_0x010018A2><se_def>Angelo: It would have been about the same time you came back. I don't suppose you bumped into her, did you?", true]
+	]
+}

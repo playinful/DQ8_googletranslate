@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 203, 0, 0, 0, 206, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B9A><se_low>*: ...Hm, hmm...?\nWhat sinister presence lingers in the air!", true],
+		["<voice_0x01000B9B><se_low>*: And who are you?\nDid you want to speak with me?", true],
+		["<voice_0x01000B9C><se_def>*: There they are!\n*: It's them!", true],
+		["<voice_0x01000B9D><se_def>*: You'll be damned for trying to take Abbot Francisco's life!", true],
+		["<voice_0x01000B9E><se_low>Abbot Francisco: What on earth...!?\nWhat's going on?", true],
+		["<voice_0x01000B9F><se_def>Marcello: Abbot Francisco.\nCaptain Marcello, at your service as always!", true],
+		["<voice_0x01000BA0><se_low>Abbot Francisco: Ah, Marcello!\nTell me what's happening.", true],
+		["<voice_0x01000BA1><se_def>Marcello: There has been a breach of security.\nMany of the guards have been seriously wounded.", true],
+		["<voice_0x01000BA2><se_low>Abbot Francisco: What!?", true],
+		["<voice_0x01000BA3><se_def>Marcello: I feared you might be in danger,\nso I came immediately...", true],
+		["<voice_0x01000BA4><se_def>Marcello: And sure enough, we've caught these criminals.\nThey've been loitering around the abbey since midday.", true],
+		["<voice_0x01000BA5><se_def>Marcello: It seems we were just in time.\nI thank the Goddess that you're safe.", true],
+		["<voice_0x01000BA6><se_low>Abbot Francisco: ...Wait!\nThese people are no criminals.", true],
+		["<voice_0x01000BA7><se_def>Marcello: Please, Holy Father!\nThey were caught red-handed!", true],
+		["<voice_0x01000BA8><se_low>Abbot Francisco: Look into their eyes.\nSee their pure hearts.\nThese people are guilty of nothing.", true],
+		["<voice_0x01000BA9><se_def>Marcello: But...!", true],
+		["<voice_0x01000BAA><se_def>Marcello: Very good! But we must find out what they were doing here in your residence so late at night.", true],
+		["<voice_0x01000BAB><se_def>Marcello: At the very least, let us ascertain that. Please.", true],
+		["<voice_0x01000BAC><se_low>Abbot Francisco: Ho ho ho!\nYou really are a worrier, Marcello!\nVery well, if you must!", true],
+		["<voice_0x01000BAD><se_def>Marcello: Thank you, Holy Father.", true],
+		["<voice_0x01000BAE><se_def>Marcello: ...So, shall we go?", true]
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"header": [1, 0, 0, 0, 17, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 17, 0, 0, 0],
+	"strings": [
+		["<voice_0x010009C4><se_low>*: Hm?\nI don't often get visitors all the way up here!", true],
+		["<voice_0x010009C5><se_low>*: Well, now that you're here, maybe I could ask you a little favour?", true],
+		["<voice_0x010009CB><se_low>*: Huh. That was unexpected!", true],
+		["<voice_0x010009CC><se_low>*: I was sure you'd say yes. I mean, you must have plenty of time on your hands to have come all the way up here.", true],
+		["<voice_0x010009CD><se_low>*: Still, not my place to try and talk you into it.", true],
+		["<voice_0x010009CE><se_low>*: Hm? Have you changed your mind about helpin' me out?", true],
+		["<voice_0x010009C6><se_low>*: Okay, I'm only goin' to say this once,\nso clean out your ears and get listenin'.", true],
+		["<voice_0x010009C7><se_low>*: If you go outside and look at the view from the top of the mountain, you should be able to spot a tree with red leaves.", true],
+		["<voice_0x010009C8><se_low>*: I had a bit of a kip there when I was out the other day, and it seems I left my tool bag behind.", true],
+		["<voice_0x010009C9><se_low>*: I don't expect you to do this for free of course. I'll be able to give you a small reward.", true],
+		["<voice_0x010009CA><se_low>*: I'll be waitin' here in my hut for you to bring it back. Try not to take too long.", true],
+		["<voice_0x010009CF><se_low>*: Hm? Didn't you follow what I was sayin'?\nI told you I was only goin' to explain it once!", true],
+		["<voice_0x010009D0><se_low>*: Just forget it! Never mind!", true],
+		["<voice_0x010009D1><se_low>*: Go on! Get out of here!", true],
+		["<voice_0x010009D2><se_low>*: Er, I shouldn't have lost my rag like that.\nNot when you were doin' me a favour. Sorry.", true],
+		["<voice_0x010009D3><se_low>*: Anyway, all I want you to do is bring back somethin' of mine that I left under the red tree. You can see it easily from up here on the mountain.", true],
+		["<voice_0x010009D4><se_low>*: It won't be anythin' grand, but I will be\nable to give you a small reward if you help me out here.", true]
+	]
+}

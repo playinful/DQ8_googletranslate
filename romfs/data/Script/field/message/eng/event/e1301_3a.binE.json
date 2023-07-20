@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<se_low>King Trode: I say, <hero>!\nThe blizzard's still raging out there!", true],
+		["<se_low>King Trode: We only just thaw out, and you try to cover us all in snow again! Use your head, boy!", true]
+	]
+}

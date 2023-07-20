@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<se_high>Emma: Oh! It's you!", true],
+		["<se_high>Emma: ...Really?\nI'd no idea there'd been any trouble at the castle. Thanks for letting me know.", true],
+		["<se_high>Emma: I know you say it's all okay now,\nbut I shouldn't just be lazing about\nwhen they might need me there.", true],
+		["<se_high>Emma: It's about time I was getting back to my\nduties anyway.", true]
+	]
+}

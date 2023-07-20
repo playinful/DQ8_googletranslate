@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C7E>Princess Medea: .........", true],
+		["<voice_0x01001C7F><se_high>Princess Medea: I wonder where Jessica went...", true],
+		["<voice_0x01001C80><se_high>Princess Medea: I appreciate your thinking of me, but I think you need to focus on Jessica for the moment.", true],
+		["<voice_0x01001C81><se_high>Princess Medea: Please find her!", true]
+	]
+}

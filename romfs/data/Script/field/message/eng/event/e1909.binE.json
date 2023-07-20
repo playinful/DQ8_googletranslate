@@ -1,0 +1,29 @@
+{
+	"header": [1, 0, 0, 0, 24, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 191, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 24, 0, 0, 0],
+	"strings": [
+		["<se_low>Chen Mui: Where are you going!?\nYou must introduce yourself to the Elders.", true],
+		["<se_low>*: Oh, you're <hero>, are you?\nMy, haven't you grown into a fine young man!?", true],
+		["<se_low>Yangus: You've got the wrong bloke, lady.\nI ain't the guv!", true],
+		["<se_low>Yangus: An' anyhow, 'ow come you know the guv then, eh?", true],
+		["<se_high>Jessica: Huh!? Are you serious!?\nSurely you're not mistaking me for <hero>!", true],
+		["<se_high>Jessica: I could understand you mistaking one of\nthe other guys for him, but I'm a woman!\nI've got...and I haven't got...I mean,\nthere are obvious differences!", true],
+		["<se_def>Angelo: Please! I'm not <hero>!\nOh, no. We're very different!", true],
+		["<se_def>Angelo: Notice my dashing good looks?\nThe glint in my eye?\nMy tendency to smoulder captivatingly?<page>Angelo: ...My...hair? Hm.\nI think your eyesight must be going, old girl!", true],
+		["<voice_0x010017A5><se_low>Chen Mui: I see. It would take powerful warriors indeed\nto overcome the strength of the Lord of the Dragovians.", true],
+		["<voice_0x010017A6><se_low>Chen Mui: Which makes <hero> and these humans perfect for the task.", true],
+		["<voice_0x010017A7><se_low>Chen Mui: Indeed, their valour has been acknowledged by none less than the Godbird Empyrea.", true],
+		["<voice_0x010017A8><se_low>*: The Godbird Empyrea!?", true],
+		["<voice_0x010017A9><se_low>Chen Mui: I hesitate to ask any more of you when you already journey under such a terrible burden, <leader>.", true],
+		["<voice_0x010017AA><se_low>Chen Mui: But before you confront Rhapthorne, I would ask that you face the Lord of the Dragovians. Think of it as a personal request from me.\nWill you accept?", true],
+		["<voice_0x010017AB><se_low>Chen Mui: I had faith in you from the very start.\nSimply hearing that lifts my spirits immensely.", true],
+		["<voice_0x010017AC><se_low>Chen Mui: Please come to my home, where I will prepare a cheese banquet suitable for great heroes such as yourselves.", true],
+		["<voice_0x010017AD><se_low>Chen Mui: I beg of you to reconsider, <leader>.", true],
+		["<voice_0x010017AE><se_low>Chen Mui: This is a golden opportunity to rebuild the bridge between the societies of humans and Dragovians.", true],
+		["<voice_0x010017AF><se_low>Chen Mui: The futures of both of our races lie in your hands. Now, can I count on your help?", true],
+		["<se_high>Red: You want yer eyes testin', you do!\nMe an' <hero> don't look nuffin' like each other!", true],
+		["<se_high>Red: Stone me, I must be gettin' on if people are mistakin' me for a bloke! Looks like I need to find some secret treasure or somefin' that stops agein' in its tracks.", true],
+		["<se_low>Morrie: Ah ha ha! You are pulling off my legs, ay?\nOf course, I am not the young ragazzo.", true],
+		["<se_low>Morrie: No, I am the owner of the celebrated Monster Arena <endash> the pit of PASSION and POWER!", true],
+		["<se_low>Morrie: Si, I.........am MORRIE MOZZARELLA!", true]
+	]
+}

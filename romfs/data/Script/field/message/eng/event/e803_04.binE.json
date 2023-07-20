@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C69><se_high>Princess Medea: I've been thinking a lot about Prince Charmless<endash> ...I mean, Charmles.\nHe isn't anything like I imagined.", true],
+		["<voice_0x01001C6A><se_high>Princess Medea: What am I going to do?", true],
+		["<voice_0x01001C6B><se_high>Princess Medea: I must respect my grandmother's wishes.", true],
+		["<voice_0x01001C6C><se_high>Princess Medea: But... Do you think people can change after they get married?", true],
+		["<voice_0x01001C6E><se_high>Princess Medea: I know, I know, <hero>.\nI could also be quite self-centred when\nI was younger.", true],
+		["<voice_0x01001C70><se_high>Princess Medea: Perhaps Prince Charmles will grow out of it, too...", true]
+	]
+}

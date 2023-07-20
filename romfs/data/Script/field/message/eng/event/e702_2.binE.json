@@ -1,0 +1,21 @@
+{
+	"header": [1, 0, 0, 0, 16, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 16, 0, 0, 0],
+	"strings": [
+		["<voice_0x010010E0><se_def>Cash: Let me explain the situation.", true],
+		["<voice_0x010010E1><se_def>Cash: Our foster father has passed away.\nNow we're in the middle of deciding which\nof us will take control of his fortune.", true],
+		["<voice_0x010010E2><se_def>Cash: Maybe \u2018arguing\u2019 is a better term.\nMy sister and I are like oil and water.\nWe never agree on anything.", true],
+		["<voice_0x010010E3><se_high>Carrie: That's why we've decided to have a trial.\nA contest, basically.", true],
+		["<voice_0x010010E4><se_high>Carrie: Whoever completes it and returns to town first will be declared the winner.", true],
+		["<voice_0x010010E5><se_def>Cash: The trial itself is a Golding family tradition.\nIt's like a test of a potential heir's worthiness.", true],
+		["<voice_0x010010E6><se_def>Cash: All one has to do is enter the Dragon Graveyard and obtain the mark of the family on their hands. Sounds easy, right?", true],
+		["<voice_0x010010E7><se_high>Carrie: Not! The Dragon Graveyard is full of monsters! We could even die, you know? So we've agreed to hire bodyguards to protect us during the competition.", true],
+		["<voice_0x010010E8><se_def>Cash: The only thing is, we haven't been able to\nfind bodyguards of the right calibre.", true],
+		["<voice_0x010010E9><se_def>Cash: But I've got a good feeling about you travellers.\nWhat do you say, little sister?", true],
+		["<voice_0x010010EA><se_high>Carrie: I hate to say it, but I agree.\nWow, this is a first.", true],
+		["<voice_0x010010EB><se_def>Cash: Well, there you have it. Okay then.\nIf we're all in agreement, why don't you\ngo ahead and choose which of our backs\nyou'd like to cover?", true],
+		["<voice_0x010010EC><se_def>Cash: The loser will use bodyguards picked from the mansion staff. Won't you, Carrie?", true],
+		["<voice_0x010010ED><se_high>Carrie: Whatever.\nYou're going down either way, Cash.", true],
+		["<voice_0x010010EE><se_def>Cash: Sure, sis, sure.", true],
+		["<voice_0x010010EF><se_def>Cash: Oh, and one more thing.\nYou'll be compensated regardless of who wins.\nSo don't worry about pay.", true]
+	]
+}

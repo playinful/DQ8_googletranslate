@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100134E><se_def>*: Oh, dear sister!\nYou look so beautiful when you pray!\nToo beautiful!", true],
+		["<voice_0x0100134F><se_def>*: Dear Goddess, what should a poor soul such as I do, now I have fallen for one of your flock?", true],
+		["<voice_0x01001350><se_def>Angelo: Confess! Even when you are racked with self<->doubt, have faith in Her divine benevolence.\nThe Goddess looks kindly upon those who\ntake action.", true],
+		["<voice_0x01001351><se_def>*: ...Was that...an angel!?\nOh! I understand!\nI will do exactly as you say!", true]
+	]
+}

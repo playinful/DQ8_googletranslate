@@ -1,0 +1,23 @@
+{
+	"header": [1, 0, 0, 0, 18, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 106, 4, 0, 0, 176, 4, 0, 0, 186, 4, 0, 0, 196, 4, 0, 0, 206, 4, 0, 0, 18, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100171B><se_def>Prince Charmles: Honestly! Where has the Princess got to?\nWhat could possibly be taking her so long!?", true],
+		["<voice_0x0100171C><se_def>Prince Charmles: Hm!?", true],
+		["<voice_0x0100171D><se_def>Prince Charmles: What do you think you're doing!?\nAre you trying to ruin my wedding!?", true],
+		["<voice_0x0100171E><se_def>Prince Charmles: I won't stand for it! Guards!\nGet rid of him at once!", true],
+		["<voice_0x0100171F><se_def>*: Excuse me for the interruption Your Majesty, Lords, ladies and gentlemen. I, I have an urgent communiqu\u00e9 for the King.", true],
+		["<voice_0x01001720><se_low>King Clavius: What!? Is this true?", true],
+		["<voice_0x01001721><se_def>Prince Charmles: What is it, Father?\nTell me at once!", true],
+		["<voice_0x01001722><se_low>King Clavius: It seems the bride...\nPrincess Medea has disappeared.", true],
+		["<voice_0x01001723><se_def>Prince Charmles: What did you say!?", true],
+		["<voice_0x01001724><se_def>Prince Charmles: I don't believe it...! Well...she must have been kidnapped! It's the only explanation!", true],
+		["<voice_0x01001725><se_def>Prince Charmles: ...A-HA! Of course!", true],
+		["<voice_0x01001726><se_def>Prince Charmles: ...It was you!\nThis is all your doing!", true],
+		["<voice_0x01001727><se_def>Prince Charmles: He was jealous, so he kidnapped the Princess!", true],
+		["<voice_0x01001728><se_def>Prince Charmles: Seize him at once!", true],
+		["<voice_0x01001729><se_low>Morrie: Alt!", true],
+		["<voice_0x0100172A><se_low>Morrie: Da-dah!", true],
+		["<voice_0x0100172B><se_low>Morrie: You lay the fingers onto my amico on top of my dead body!", true],
+		["<voice_0x0100172C><se_low>Morrie: Go, ragazzo! Leave this to me.", true]
+	]
+}

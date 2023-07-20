@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 44, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 146, 1, 0, 0, 244, 1, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_high>*: Welcome to the travellers' chapel.", true],
+		["<se_high>*: It was built for people crossing the desert, just like you.", true],
+		["<se_high>*: There are a number of other chapels like ours, scattered throughout the world in remote and dangerous parts where few dare to live.", true],
+		["<se_high>*: We feel that it's the duty of the church to protect travellers from the fearsome monsters roaming the wilderness.", true],
+		["<se_def>*: You must be exhausted after travelling all this way. Well, you're in luck!", true],
+		["<se_low>*: Fancy comin' all the way out here to a dreary ol' dust bowl like this. How about I give you a tip to make it all worthwhile?", true],
+		["<se_low>*: There's this weapon called a sandstorm spear that kicks up a cloud of dust and blinds your enemy.", true],
+		["<se_low>*: Apparently you can make it by mixin' a partisan spear and somethin' really dry like sand.", true],
+		["<se_low>*: If you plan on continuing your journey through this dangerous desert, you should make sure you're well stocked up first.", true]
+	]
+}

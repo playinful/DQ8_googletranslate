@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 104, 0, 0, 0, 105, 0, 0, 0, 106, 0, 0, 0, 107, 0, 0, 0, 108, 0, 0, 0, 109, 0, 0, 0, 110, 0, 0, 0, 111, 0, 0, 0, 112, 0, 0, 0, 113, 0, 0, 0, 114, 0, 0, 0, 115, 0, 0, 0, 116, 0, 0, 0, 117, 0, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_high>*: We...\n*: We...", true],
+		["<se_high>*: ...are servants to the immortal bird.\n*: ...are servants to the immortal bird.", true],
+		["<se_high>*: One of the items you seek...\n*: One of the items you seek...", true],
+		["<se_high>*: ...can be found to the south-east in Farebury.\n*: ...can be found to the south-east in Farebury.", true],
+		["<se_high>*: Though the immortal bird is here...\n*: Though the immortal bird is here...", true],
+		["<se_high>*: ...she sees to all corners of the world.\n*: ...she sees to all corners of the world.", true],
+		["<se_high>*: She, too, seeks something. But not an orb...\n*: She, too, seeks something. But not an orb...", true],
+		["<se_high>*: She will find it soon...\n*: She will find it soon...", true],
+		["<se_high>*: Only those true of heart...\n*: Only those true of heart...", true],
+		["<se_high>*: ...may fly on the back of the immortal bird.\n*: ...may fly on the back of the immortal bird.", true],
+		["<se_high>*: It is for her to decide...\n*: It is for her to decide...", true],
+		["<se_high>*: ...whether you are worthy of such privilege.\n*: ...whether you are worthy of such privilege.", true],
+		["<se_high>*: We will pray...\n*: We will pray...", true],
+		["<se_high>*: ...for an end to all the pain.\n*: ...for an end to all the pain.", true],
+		["<se_high>*: Prayer will open the way.\n*: Prayer will open the way.", true],
+		["<se_high>*: We will be here...\n*: We will be here...", true],
+		["<se_high>*: ...praying for you.\n*: ...praying for you.", true],
+		["<se_high>*: Praying for you and the immortal bird...\n*: Praying for you and the immortal bird...", true]
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D0F><se_low>Yangus: Well, this is Brains's gaff,\nbut it looks like 'e ain't 'ome.", true],
+		["<voice_0x01000D10><se_low>Yangus: Oh well. We better get back to the pub an'\nask the old codger wot 'e wants to do.", true]
+	]
+}

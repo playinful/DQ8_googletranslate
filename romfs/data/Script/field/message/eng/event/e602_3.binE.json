@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<se_low>King Trode: Oh, my poor minister!\nThe curse has deformed you, too...", true],
+		["<se_low>King Trode: ...Although, it was unleashed in the middle of the night... So what were you doing in the courtroom? On my throne!?", true],
+		["<se_low>King Trode: So! You enjoy the feeling of being enthroned, do you!? Well your secret is out now, you frivolous old fool!", true],
+		["<se_low>King Trode: Ah, my head chef.\nThere's nothing quite like your scrambled eggs!\nBut when will I taste them again?", true],
+		["<se_low>King Trode: This was Medea's attendant.\nOh, what a sorry state to be in!", true],
+		["<se_low>King Trode: Medea used to play the piano exquisitely, but I don't suppose her hooves are as nimble as her fingers were.", true],
+		["<se_low>King Trode: Even her beautifully warbling voice has turned into a beautifully whinnying voice...", true],
+		["<se_low>King Trode: What a wretched situation!\nBut I swear I shall see you turned back\nto your former self, my precious child!", true],
+		["<se_low>King Trode: It was this magic circle that saved Medea and I from the thorns.", true],
+		["<se_low>King Trode: Yes, in the end, the magic circle my ancestors drew to protect the world from the power of the sceptre helped only to protect their descendants from it.", true],
+		["<se_low>King Trode: We must be grateful to them. ...Although I would be more grateful if they had also protected us from these vexing transformations!", true],
+		["<se_low>King Trode: The library is behind this door, but it's quite impossible to get through like this.", true],
+		["<se_low>King Trode: But there is another way into the\nlibrary from within the castle.\nWe shall have to use that entrance.", true]
+	]
+}

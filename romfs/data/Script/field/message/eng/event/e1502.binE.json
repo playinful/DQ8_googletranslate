@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 47, 4, 0, 0, 56, 4, 0, 0, 57, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 106, 4, 0, 0, 116, 4, 0, 0, 126, 4, 0, 0, 136, 4, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001450><se_def>*: This is a dry Gigantini; agitated not distressed. Why don't you give it a try, sir?", true],
+		["<voice_0x01001451><se_low>King Trode: Ha ha ha. You read me like a book, my good man. This is just what I was looking for.", true],
+		["<voice_0x01001452><se_low>King Trode: ...Goodness!", true],
+		["<voice_0x01001453><se_low>King Trode: Well, well, well! I am impressed!\nThis is delicious!", true],
+		["<voice_0x01001454><se_def>*: Thank you, sir. You flatter me.\nPer'aps while you enjoy your drink I could entertain you wiz ze tale of Tryan Gully?", true],
+		["<voice_0x01001455><se_low>King Trode: As you wish, my good man. But this drink is more than enough entertainment for me.", true],
+		["<voice_0x01001456><se_def>*: You are too kind...but,\nplease, allow me to begin...\nIt all started long ago,\nmany 'undreds of years past.", true],
+		["<voice_0x01001457><se_def>*: Ze great sage Kupas was out walking one day when 'e found an elf and a gigantes lying injured in ze road.", true],
+		["<voice_0x01001458><se_def>*: Hating to see any creature suffer,\nhe tended to their wounds and 'e saved their lives.", true],
+		["<voice_0x01001459><se_def>*: Amazed zat a human should show zem\nsuch kindness, zey pledged their allegiance\nto Kupas...", true],
+		["<voice_0x0100145A><se_def>*: ...and from zat day forth,\nthe three of them were inseparable.", true],
+		["<voice_0x0100145B><se_def>*: But ze life span of humans, elves and monsters is very different. After many years, Kupas passed on into ze great beyond...", true],
+		["<voice_0x0100145C><se_def>*: Determined to 'onour his dying wish,\nze elf and ze gigantes established a settlement here in the gully.", true],
+		["<voice_0x0100145D><se_def>*: And ever since then, humans, elves and monsters have lived here, side by side, in peace, never forgetting Kupas's wish...", true],
+		["<voice_0x0100145E><se_def>*: ...zat no one should ever be allowed\nto forget how Rhapthorne had terrorised\nthe world.", true],
+		["<voice_0x0100145F><se_def>*: So zat's why ze in'abitants of zis valley are always sure to tell travellers about the terror of the Lord of Darkness.", true],
+		["<voice_0x01001460><se_low>King Trode: Well, well. That's quite a tale. Very interesting, I'm sure. But this drink is absolutely fascinating!", true],
+		["<voice_0x01001461><se_low>King Trode: ...Hmm. Well, that was delicious!\nIt was worth venturing this far into the forest just for that alone!", true],
+		["<voice_0x01001462><se_def>*: Thank you for your custom, sir.\nI wish you a pleasant journey.", true]
+	]
+}

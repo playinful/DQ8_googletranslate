@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<se_low>Kalderasha: Ah, delicious!\nIt tastes better today than ever... Hm?", true],
+		["<se_low>Kalderasha: Oh! What a surprise!\nI have not seen your faces for a while!\nThank you again for what you did.", true],
+		["<se_low>Kalderasha: Who are you? ...Oh!\nYou're one of <hero>'s friends!?", true],
+		["<se_low>Kalderasha: Why such a glum face, anyway?\nIs there something on your mind?", true],
+		["<se_low>Kalderasha: Wait, wait! You do not need to tell everyone!\nThe great Kalderasha knows all there is\nto know!", true],
+		["<se_low>Kalderasha: Come to my house and I will use my fortune-telling to banish your worries!", true]
+	]
+}

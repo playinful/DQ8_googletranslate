@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100191D><se_low>*: Ah, you come to see me, and I ignore you!\nWhat was I thinking? Come! Speak! I listen!", true],
+		["<voice_0x0100191E><se_low>*: Allow me to introduce myself! I am Morrie!\nHere I borrow my ears to the wind.", true]
+	]
+}

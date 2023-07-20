@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x010014F2>Princess Medea: Hahhh...", true],
+		["<voice_0x010014F3><se_low>King Trode: His fever appears to have abated, my dear.", true],
+		["<voice_0x010014F4><se_low>King Trode: And the physician was sure the lad is out of danger now. He should be fine.", true],
+		["<voice_0x010014F5><se_low>King Trode: So, I think perhaps it's time you got some rest, hm?", true],
+		["<voice_0x010014F6><se_low>King Trode: You must look after yourself, my dear.\nI'm told you haven't been eating well\nsince your mother's passing.", true],
+		["<voice_0x010014F7><se_high>Princess Medea: No, Father, I'm quite all right.", true],
+		["<voice_0x010014F8><se_high>Princess Medea: I would like to stay here...just until he wakes up.", true],
+		["<voice_0x010014F9><se_low>King Trode: Hmph, well, if you insist. But have a care,\nmy child. You are in danger of making yourself ill like this.", true],
+		["<voice_0x010014FA><se_low>King Trode: Truly, that young lad has the luck of the devil. Had you not found him when you did, I daren't think what would have become of him.", true],
+		["<voice_0x010014FB><se_high>Princess Medea: Oh!", true],
+		["<voice_0x010014FC><se_high>Princess Medea: You're awake!", true],
+		["*: .........", true],
+		["<voice_0x010014FE><se_high>Princess Medea: Don't worry, you're going to be just fine.", true]
+	]
+}

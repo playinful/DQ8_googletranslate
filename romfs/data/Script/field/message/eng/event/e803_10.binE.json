@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C90><se_high>Princess Medea: Ah! I'm sorry, I'm a bit preoccupied.\nI was thinking about Marta.", true],
+		["<voice_0x01001C91><se_high>Princess Medea: I had a grandmother when I was little.", true],
+		["<voice_0x01001C92><se_high>Princess Medea: She died a very lonely woman.\nShe was never able to marry her true love.", true],
+		["<voice_0x01001C93>Princess Medea: It's a little ironic, really, when you consider my current circumstances.", true],
+		["<voice_0x01001C94><se_high>Princess Medea: (Sigh.) Fate is such a mysterious thing...", true],
+		["<voice_0x01001C95><se_high>Princess Medea: I wonder if I'll really be able to go through with this marriage...", true]
+	]
+}

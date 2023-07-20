@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013C4><se_high>Red: Ah, it's good to be back at the old gaff.", true],
+		["<voice_0x01001DBA><se_high>Red: ...Hold up. That's weird. Where's 'e got to?", true],
+		["<voice_0x01001DBB><se_high>Red: Oh well, I'm sure 'e'll turn up in 'is own sweet bleedin' time.", true],
+		["<voice_0x010013C5><se_high>Red: Seein' as I ain't been back in a while,\nI think I might put me feet up for a bit.", true],
+		["<voice_0x010013C6><se_high>Red: Why don't you lot go and 'ave some fun, eh?", true],
+		["<voice_0x010013C7><se_high>Red: Huh?", true],
+		["<voice_0x010013C8><se_low>*: Red? ...Red! Oh, um, well I, er... I mean,\nyer back sooner than wot I was expectin'...", true],
+		["<voice_0x010013C9><se_high>Red: You jumped-up little... Who gave you\npermission to sit in my chair, eh? Eh?\nCOS IT WEREN'T BLEEDIN' ME!", true],
+		["<voice_0x010013CA><se_high>Red: It ain't meant for great big lumps like you!\nFive more minutes under your lazy backside,\nan' the 'ole thing woulda been matchwood!", true],
+		["<voice_0x010013CB><se_low>*: S-Sorry, boss...", true],
+		["<voice_0x010013CC><se_high>Red: Call yerself a bleedin' 'enchman!?\nGet back outside right now and\nstart keepin' watch like I told ya!", true],
+		["<voice_0x010013CD><se_low>*: Yes, boss! Right away, boss!", true],
+		["<voice_0x010013CE><se_high>Red: Wot a flamin' cheek.", true]
+	]
+}

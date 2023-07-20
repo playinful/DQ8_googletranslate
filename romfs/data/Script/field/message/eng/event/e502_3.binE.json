@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D16><se_low>King Trode: Medea! Where's Medea!?\nShe's gone!", true],
+		["<voice_0x01000D17><se_low>Yangus: ...Uh-oh!\nGuess I shoulda known better.", true],
+		["<voice_0x01000D18><se_low>Yangus: People round 'ere don't care where ya come FROM, they care about wot ya come WIV!", true],
+		["<voice_0x01000D19><se_low>King Trode: Are you saying some ninny-hammer crook from this slum has kidnapped my daughter!?", true],
+		["<voice_0x01000D1A><se_low>Yangus: Oh, keep yer 'air on, Grandad!\nWhoever it was can't o' gone far...\nThey'll still be in town somewhere.", true],
+		["<voice_0x01000D1B><se_low>King Trode: Well we must find them then!\nForget everything else!\nGetting Medea back is all that matters!", true],
+		["<voice_0x01000D1C><se_low>King Trode: Well what are you waiting for, <hero>!? You heard me didn't you!?\nWe must find the culprit immediately and\nsave my precious daughter!", true]
+	]
+}

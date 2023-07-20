@@ -1,0 +1,32 @@
+{
+	"header": [1, 0, 0, 0, 27, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 27, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011AE><se_def>*: Don't come any closer!", true],
+		["<voice_0x010011AF><se_def>*: I don't know who you are,\nbut I won't let you hurt Master Dominico!", true],
+		["<voice_0x010011B0><se_low>Dominico: What are you mumbling about, David!?\nWhat could you possibly do to protect me,\nyou useless good-for-nothing!", true],
+		["<voice_0x010011B1><se_low>Dominico: Move!", true],
+		["<voice_0x010011B2><se_def>David: O-Of course, Master!", true],
+		["<voice_0x010011B3><se_low>Dominico: ...Listen to me, girl!\nI am Dominico, the great magician!\nI presume you have come for me.", true],
+		["<voice_0x010011B4><se_low>Dominico: Well I regret to inform you that I knew you were coming! I foretold this encounter!", true],
+		["<voice_0x010011B5><se_low>Dominico: Consequently, I have already mastered the spell necessary to eliminate a pesky little wand-waver like you!", true],
+		["<voice_0x010011B6><se_low>Dominico: So away with you!\nGo back to where you came from!\n...Alakazam!", true],
+		["<voice_0x010011B7><se_high>Jessica: Hwa ha ha!", true],
+		["<voice_0x010011B8><se_high>Jessica: Such a pity...you can't see how useless your\nfeeble enchantments are against the might\nof this sceptre!", true],
+		["<voice_0x010011B9><se_high>Jessica: Already it has claimed the lives of four heirs.", true],
+		["<voice_0x010011BA><se_low>Dominico: ...W-What!?", true],
+		["<voice_0x010011BB><se_low>Dominico: Enough of your trickery!\nNothing can resist my magic!\nAlakazam!", true],
+		["<voice_0x010011BC><se_high>Jessica: It is time to end this! Watching you struggle on in vain is just too pitiful...", true],
+		["<voice_0x010011BD><se_high>Jessica: ...What's this!?", true],
+		["<voice_0x010011BE><se_high>Jessica: Well, you were quicker than I expected.", true],
+		["<voice_0x010011BF><se_high>Jessica: He he! Well, it seems your pathetic circle has helped you after all. If it hadn't bought you some time, you'd already be dead.", true],
+		["<voice_0x010011C0><se_high>Jessica: Don't worry, you're safe...for now.\nI'm not in the mood to take you all on at once.\nI just haven't got it in me.", true],
+		["<voice_0x010011C1><se_high>Jessica: If I were you, I'd prepare a sturdier defence for our next meeting! And perhaps a shroud!", true],
+		["<voice_0x010011C2><se_low>Dominico: Hahh...hahh...\nThat...hahh...that was a narrow escape!", true],
+		["<voice_0x010011C3><se_def>David: M-Master Dominico! Are you hurt!?", true],
+		["<voice_0x010011C4><se_low>Dominico: Get off me, you disgusting piece of filth!\nThis isn't a chance for you to wheedle your way into my good books!", true],
+		["<voice_0x010011C5><se_def>David: I, I wasn't trying to... I, I just...", true],
+		["<voice_0x010011C6><se_low>Dominico: Enough! Go and give Sir Leopold his dinner! Can't you see I have business to attend to!?", true],
+		["<voice_0x010011C7><se_def>David: O-Of course, Master!", true],
+		["<voice_0x010011C8><se_low>Dominico: You! It seems I am indebted to you! Come!\n ", true]
+	]
+}

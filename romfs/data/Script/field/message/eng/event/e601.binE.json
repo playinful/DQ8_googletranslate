@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D9D><se_low>King Trode: ...Well, I never!\nWhat have we here!?", true],
+		["<voice_0x01000D9E><se_low>King Trode: Yes... This must be it!\nThe ancient ship we heard about in Pickham!", true],
+		["<voice_0x01000D9F><se_low>King Trode: Now we can pick up Dhoulmagus's hateful\ntrail again!", true],
+		["<voice_0x01000DA0><se_low>King Trode: But...it's enormous.\nHow on earth will we get it down to the sea!?\nI must admit, I'm rather stumped.", true],
+		["<voice_0x01000DA1><se_low>King Trode: If only it wasn't quite so far inland...", true],
+		["<voice_0x01000DA2><se_low>King Trode: I know! Show me the map!", true],
+		["<voice_0x01000DA3><se_low>King Trode: Now let's see. Here's my castle.", true],
+		["<voice_0x01000DA4><se_low>King Trode: Which means now we must be...\nHm. Here!?", true],
+		["<voice_0x01000DA5><se_low>King Trode: Unbelievable!", true],
+		["<voice_0x01000DA6><se_low>King Trode: We're directly south of the castle!\nI had no idea we were so close to home.", true],
+		["<voice_0x01000DA7><se_low>King Trode: Hm... In that case, we should go back to the castle and see if we can find mention of this ship in the library. We might just find a clue!", true],
+		["<voice_0x01000DA8><se_low>King Trode: There's no time to lose!\nWe must return to Trodain!\nTo the castle!", true]
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 188, 2, 0, 0, 189, 2, 0, 0, 32, 3, 0, 0, 33, 3, 0, 0, 132, 3, 0, 0, 133, 3, 0, 0, 232, 3, 0, 0, 76, 4, 0, 0, 176, 4, 0, 0, 177, 4, 0, 0, 20, 5, 0, 0, 120, 5, 0, 0, 121, 5, 0, 0, 220, 5, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Hahh...hahh... Just thinkin' about climbin' this mountain is enough to knacker me out!", true],
+		["<se_high>Jessica: Someone explain to me why we need to go back to the Godbird's Eyrie now? Didn't we already defeat Gemon?", true],
+		["<se_high>Jessica: Then again, Empyrea did go to all that effort to bring us to the bottom of the mountain again.\nI suppose we have to climb it for her sake.", true],
+		["<se_def>Angelo: Hey, <hero>!\nWhat exactly is the point of climbing up here!?", true],
+		["<se_def>Angelo: If you're determined to take a detour, couldn't you at least choose a route which is slightly easier on the legs!?", true],
+		["<se_low>Yangus: So that's Gemon then, eh?\nHe don't look too friendly.", true],
+		["<se_low>Yangus: Let's give 'im wot for! I can think of two achin' reasons why 'e ain't me favourite monster at the moment!", true],
+		["<se_high>Jessica: That has to be the Godbird's egg behind Gemon.\nIt's enormous!", true],
+		["<se_high>Jessica: Anyway, the point is, we've got to distract him!\nGet his attention somehow!", true],
+		["<se_def>Angelo: So we climb all this way and finally reach the top, only to be greeted by a monster ugly enough to turn milk sour.", true],
+		["<se_def>Angelo: I fail to see the appeal of mountaineering.", true],
+		["<se_low>Yangus: So Gemon's up on top o' this mountain, is 'e, sittin' on the Godbird's egg?", true],
+		["<se_low>Yangus: Come on then!\nLet's bowl on up there and show 'im who's boss!", true],
+		["<se_high>Jessica: So this huge mountain is hollow.\nThat's really weird.", true],
+		["<se_high>Jessica: The spire-like shape makes it feel more like climbing a tower than exploring a cave.", true],
+		["<se_def>Angelo: Empyrea certainly likes to build her nests in awkward places. I suppose that's why she chose here...", true],
+		["<se_def>Angelo: But it's hard work for us poor souls who have to walk all the way up. At least she can fly.", true],
+		["<se_high>Red: Colour ain't somefin' ya can do wivout, is it?\nI mean, it ain't just that it gets borin' lookin' at ev'ryfin' in black an' white, it zaps yer energy in the end, dunnit?", true],
+		["<se_low>Morrie: This world is full of mistero and intrigo!\nBut you cannot recruit the monsters here, ay?\nThat is only the problem. We should go back to the World of Light, si?", true],
+		["<se_high>Red: Blimey, that's a good-lookin' egg, eh?\nLooks even better in this colourless 'ole.", true],
+		["<se_high>Red: I could squirrel that away nicely and sell it off down the rub-a-dub-dub later. Make a pretty penny, that would. ...But I s'pose ya don't wanna go pullin' a fast one on a Godbird, eh?", true],
+		["<se_low>Morrie: This is the egg of Empyrea? Allora, we must\nbe quiet like the mices, so the Gemon does\nnot see us, ay?", true],
+		["<se_high>Red: Gordon Bennett, talk about an exposed spot.\nThere might as well be a flashin' sign above the nest sayin' \u2018'elp yerself to eggs\u2019!", true],
+		["<se_high>Red: That Godbird's gettin' careless cos she's 'igh an' mighty, that's wot it is. It ain't 'ardly surprisin' that Gemon swooped in to attack, eh?", true],
+		["<se_low>Morrie: Uno, due, uno due!\nWhen you climb to the high places, you must do the hotting-up first, si? Otherwise you gonna pray for it later, ay?", true]
+	]
+}

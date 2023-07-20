@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EDA><se_high>*: Haaah!", true],
+		["<voice_0x01000EDB><se_high>*: That was a salamango.\nArgon lizards absolutely adore them.", true],
+		["<voice_0x01000EDC><se_high>*: People say sleeping lizards wake up at the first whiff of one!", true]
+	]
+}

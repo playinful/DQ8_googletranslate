@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<center>\u2018The youngest of the seven sages was Egeus,\n<center>the Holy Child. A prophet at just six\n<center>years old, he first sensed the threat of\n<center>the Lord of Darkness.", true],
+		["<center>\u2018Another was Regnar,\n<center>who returned from the after[-]life.\n<center>He knew the Goddess better than any other,\n<center>and it was he who named the Godbird Empyrea.", true],
+		["<center>\u2018Then there was Kadan, the great scholar.\n<center>His wisdom was second to none,\n<center>and it was said that he knew all\n<center>there was to know in this wide world.", true],
+		["<center>\u2018Another was Golding, the warrior.\n<center>His might was without equal,\n<center>and friends and foes alike claimed\n<center>that Fortune rode with him into battle.", true],
+		["<center>\u2018Then there was Alexander,\n<center>the magical swords[-]man.\n<center>His prodigious skills extended far beyond the\n<center>battlefield, as he was also a talented sculptor.", true],
+		["<center>\u2018Another was Master Gozo, the sorcerer.\n<center>To him ancient tomes of magic unclasped\n<center>their secrets, granting the use of their\n<center>most potent spells.", true],
+		["<center>\u2018And finally there was I, Kupas, the magician.", true],
+		["<center>\u2018Together, we used our lives as the key to lock\n<center>the Lord of Darkness's soul inside the sceptre.", true],
+		["<center>\u2018As long as our descendants live on,\n<center>Rhapthorne's body and soul can never\n<center>escape from their prisons.", true],
+		["<center>\u2018The Lord of Darkness's body is sealed within\n<center>a large rock in the centre of the world.", true],
+		["<center>\u2018I have been told that Alexander turned\n<center>the rock into a statue to prevent\n<center>unwary men from interfering with it.\u2019", true]
+	]
+}

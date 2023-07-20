@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001818><se_low>Chen Mui: So you have decided to take the\nDragovian Trials.", true],
+		["<voice_0x01001819><se_low>Chen Mui: I hope you'll allow me to accompany you as Munchie again.", true],
+		["<voice_0x0100181A><se_low>Chen Mui: Actually, it isn't a request. We've come together this far. I have every intention of us staying together until the end!", true],
+		["<voice_0x0100181B><se_low>Chen Mui: Let us go, then. To the Heavenly Dais where the Lord of the Dragovians awaits!", true],
+		["<voice_0x0100181C><se_low>Chen Mui: I have a secret to confess. This grave contains not only the worldly remains of Eltrio, but of Xia as well.", true],
+		["<voice_0x0100181D><se_low>Chen Mui: It seemed only right to bury them together,\nafter all they had suffered...", true],
+		["<voice_0x0100181E><se_low>Chen Mui: I erected an empty grave for her in the labyrinth to hide the truth from my people.", true]
+	]
+}

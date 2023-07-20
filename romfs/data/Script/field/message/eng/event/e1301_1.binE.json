@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012CA><se_low>King Trode: G-Good g-grief!\nI d-don't think I've ever been so c-c-cold!", true],
+		["<voice_0x010012CB><se_low>King Trode: Sh-Shouldn't we be g-going after J-Jessica?", true],
+		["<voice_0x010012CC><se_low>King Trode: Then we sh-shouldn't b-be wasting our t-time here.", true],
+		["<voice_0x010012CD><se_low>King Trode: It's not b-because I can't stand the c-cold or anything, you understand-d-d!", true],
+		["<voice_0x010012CE><se_low>King Trode: C-Come on. Let's turn back. If we s-stay here any longer we'll all catch our death of c-c-c-cold.", true]
+	]
+}

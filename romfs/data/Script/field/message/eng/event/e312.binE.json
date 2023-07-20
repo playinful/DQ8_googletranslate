@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 25, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B77><se_def>Angelo: You...\nYou're the people I met at the pub, right?\nWhat are you doing here?", true],
+		["<voice_0x01000B78><se_high>Jessica: What do you mean, what are we doing here!? You told us to come! Now you can take back this stupid ring and we'll be on our way!", true],
+		["<voice_0x01000B79><se_def>Angelo: My ring...?", true],
+		["<voice_0x01000B7A><se_def>Angelo: Of course!\nI can still play that card!", true],
+		["<voice_0x01000B7B><se_def>Angelo: Listen! I've got a favour to ask.", true],
+		["<voice_0x01000B7C><se_high>Jessica: A favour!?\nYou're kidding, right!?", true],
+		["<voice_0x01000B7D><se_high>Jessica: What makes you think we'd want to help you?", true],
+		["<voice_0x01000B7E><se_def>Angelo: Just listen, all right!?\nThere's no time to argue!", true],
+		["<voice_0x01000B7F><se_def>Angelo: ...Can't you feel it?\nCan't you feel the sinister presence in the abbey?", true],
+		["<voice_0x01000B80><se_def>Angelo: I heard that a jester got into the Abbot's residence. I'm convinced he's the source of the sinister air.", true],
+		["<voice_0x01000B81><se_high>Jessica: A jester!?", true],
+		["<voice_0x01000B82><se_def>Angelo: I don't know what he's planning to do,\nbut I'm sure Abbot Francisco's life is in danger!", true],
+		["<voice_0x01000B83><se_def>Angelo: You've got to help!\nI need you to get into the Abbot's residence\nand make sure that he's all right.", true],
+		["<voice_0x01000B84><se_def>Angelo: Believe me, if I could go myself,\nI wouldn't be asking you.\nBut it's impossible at the moment.", true],
+		["<voice_0x01000B85><se_def>Angelo: I swear I will reward you. Please!\nWill you go and make sure the Abbot's safe?", true],
+		["<voice_0x01000B86><se_def>Angelo: ...Thank you. I'm in your debt. Now, listen carefully to what I'm about to tell you.", true],
+		["<voice_0x01000B87><se_def>Angelo: You may have seen them already, but there are some obstinate idiots guarding the bridge to the Abbot's residence. You can't go that way.", true],
+		["<voice_0x01000B88><se_def>Angelo: But if you're prepared to go the long way around, there is another way to get there.", true],
+		["<voice_0x01000B89><se_def>Angelo: You have to leave the abbey as if you were going to Simpleton, but turn immediately left along the river...", true],
+		["<voice_0x01000B8A><se_def>Angelo: Just follow the river along keeping the abbey\nin view.", true],
+		["<voice_0x01000B8B><se_def>Angelo: Keep going along the river and you'll come to\na ruin. It's the old abbey that was used before\nthis one.", true],
+		["<voice_0x01000B8C><se_def>Angelo: There's an underground passageway leading from there to the Abbot's residence.", true],
+		["<voice_0x01000B8D><se_def>Angelo: I'm afraid that's the only way.", true],
+		["<voice_0x01000B8E><se_def>Angelo: The entrance to the ruin can be opened with the Templar's ring I gave you, so you just keep hold of it, all right?", true],
+		["<voice_0x01000B8F><se_def>Angelo: Anyway, there's no time to lose!\nIt's in your hands now.\nPlease help the Abbot!", true]
+	]
+}

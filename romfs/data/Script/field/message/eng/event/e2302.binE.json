@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> touches the crystal ball that sits on the pedestal.", true],
+		["<voice_0x010015DA><se_low>*: Descendants of the great sages, a dire foe awaits you, and I would not have you meet with him unprepared. Now harken to my words.", true],
+		["<voice_0x010015DB><se_low>*: Among the many fiends in Rhapthorne's service, one stands apart...", true],
+		["<voice_0x010015DC><se_low>*: A demon by the name of Juggerwroth.", true],
+		["<voice_0x010015DD><se_low>*: By his hand, proud cities were razed to\nthe ground, and countless innocent lives\nsnuffed out.", true],
+		["<voice_0x010015DE><se_low>*: After the Lord of Darkness was sealed away, the fiend sought to bring about his master's revival...", true],
+		["<voice_0x010015DF><se_low>*: We encountered him shortly after the battle with Rhapthorne, our wounds still fresh.", true],
+		["<voice_0x010015E0><se_low>*: It was a desperate struggle, but we mustered the last vestiges of our strength and wore him down, blow by blow, until victory seemed within our grasp.", true],
+		["<voice_0x010015E1><se_low>*: But try as we might, we could not destroy him. Worse, the final magic we cast upon him was not strong enough to seal him away for good.", true],
+		["<voice_0x010015E2><se_low>*: And so he disappeared to lick his wounds. Whither we did not know.", true],
+		["<voice_0x010015E3><se_low>*: We reasoned that his lair must be somewhere in the wild lands, but we could not find it.", true],
+		["<voice_0x010015E4><se_low>*: He is certain to return. Once his wounds have healed, he will break whatever remains of the seal we placed upon him, and all the world shall suffer.", true],
+		["<voice_0x010015E5><se_low>*: My children, should Juggerwroth rise again, you must seek help. You will need powerful allies if you are to stop him.", true],
+		["<voice_0x010015E6>*: .........", true],
+		["<voice_0x010015E7><se_low>*: Now at last, my duty as a great sage is done...", true],
+		["<voice_0x010015E8><se_low>Yangus: The wild lands, 'e said, right? That'll be where we got the boat, I reckon. I don't remember seein' wossisname round there, mind.", true],
+		["<voice_0x010015E9><se_low>Yangus: Prob'ly worth 'avin' a butcher's though, eh?", true],
+		["<voice_0x010015EA><se_high>Jessica: The wild lands he mentioned must be the place where we found the ship, don't you think?\nI was so excited about finding it,\nI didn't think to look around.", true],
+		["<voice_0x010015EB><se_high>Jessica: We should head back there and\nsee if we missed anything.", true],
+		["<voice_0x010015EC><se_def>Angelo: The wild lands, eh? I wonder, might he have been referring to the place where we found the boat? I can imagine a demon lurking somewhere around there.", true],
+		["<voice_0x010015ED><se_def>Angelo: We should go and explore.", true]
+	]
+}

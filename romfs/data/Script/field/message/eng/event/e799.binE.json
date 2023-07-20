@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 250, 234, 121, 0, 4, 235, 121, 0, 14, 235, 121, 0, 24, 235, 121, 0, 34, 235, 121, 0, 44, 235, 121, 0, 54, 235, 121, 0, 64, 235, 121, 0, 74, 235, 121, 0, 84, 235, 121, 0, 94, 235, 121, 0, 11, 0, 0, 0],
+	"strings": [
+		["<se_def>Cash: Morning, <leader>!\nDid you sleep okay?", true],
+		["<se_def>Cash: That's good!", true],
+		["<se_def>Cash: I'm feeling much better after a night back in my own bed, I can tell you!", true],
+		["<se_def>Cash: Well, that's a shame!", true],
+		["<se_def>Cash: I had a great night's sleep back in my own bed.", true],
+		["<se_def>Cash: That labyrinth was a real chore!\nI'm sure glad to be back to my home comforts!", true],
+		["<se_def>Cash: Anyway, it's thanks to you that we made it back okay. We owe you!", true],
+		["<se_high>Carrie: Yeah, you guys saved our lives.\nWe'd have been toast if it hadn't been for you.", true],
+		["<se_def>Cash: But you know, going through that together\nreally made us realise just how important\nwe are to each other. We've decided not to\nfight any more.", true],
+		["<se_high>Carrie: No doubt that promise will last all of five minutes! But I'm sure we'll only fight like, y'know, normal brothers and sisters!<page>Carrie: Anyway, we want to give you some casino tokens as a reward.", true],
+		["<se_def>Cash: We've got 600 for you.\nWe reopened the casino this morning so,\nwhen you have time, go take a look around.", true]
+	]
+}

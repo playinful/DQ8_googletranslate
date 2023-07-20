@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 230, 0, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 104, 1, 0, 0, 114, 1, 0, 0, 124, 1, 0, 0, 134, 1, 0, 0, 144, 1, 0, 0, 164, 1, 0, 0, 174, 1, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["Yangus obtains the flail of fury and puts it in the bag.", true],
+		["<voice_0x010015BD><se_low>Yangus: Oi Red, wot ya doin' wiv yer feet up, eh?\nWe've gotta give that Rhapthorne geezer a\ngood 'idin', remember?", true],
+		["<voice_0x010015BE><se_high>Red: Yangus, Yangus, Yangus.\nYou just don't get it, do ya?", true],
+		["<voice_0x010015BF><se_high>Red: When the goin' gets tough, it's extra important to take a bit o' time to relax an' get yer strength back. No point goin' inta battle cream<->crackered, is there?", true],
+		["<voice_0x010015C0><se_low>Yangus: Oh...righto.", true],
+		["<voice_0x010015C1><se_high>Red: Tsk.", true],
+		["<voice_0x010015C2><se_high>Red: You can be a bit slow sometimes, can't ya?\nI just 'ope that don't mean yer gonna let the side down when it comes to the crunch in battle.", true],
+		["<voice_0x010015C3><se_high>Red: Wait a sec.", true],
+		["<voice_0x010015C4><se_high>Red: Here, take this.", true],
+		["<voice_0x010015C5><se_high>Red: But it's just a loan, right?\nI want it back once everyfin's sorted.", true],
+		["<voice_0x010015C6><se_high>Red: And don't you DARE try doin' a runner wiv it, or I swear I'll find ya and I'll do ya. Got it?", true],
+		["<voice_0x010015C7><se_low>Yangus: Awright, keep yer 'air on. Once we've sorted this Rhapthorne geezer out, you'll get it straight back, scout's 'onour!", true],
+		["<voice_0x010015C8><se_high>Red: How's that flail o' fury workin' out for ya,\nthen, eh?", true],
+		["<voice_0x010015C9><se_high>Red: Remember, I only lent it to ya.\nOnce this is all over, I want it back.", true]
+	]
+}

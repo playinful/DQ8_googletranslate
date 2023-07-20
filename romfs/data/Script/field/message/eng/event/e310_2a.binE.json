@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["Angelo: ............", true],
+		["<se_def>Angelo: Would you mind talking to the Templar Captain?", true]
+	]
+}

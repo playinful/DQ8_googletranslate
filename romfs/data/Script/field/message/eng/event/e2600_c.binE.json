@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x010018F4><se_def>Dhoulmagus: Haaaah...", true],
+		["<voice_0x010018F5><se_def>Dhoulmagus: How many years has it been now...? How many years spent scrubbing floors and dusting shelves...? Is this truly what it is to be a sage's apprentice?", true],
+		["<voice_0x010018F6><se_def>Dhoulmagus: He hasn't taught me a thing. What little magic I do know, I've had to teach myself...if such piffling parlour tricks can even be called magic.", true]
+	]
+}

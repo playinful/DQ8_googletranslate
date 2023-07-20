@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 104, 0, 0, 0, 200, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: D'ya really think Dhoulmagus come all the way 'ere in a little boat like that!?", true],
+		["<se_def>Angelo: Hardly likely.\nI imagine he'd travel in a lot more style than that.", true],
+		["<se_def>Angelo: No, it probably belongs those people Cash and Carrie sent to find him.", true],
+		["<se_low>Yangus: Ya know wot?\nRed's got 'erself a ship now an' all.", true],
+		["<se_low>Yangus: It's called \u2018The Classy Lady\u2019.\nYa wouldn't o' thought it was 'ers wiv a name like that, would ya!?", true],
+		["<se_high>Jessica: It may be a small boat, but it's probably quite nippy.\nSize isn't everything, you know!", true],
+		["<se_def>Angelo: It's funny that there's no one here with that boat.", true],
+		["<se_def>Angelo: I wonder if that means Golding's posse are off fighting Dhoulmagus as we speak?", true],
+		["<se_low>Yangus: Ya know wot?\nRed's got 'erself a ship now an' all.", true],
+		["<se_low>Yangus: It's called \u2018The Classy Lady\u2019.\nYa wouldn't o' thought it was 'ers wiv a name like that, would ya!?", true],
+		["<se_high>Jessica: That must be the boat those people from Baccarat used to reach the island.", true],
+		["<se_def>Angelo: Hm, it's bothering me.\nI know it doesn't really matter, but still...", true],
+		["<se_def>Angelo: What d'you think this ship's called?\nIs it written on the wheel, perhaps?", true]
+	]
+}

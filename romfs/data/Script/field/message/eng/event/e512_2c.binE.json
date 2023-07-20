@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001942><se_high>Mirrie: Oh! Morrie, darlin'!", true],
+		["<voice_0x01001943><se_high>Mirrie: I didn't expect to see you in here today!\nHeard something on the wind then, have you?", true],
+		["<voice_0x01001944><se_low>Morrie: Ah ha ha! Curioso, ay! I like that in my ladies!\n(But not too much, eh, boys!? Ha ha, no...)\nI come to see your face, Mirrie, my bellissimo flower!", true],
+		["<voice_0x01001945><se_high>Mirrie: Oh, you! Flattery will get you everywhere!\nTee hee!", true],
+		["<voice_0x01001946><se_low>Morrie: Ah ha ha! That's my girl!", true],
+		["<voice_0x01001947><se_low>Morrie: Va bene! It's this way!\nI be waiting for you in the bottom!", true]
+	]
+}

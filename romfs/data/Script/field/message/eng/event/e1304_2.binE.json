@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001395><se_high>Red: So we meet again!\nJust so's you know, there's nothin' to see 'ere.", true],
+		["<voice_0x01001396><se_high>Red: Up to you whether you believe me or not.", true]
+	]
+}

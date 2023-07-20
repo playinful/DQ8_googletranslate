@@ -1,0 +1,27 @@
+{
+	"header": [1, 0, 0, 0, 22, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 155, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 22, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100111E><se_def>*: Well, well, Cash.\nSo you finally caught up!", true],
+		["<voice_0x0100111F><se_def>*: Carrie's already gone on ahead, though.", true],
+		["<voice_0x01001120><se_def>*: I'm afraid I couldn't keep up with her...", true],
+		["<voice_0x01001121><se_high>*: There you are at last, Cash!\nI'm afraid you're too late, though.", true],
+		["<voice_0x01001122><se_high>*: Carrie came by here ages ago now.", true],
+		["<voice_0x0100112E><se_high>*: I'd stop wasting my time and get going\nif I were you.", true],
+		["<voice_0x01001124><se_def>*: Huh. I had no idea the monsters in here were so strong.", true],
+		["<voice_0x01001125><se_def>*: Carrie went on ahead and left me behind when I got injured. She's in terrible danger...", true],
+		["<voice_0x01001126><se_def>*: If you find her and she's in trouble,\njust forget about the trial.\nDon't let the monsters harm her...", true],
+		["<voice_0x01001127><se_def>Cash: This is probably just some kind of trick.\nShe did put sleeping powder in our food,\nafter all.", true],
+		["<voice_0x01001128><se_def>Cash: I can't believe she'd leave someone injured like that, though. She must be in a real panic...", true],
+		["<voice_0x01001129><se_def>*: Well, well, Carrie.\nSo you finally caught up!", true],
+		["<voice_0x0100112A><se_def>*: Cash has already gone on ahead, though.", true],
+		["<voice_0x0100112B><se_def>*: I'm afraid I couldn't keep up with him...", true],
+		["<voice_0x0100112C><se_high>*: There you are, Carrie!\nI'm afraid you're too late, though.", true],
+		["<voice_0x0100112D><se_high>*: Cash came by here ages ago.", true],
+		["<voice_0x0100112E><se_high>*: I'd stop wasting my time and get going\nif I were you.", true],
+		["<voice_0x01001124><se_def>*: Huh. I had no idea the monsters in here were so strong.", true],
+		["<voice_0x0100112F><se_def>*: Cash went on ahead and left me behind when I got injured. He's in terrible danger...", true],
+		["<voice_0x01001130><se_def>*: If you find him and he's in trouble,\njust forget about the trial.\nDon't let the monsters harm him...", true],
+		["<voice_0x01001131><se_high>Carrie: Hm, I don't know.\nAfter what he did with the sleeping powder...\nMaybe this is just another dumb trick.", true],
+		["<voice_0x01001132><se_high>Carrie: Anyway, it serves him right if he gets himself into trouble, leaving an injured man behind like that! That's, like, SO low!", true]
+	]
+}

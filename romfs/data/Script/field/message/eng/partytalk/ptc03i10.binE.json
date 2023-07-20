@@ -1,0 +1,31 @@
+{
+	"header": [1, 0, 0, 0, 26, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 203, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 46, 1, 0, 0, 47, 1, 0, 0, 48, 1, 0, 0, 49, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 88, 2, 0, 0, 89, 2, 0, 0, 188, 2, 0, 0, 189, 2, 0, 0, 190, 2, 0, 0, 32, 3, 0, 0, 33, 3, 0, 0, 34, 3, 0, 0, 35, 3, 0, 0, 26, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: I dunno why, but I just can't relax wiv lots o' soldiers about.", true],
+		["<se_low>Yangus: I s'pose it's cos they were always the enemy back when I was still a bandit.", true],
+		["<se_low>Yangus: They've got the biggest and best castle in the world 'ere, but I bet Rhapthorne could make it a mountain o' dust in no time.", true],
+		["<se_high>Jessica: I don't think King Clavius has mentioned the whole cheating thing to the Prince yet.", true],
+		["<se_high>Jessica: Maybe he's just waiting for the right moment to give him what for!", true],
+		["<se_high>Jessica: I don't think King Clavius has mentioned the whole cheating thing to the Prince yet.", true],
+		["<se_high>Jessica: Maybe he's just waiting for the right moment to give him what for!", true],
+		["<se_def>Angelo: I have an idea, so just hear me out, okay?\nI say we should give Charmless a present with a lizard hidden inside.", true],
+		["<se_def>Angelo: He'll open it up, totally unawares, and then die of shock when he sets eyes on our little green friend! Not King Trode! The LIZARD!", true],
+		["<se_def>Angelo: Then Princess Medea won't have to marry him...\nThat was my plan anyway, but I suppose it's not exactly what you'd call flawless.", true],
+		["<se_def>Angelo: I wish I hadn't opened my mouth now.\nJust forget I said it.", true],
+		["<se_def>Angelo: I wonder what the Princess really thinks about getting married to His Woyal Highness and spending the rest of her life in the castle here?", true],
+		["<se_def>Angelo: I'm desperate to know, but she never mentions it and it's impossible to ask with Trode always around.", true],
+		["<se_low>Yangus: I'm always surprised at 'ow big Argonia is.", true],
+		["<se_low>Yangus: Huh! Orb-'untin' 'ere ain't gonna be no fun.", true],
+		["<se_high>Jessica: I don't recall any of the heirs to the great sages living in Argonia.", true],
+		["<se_high>Jessica: So I don't think we'll find an orb around here. But if you insist...", true],
+		["<se_def>Angelo: Once we've collected all the orbs, it'll be time to fight Rhapthorne.", true],
+		["<se_def>Angelo: Maybe we should get whatever we might need in battle while we're looking for them?", true],
+		["<se_high>Red: Blimey, talk about takin' liberties wiv the truth! The prince don't look nuffin' like 'is portrait!<page>Red: They prob'ly forced the artist to make 'im look better, eh? Either that, or the bloke was bleedin' blind!", true],
+		["<se_high>Red: The poor 'orse-princess... Can you imagine 'avin' to get 'itched to that chubby lump o' royal lard, eh?", true],
+		["<se_high>Red: It's totally beyond me 'ow ya could 'ave yer 'usband picked out for ya before yer even born. It's a different world the toffs live in, eh?", true],
+		["<se_low>Morrie: I do not like this principe Charmles.\nJust because he is the son of the King, he thinks everything is gonna land in his loins, ay?<page>Morrie: No, no, no.\nYou gotta make your own steaks in this world!", true],
+		["<se_low>Morrie: This, this soiled brat makes me embarrassed to be a man. He has no GUSTO!", true],
+		["<se_low>Morrie: I have a secret dream to build the CASTELLO DI MOZZARELLA <endash> a towering castle, rising out of my pit, even more splendido and enorme as this Argonia Castle.", true],
+		["<se_low>Morrie: When my dream is one day came true, I will invite my great friend ragazzo as my very first guest! So keep it all crossed that I'm gonna make it, ay?", true]
+	]
+}

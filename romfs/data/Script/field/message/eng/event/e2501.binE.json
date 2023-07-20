@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001765><se_high>Jessica: Hey!", true],
+		["<voice_0x01001766><se_high>Jessica: The sun's setting while you're lounging around, you know.", true],
+		["<voice_0x01001767><se_high>Jessica: Get a move on, will you?\nThe next town won't come to us!", true]
+	]
+}

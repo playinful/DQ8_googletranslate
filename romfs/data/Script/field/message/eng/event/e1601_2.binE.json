@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 251, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001480><se_low>King Trode: Oops! Someone's coming!\nWe must hide!", true],
+		["<voice_0x01001481><se_def>Marcello: You wanted to see me, Your Holiness?", true],
+		["<voice_0x01001482><se_low>Lord High Priest: This place is far removed from the secular world...", true],
+		["<voice_0x01001483><se_def>Marcello: I understand. I will see that the Templars take charge of Your Holiness's security.", true],
+		["<voice_0x01001484><se_low>Lord High Priest: ...But rumours know no bounds, Marcello.", true],
+		["<voice_0x01001485><se_low>Lord High Priest: I hear your name among the whisperings. There are disturbing allegations surrounding you.", true],
+		["<voice_0x01001486><se_low>Lord High Priest: And I fear they may be more than mere rumours.", true],
+		["<voice_0x01001487><se_def>Marcello: It is sad that the talented should always be the victims of envy, Your Holiness. Surely you don't believe thes<endash>", true],
+		["<voice_0x01001488><se_low>Lord High Priest: Abbot Francisco was very dear to me.\nMy one true friend. We were very close.", true],
+		["<voice_0x01001489><se_low>Lord High Priest: I am employing you as master of my guard for a very good reason. For Francisco.", true],
+		["<voice_0x0100148A><se_low>Lord High Priest: When you were abandoned by your parents,\nhe raised you in the abbey as if you were his own son.", true],
+		["<voice_0x0100148B><se_low>Lord High Priest: The least I can do for him is to keep a close eye on you. To stop you straying any further from the fold.", true],
+		["<voice_0x0100148C><se_low>Lord High Priest: Marcello. You are intelligent and competent. You have clearly demonstrated that in your command of the Templars.", true],
+		["<voice_0x0100148D><se_low>Lord High Priest: Can you not satisfy yourself with that?\nIf you persist with your current duplicity,\nI will have no choice but to discipline you.", true],
+		["<voice_0x0100148E><se_low>Lord High Priest: But I am not so unjust as to think it's only you. The church is riddled with corruption and bribery. I suppose I am largely to blame for being too lenient.", true],
+		["<voice_0x0100148F><se_low>Lord High Priest: Now let that be the end of this discussion.", true],
+		["<voice_0x01001490><se_low>Lord High Priest: Underneath this o'erleaping ambition, you have a good soul. There is still time for you to mend your ways.", true],
+		["<voice_0x01001491><se_def>Marcello: ...Thank you, Your Holiness.\nMay the Goddess be with you always.", true],
+		["<voice_0x01001492><se_low>Lord High Priest: Ah, Francisco, my old friend... I should have known the book of his conscience would be closed to me. Guide his straying soul...\nlest he lose it.", true]
+	]
+}

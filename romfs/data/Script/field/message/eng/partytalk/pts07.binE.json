@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 244, 1, 0, 0, 88, 2, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<se_low>King Trode: You mustn't give people a fright like that, <leader>.", true],
+		["<se_low>King Trode: Goodness! What a scream he had on him, though!", true],
+		["<se_low>Yangus: They were 'uggin' each other! I caught a glimpse of 'em 'oldin' on to each other for dear life!", true],
+		["<se_low>Yangus: Two grown men like that 'avin' a cuddle!\nTremblin' like leaves they were, 'UGGIN'!\nIt was the funniest thing I've seen in ages!", true],
+		["<se_high>Jessica: It might have been cute...if they'd been two little boys!", true],
+		["<se_high>Jessica: But two grown men?\nAnd it was just a little scare, you know?\nWhat a pair of sissies!", true],
+		["<se_def>Angelo: I don't see what's so strange about two men hugging like that.", true],
+		["<se_def>Angelo: I mean, back at the abbey...\nEr, no, never mind.", true],
+		["<se_high>Red: Do them two call 'emselves men, do they? Gordon Bennett! Forget monsters, a delinquent kid would rung rings around that pair! ", true],
+		["<se_low>Morrie: Ah ha ha! You know how to pass the wind up people, ay? You are trying to make them used to the scary situazioni so they can handle the monsters next time, si?", true]
+	]
+}

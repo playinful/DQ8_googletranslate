@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 200, 0, 0, 0, 44, 1, 0, 0, 144, 1, 0, 0, 244, 1, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_low>*: I bought in a load of snakeskin whips by mistake a while back. Couldn't sell 'em all of course.", true],
+		["<se_low>*: I racked my brains tryin' to figure out a way to get rid of 'em.<page>*: And then I stumbled on an alchemy recipe to turn 'em into dragontail whips!<page>*: Can't tell you what it is, mind.", true],
+		["<se_low>*: I suppose I could give you a hint. They're called dragontail so they're obviously made from part of a dragon. Two parts to be precise.", true],
+		["<se_def>*: Grrr...", true],
+		["<se_low>*: (Mumble mumble...)", true],
+		["<se_low>*: I was too scared to sleep... If only I could be holding a woman instead.", true],
+		["<se_def>*: Erm, it's not how it looks. There's nothing weird going on, I swear. Don't go getting the wrong idea now.", true]
+	]
+}

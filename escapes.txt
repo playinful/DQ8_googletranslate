@@ -1,0 +1,103 @@
+<-->
+<->
+<...>
+<:>
+<IF_MALE><ELSE_NOT_MALE><ENDIF_MALE>
+<IF_SOLO><ELSE_NOT_SOLO><ENDIF_SOLO>
+<IF_TARGETTOP_SIDE_P><ELSE_NOT_TARGETTOP_SIDE_P><ENDIF_TARGETTOP_SIDE_P>
+<IF_TEAM_TITLE_EXIST><ELSE_NOT_TEAM_TITLE_EXIST><ENDIF_TEAM_TITLE_EXIST>
+<IF_character_0_MALE><ELSE_NOT_character_0_MALE><ENDIF_character_0_MALE>
+<IF_character_1_MALE><ELSE_NOT_character_1_MALE><ENDIF_character_1_MALE>
+<IF_PLR_NOUN_I_NAME_0><ELSE_NOT_PLR_NOUN_I_NAME_0><ENDIF_PLR_NOUN_I_NAME_0>
+<IF_PLR_NOUN_I_NAME_1><ELSE_NOT_PLR_NOUN_I_NAME_1><ENDIF_PLR_NOUN_I_NAME_1>
+<IF_ACT=TARGET><ELSE_ACT!=TARGET><ENDIF_ACT=TARGET>
+<IF_ACTOR_SOLO><ELSE_ACTOR_NOT_SOLO><ENDIF_ACTOR_SOLO>
+<IF_TARGET_SOLO><ELSE_TARGET_NOT_SOLO><ENDIF_TARGET_SOLO>
+<IF_SING val_(\d)><ELSE_NOT_SING><ENDIF_SING>
+<IF_ACTOR_F><IF_ACTOR_M><IF_ACTOR_N><ENDIF_ACTOR_MFN>
+<IF_TARGET_F><IF_TARGET_M><IF_TARGET_N><ENDIF_TARGET_MFN>
+<endash>
+<equal>
+<empty>
+<gold>
+<coin>
+<center>
+<page>
+<nbsp>
+<se_def>
+<se_high>
+<se_low>
+<x>
+<wait=30>
+<wait_m>
+<wait_s>
+<NICK_NAME>
+<DEF_ART_PLR_M_NAME_3>
+<DEF_ART_PLR_M_NAME_4>
+<DEF_ART_PLR_M_NAME_5>
+<DEF_ART_SGL_I_NAME_0>
+<DEF_ART_SGL_I_NAME_1>
+<DEF_ART_SGL_I_NAME_2>
+<DEF_ART_SGL_M_NAME_3>
+<DEF_ART_SGL_M_NAME_4>
+<DEF_ART_SGL_M_NAME_5>
+<INDEF_ART_NUM_I_NAME_0, val_0>
+<INDEF_ART_NUM_I_NAME_1, val_2>
+<INDEF_ART_PLR_I_NAME_0>
+<INDEF_ART_PLR_M_NAME_3>
+<INDEF_ART_PLR_M_NAME_4>
+<INDEF_ART_PLR_M_NAME_5>
+<INDEF_ART_SGL_I_NAME_3>
+<INDEF_ART_SGL_M_NAME_3>
+<INDEF_ART_SGL_M_NAME_4>
+<INDEF_ART_SGL_M_NAME_5>
+<value>
+<avg>
+<TARGET>
+<PLR_M_NAME>
+<TEAM_TITLE>
+<INDEF_ART_TARGET>
+<INDEF_ART_TARGET_2>
+<INDEF_ART_TARGET_3>
+<action>
+<actor>
+<alive_players>
+<cause_item>
+<character>
+<item_1>
+
+<Cap> [†]
+<ACTION_0> [‡]
+<DEF_ART_ACTOR> [‰]
+<DEF_ART_TARGET> [‾]
+<DEF_ART_ACTION> [‱]
+<INDEF_ART_ACTION> [℄]
+<INDEF_ART_SGL_I_NAME_0> [↪]
+<INDEF_ART_SGL_I_NAME_1> [⇶]
+<INDEF_ART_SGL_I_NAME_2> [⇱]
+<PLR_I_NAME_0> [⋘]
+<SGL_I_NAME_0>
+<SGL_I_NAME_1>
+<SGL_I_NAME_2>
+<TEAM_NAME>
+<character_0>
+<character_1>
+<character_2>
+<hero>
+<leader>
+<most_heroic>
+<nickname>
+<string_0>
+<string_1>
+<string_2>
+<string_3>
+<string_4>
+<val_0>
+<val_1>
+<val_2>
+<val_3>
+<val_4>
+<val_5>
+<val_6>
+<val_7>
+<val_8>

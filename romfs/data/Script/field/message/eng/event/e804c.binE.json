@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 230, 68, 12, 0, 240, 68, 12, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CD2><se_high>Princess Medea: Welcome to dreamland, sleepyhead!\nI'm so grateful for these chances to talk to you, <hero>!", true],
+		["<voice_0x01001CD3><se_high>Princess Medea: And I'm so happy Jessica's back with us...", true],
+		["<voice_0x01001CD4><se_high>Princess Medea: Even if Father and I are still cursed.", true],
+		["<voice_0x01001CD5><se_high>Princess Medea: Sometimes I wonder if we'll have to spend the rest of our lives like this.", true],
+		["<voice_0x01001CD6><se_high>Princess Medea: I'm sorry. It's just that I get so sad every time I think of Trodain covered in thorns.", true],
+		["<voice_0x01001CD7><se_high>Princess Medea: You know what's strange, though?\nThat you weren't affected by the curse, <hero>.", true],
+		["<voice_0x01001CD8><se_high>Princess Medea: But I shouldn't be surprised. I always knew there was something special about you, <hero>.", true],
+		["<voice_0x01001CD9><se_high>Princess Medea: Don't forget to take me to the spring every now and then. I miss talking to you...", true]
+	]
+}

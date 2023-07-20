@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000DD9><se_low>King Trode: Oh dear.\nWhat a state the place is in.\nIt's such a terrible shame.", true],
+		["<voice_0x01000DDA><se_low>King Trode: To work, then!\nFirst things first, we need to find a book containing information on that ship.", true],
+		["<voice_0x01000DDB><se_low>King Trode: Maybe there'll be some kind of clue as to how to get it moving again.", true]
+	]
+}

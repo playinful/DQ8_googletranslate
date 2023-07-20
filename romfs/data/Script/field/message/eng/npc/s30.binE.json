@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 200, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 46, 1, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_def>*: If you're planning on heading into the snowy country, you should spend the night here and warm your bones first.", true],
+		["<se_def>*: If you go through the cave northwest of here, you'll find yourself in a place with snow as far as the eye can see.", true],
+		["<se_def>*: I'd love to see the snow for myself, but I'm useless in the cold. Just thinking about it makes my teeth ch-chatter!", true],
+		["<se_def>*: I'm waiting around here in this church in the hope that I might eventually pluck up the courage to go and have a look.", true]
+	]
+}

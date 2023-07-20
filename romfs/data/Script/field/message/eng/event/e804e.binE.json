@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 230, 68, 12, 0, 240, 68, 12, 0, 250, 68, 12, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CE1><se_high>Princess Medea: I can't get over it!\nFlying through the air is so wonderful!", true],
+		["<voice_0x01001CE2><se_high>Princess Medea: You know, I always dreamt of becoming a bird when I was little.", true],
+		["<voice_0x01001CE3><se_high>Princess Medea: This was before you came to the castle, <hero>.", true],
+		["<voice_0x01001CE4><se_high>Princess Medea: All I did was study every day.\nI didn't have anyone to play with.\nThat's probably why I dreamt of having wings...", true],
+		["<voice_0x01001CE5><se_high>Princess Medea: I'd be able to fly away whenever I wanted.", true],
+		["<voice_0x01001CE6><se_high>Princess Medea: Even with the curse, being able to turn into a bird and fly through the sky is like a dream come true.", true],
+		["<voice_0x01001CE7><se_high>Princess Medea: Do you think we might turn into a fish next?", true],
+		["<voice_0x01001CE8><se_high>Princess Medea: I hope not!\nI hate the ocean.", true],
+		["<voice_0x01001CE9><se_high>Princess Medea: Why?\nBecause I'd sink like a stone.\nI can't swim!", true]
+	]
+}

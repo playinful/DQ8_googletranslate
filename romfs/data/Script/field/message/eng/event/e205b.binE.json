@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000A67><se_high>Jessica: Um...", true],
+		["<voice_0x01000A68><se_high>Jessica: I really must apologise for my behaviour.", true],
+		["<voice_0x01000A69><se_high>Jessica: We'll talk more later, but I need to be alone\nright now... I'll see you back at the village.", true]
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<se_def>Marcello: ............", true],
+		["<se_def>Marcello: What are you doing here?\nHave you found Dhoulmagus?\nNo? Then get to it!", true],
+		["<se_def>Marcello: Well, well.\nWhat brings you here?", true],
+		["<se_def>Marcello: Hm...\nYou're looking for the Moonshadow harp?\nThe name certainly rings a bell...", true],
+		["<se_def>Marcello: Of course! I read about it in a book we received from the Kingdom of Ascantha.", true],
+		["<se_def>Marcello: Why are you looking for it, anyway?\nWhat a strange thing to be doing.", true],
+		["<se_def>Marcello: ............", true],
+		["<se_def>Marcello: What do you want?", true],
+		["<se_def>Marcello: Oh, so you found that Moonshadow harp?\nI'm very pleased for you, I'm sure.", true],
+		["<se_def>Marcello: But you're supposed to be finding Dhoulmagus!\nJust concentrate on the task at hand for once.", true],
+		["<se_def>Marcello: You certainly seem to have an awful lot of time on your hands.", true],
+		["<se_def>Marcello: Even if that really is the Moonshadow harp, which I very much doubt, what exactly do you expect me to do about it?", true],
+		["<se_def>Marcello: Why are travellers always such strange folk?\nIt's beyond me. But I suppose that's the nature\nof strangers...ah ha ha!", true],
+		["<se_def>Marcello: I'm sure I read about the Moonshadow harp\nin a book we received from the Kingdom\nof Ascantha.", true],
+		["<se_def>Marcello: But why are you looking for it?\nWhat a strange thing to be doing.", true]
+	]
+}

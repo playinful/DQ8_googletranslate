@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001778><se_def>*: Master Chen Mui! What a surprise!\nIt has been many years. When did you return?", true],
+		["<voice_0x01001779><se_low>Chen Mui: Save the pleasantries!\nYou must tell me what is happening here!", true],
+		["<voice_0x0100177A><se_low>Chen Mui: ...I apologise. That's a matter for me to discuss with the Council Elders. Pray, let us pass.", true],
+		["<voice_0x0100177B><se_def>*: Most honoured Chen Mui.\nYou may pass, but I cannot permit the humans to enter the council chamber with you.", true],
+		["<voice_0x0100177C><se_low>Chen Mui: We are facing a dire crisis,\nand you stand on formalities!?", true],
+		["<voice_0x0100177D><se_low>Chen Mui: I will take full responsibility for my guests.\nNow move out of my way at once!", true],
+		["<voice_0x0100177E><se_def>*: It appears your mind is made up, Master Chen Mui. In that case, please enter.", true]
+	]
+}

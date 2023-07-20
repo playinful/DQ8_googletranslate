@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["\u2018Here rests my beloved daughter, Xia.\u2019", true],
+		["<voice_0x0100181F><se_low>Chen Mui: I have a secret to confess. This is not the final resting place of my daughter and your mother, Xia.", true],
+		["<voice_0x01001820><se_low>Chen Mui: It seemed only right to bury her with Eltrio, after all they had suffered.", true],
+		["<voice_0x01001821><se_low>Chen Mui: Now, at least, in death, they can be together...", true]
+	]
+}

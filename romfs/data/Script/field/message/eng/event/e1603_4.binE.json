@@ -1,0 +1,28 @@
+{
+	"header": [1, 0, 0, 0, 23, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 23, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001574><se_def>Marcello: What!? W-What are you doing!?\n...Let me go!", true],
+		["<voice_0x01001575><se_def>Marcello: If you...hadn't interfered...I could have had all of Rhapthorne's power...", true],
+		["<voice_0x01001576><se_def>Marcello: But...it's all over now... All hope...is gone...", true],
+		["<voice_0x01001577><se_def>Marcello: Let me go! I don't want your help!", true],
+		["<voice_0x01001578><se_def>Angelo: No. I won't let you die.", true],
+		["<voice_0x01001579><se_def>Angelo: You will go on living, knowing that the brother you despised your whole life took pity on you.", true],
+		["<voice_0x0100157A><se_def>Angelo: I won't let you have everything your own way.", true],
+		["<voice_0x0100157B><se_def>Marcello: You're determined...to disgrace me more!? You...!", true],
+		["<voice_0x0100157C>Angelo: ........................", true],
+		["<voice_0x0100157D><se_def>Angelo: More than ten years. It was more than ten years ago that I first came to the abbey having lost\nmy family.", true],
+		["<voice_0x0100157E><se_def>Angelo: And you were the first person I spoke to.", true],
+		["<voice_0x0100157F><se_def>Angelo: I had nothing. No family, no home... I was all alone and I didn't know anyone at the abbey.", true],
+		["<voice_0x01001580><se_def>Angelo: You were kind to me. Just for those first few moments, you were genuinely kind.", true],
+		["<voice_0x01001581><se_def>Angelo: As soon as you found out who I was,\nit changed everything...", true],
+		["<voice_0x01001582><se_def>Angelo: But, I never forgot that moment of kindness.", true],
+		["<voice_0x01001583><se_def>Marcello: You will regret the day you saved my life.", true],
+		["<voice_0x01001584><se_def>Angelo: You know, I really don't care. Do your worst. You can't hurt me any more.", true],
+		["<voice_0x01001585>Marcello: ........................", true],
+		["<voice_0x01001586><se_def>Angelo: Isn't this your ring? Your Templar's ring?", true],
+		["<voice_0x01001587><se_def>Marcello: It's yours. It means nothing to me now.", true],
+		["<voice_0x01001588><se_high>Jessica: Angelo...", true],
+		["<voice_0x01001589><se_high>Jessica: Are you just going to let him leave?\nHe's really badly hurt.", true],
+		["<voice_0x0100158A>Angelo: ........................", true]
+	]
+}

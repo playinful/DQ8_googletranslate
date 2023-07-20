@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001352><se_def>*: Grrrrr...", true],
+		["<voice_0x01001353><se_low>*: Hurry! Down here!", true],
+		["<voice_0x01001354><se_low>Marta: They cannot hurt us in here.", true],
+		["<voice_0x01001355><se_low>Marta: Evil cannot penetrate the barrier.", true],
+		["<voice_0x01001356><se_low>Marta: What was that noise!?", true],
+		["<voice_0x01001357><se_low>Marta: I have a very bad feeling about this.\nSomething is terribly wrong...", true]
+	]
+}

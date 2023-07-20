@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 230, 68, 12, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CDA><se_high>Princess Medea: (Sob, sob...)\nOh, is that you, <hero>?", true],
+		["<voice_0x01001CDB><se_high>Princess Medea: I'm sorry.\nI didn't want you to have to see me crying.", true],
+		["<voice_0x01001CDC><se_high>Princess Medea: It's just that I can't get Marta out of my mind.\nShe was such a lovely old lady...", true],
+		["<voice_0x01001CDD><se_high>Princess Medea: But we should try not to dwell on it.\nWe have so little time together...\nLet's talk about happier things.", true],
+		["<voice_0x01001CDE><se_high>Princess Medea: That was the first time I've ever seen snow!\nIt was so beautiful. Like a giant, fluffy white blanket...", true],
+		["<voice_0x01001CDF><se_high>Princess Medea: If we played hide-and-seek, you'd never be able to find me! I'm so white as a horse.", true],
+		["<voice_0x01001CE0><se_high>Princess Medea: Don't forget to take me to the spring now and then. I miss talking to you, <hero>...", true]
+	]
+}

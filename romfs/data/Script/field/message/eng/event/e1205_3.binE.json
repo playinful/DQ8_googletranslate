@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012B4><se_high>*: Jessica, Jessica! Look!\nI can use Transform now!\nI'm not that good yet, but...", true],
+		["<voice_0x010012B5><se_high>*: Ready? TRANSFORM!\nInto a Hammerhood!", true],
+		["<voice_0x010012B6><se_high>*: ...Huh? That's not right!\nTRANSFORM! Back to normal!", true],
+		["<voice_0x010012B7><se_high>*: ...Huh? That's not right either!\nI've forgotten how to turn myself back!\nEr... He he he!", true],
+		["<voice_0x010012B8><se_high>*: Maybe this'll work...\nTRANSFORM!", true],
+		["<voice_0x010012B9><se_high>*: That's it! Phew!\nI was worried I wouldn't be able to turn back!", true],
+		["<voice_0x010012A1><se_high>Bangerz: Jessica! I didn't know you were<endash>", true],
+		["<voice_0x010012A2><se_high>Jessica: Sorry Bangerz, I'm only dropping in for a bit. I've still got a long way to go.", true],
+		["<voice_0x010012A3><se_high>Jessica: It's a bit complicated. I've kind of avenged Alistair's death, but I kind of haven't...", true],
+		["<voice_0x010012A4><se_high>Bangerz: It's okay!\nWe're being guards until you come back!", true],
+		["<voice_0x010012A5><se_high>Bangerz: By the time you get back properly,\nme and Mash'll be the best guards ever!", true]
+	]
+}

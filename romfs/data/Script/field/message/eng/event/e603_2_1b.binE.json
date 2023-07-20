@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<se_low>Kalderasha: Ah, so you have come.\nNow stand before the crystal ball and concentrate on what it is that troubles you.", true],
+		["<se_low>Kalderasha: Yes! Yeees!\nThe mists are clearing.\nI see...a castle!", true],
+		["<se_low>Kalderasha: I see a castle...and a young King.\nHe is smiling happily.\nThe thing you seek is with him.", true],
+		["<se_low>Kalderasha: That is all I can tell you.\nThe rest you must figure out for yourself.", true]
+	]
+}

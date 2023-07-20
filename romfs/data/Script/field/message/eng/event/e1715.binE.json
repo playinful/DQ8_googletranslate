@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010015CA><se_def>*: Waaaargh!", true],
+		["<voice_0x010015CC><se_low>*: Hah, hah, hah!\nYou made me jump!", true],
+		["<voice_0x010015CD><se_def>*: Don't frighten me like that!\nI thought you were a monster or something!", true],
+		["<voice_0x010015CE><se_low>*: Thank goodness you're not!", true]
+	]
+}

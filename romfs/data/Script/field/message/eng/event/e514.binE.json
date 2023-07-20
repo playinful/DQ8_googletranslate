@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D99><se_high>Red: You just keep turnin' up like a bad penny,\ndon't ya!? Wot the 'ell d'ya want this time, eh?", true],
+		["<voice_0x01000D9A><se_low>Yangus: ...I was just thinkin' ya might be lonely, is all. Thought I'd drop in an' see 'ow ya was.", true],
+		["<voice_0x01000D9B><se_high>Red: You tryin' to chat me up or somefin'!?", true],
+		["<voice_0x01000D9C><se_high>Red: I've 'ad it up to 'ere wiv your rubbish!\nGet out of 'ere! Sort yerself out!", true]
+	]
+}

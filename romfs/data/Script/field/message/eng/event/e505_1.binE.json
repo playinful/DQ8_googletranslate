@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D5B><se_low>Yangus: There's the chest! The Venus' tear's s'posed to be locked away in that. Must be a real gem!", true],
+		["<voice_0x01000D5C><se_low>Yangus: This ain't the first time I've 'ad a bash at this place. I ain't never managed to get as far as the chest, mind.", true],
+		["<voice_0x01000D5D><se_low>Yangus: But I ain't doin' the off wivout it this time!\nWe're gonna get that Venus' tear!", true]
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x010017CB><se_low>Chen Mui: Now listen to me carefully, <leader>.\nI cannot approach the Lord of the Dragovians in his present state, lest he drain my own strength away.", true],
+		["<voice_0x010017CC><se_low>Chen Mui: Thus, I cannot accompany you to the Dais.\nBut I'll be fighting alongside you in spirit.", true],
+		["<voice_0x010017CD><se_low>Chen Mui: I believe in you, <leader>.\nI know you can bring the Lord of the Dragovians back to his senses.", true]
+	]
+}

@@ -1,0 +1,863 @@
+﻿id_offset=10000
+@0
+
+@1
+cypress stick
+@2
+soldier's sword
+@3
+copper sword
+@4
+steel broadsword
+@5
+platinum sword
+@6
+dream blade
+@7
+falcon blade
+@8
+über falcon blade
+@9
+zombiesbane
+@10
+zombie slayer
+@11
+dragonsbane
+@12
+dragon slayer
+@13
+blizzard blade
+@14
+miracle sword
+@15
+über miracle sword
+@16
+bastard sword
+@17
+liquid metal sword
+@18
+double<->edged sword
+@19
+über double<->edge
+@20
+rusty old sword
+@21
+Dragovian sword
+@22
+Dragovian king sword
+@23
+rapier
+@24
+Templar's sword
+@25
+hell sabre
+@26
+holy silver rapier
+@27
+fallen angel rapier
+@28
+shamshir of light
+@29
+Mercury's rapier
+@30
+bronze knife
+@31
+dagger
+@32
+poison moth knife
+@33
+assassin's dagger
+@34
+icicle dirk
+@35
+poison needle
+@36
+falcon knife
+@37
+imp knife
+@38
+sword breaker
+@39
+eagle dagger
+@40
+iron lance
+@41
+holy lance
+@42
+long spear
+@43
+partisan
+@44
+battle fork
+@45
+sandstorm spear
+@46
+demon spear
+@47
+hero spear
+@48
+metal king spear
+@49
+boomerang
+@50
+reinforced boomerang
+@51
+edged boomerang
+@52
+metal wing boomerang
+@53
+razor wing boomerang
+@54
+swallowtail
+@55
+flametang boomerang
+@56
+stone axe
+@57
+iron axe
+@58
+king axe
+@59
+moon axe
+@60
+bandit axe
+@61
+golden axe
+@62
+battle<->axe
+@63
+conqueror's axe
+@64
+oaken club
+@65
+giant mallet
+@66
+sledgehammer
+@67
+war hammer
+@68
+über war hammer
+@69
+megaton hammer
+@70
+flail of fury
+@71
+flail of destruction
+@72
+thorn whip
+@73
+leather whip
+@74
+snakeskin whip
+@75
+chain whip
+@76
+dragontail whip
+@77
+spiked steel whip
+@78
+demon whip
+@79
+scourge whip
+@80
+Gringham whip
+@81
+farmer's scythe
+@82
+heavy hatchet
+@83
+bardiche of binding
+@84
+hell scythe
+@85
+steel scythe
+@86
+wizard's staff
+@87
+lightning staff
+@88
+staff of divine wrath
+@89
+magma staff
+@90
+staff of antimagic
+@91
+rune staff
+@92
+staff of resurrection
+@93
+magical mace
+@94
+hunter's bow
+@95
+great bow
+@96
+short bow
+@97
+Odin's bow
+@98
+Cheiron's bow
+@99
+Eros' bow
+@100
+plain clothes
+@101
+bandit's grass skirt
+@102
+wayfarer's clothes
+@103
+boxer shorts
+@104
+dancer's costume
+@105
+leather kilt
+@106
+leather dress
+@107
+Templar's uniform
+@108
+fur poncho
+@109
+cloak of evasion
+@110
+bunny suit
+@111
+silk bustier
+@112
+magic bikini
+@113
+spangled dress
+@114
+posh waistcoat
+@115
+magical skirt
+@116
+shimmering dress
+@117
+dark robe
+@118
+dangerous bustier
+@119
+divine bustier
+@120
+Jessica's outfit
+@121
+leather armour
+@122
+scale armour
+@123
+chain mail
+@124
+bronze armour
+@125
+iron cuirass
+@126
+iron armour
+@127
+tortoise shell
+@128
+full plate armour
+@129
+silver cuirass
+@130
+dancer's mail
+@131
+silver mail
+@132
+dragon mail
+@133
+magic armour
+@134
+zombie mail
+@135
+heavy armour
+@136
+spiked armour
+@137
+platinum mail
+@138
+bandit mail
+@139
+sacred armour
+@140
+gigant armour
+@141
+mirror armour
+@142
+liquid metal armour
+@143
+Dragovian armour
+@144
+metal king armour
+@145
+silk robe
+@146
+leather cape
+@147
+robe of serenity
+@148
+magic vestment
+@149
+flowing dress
+@150
+sage's robe
+@151
+angel's robe
+@152
+velvet cape
+@153
+crimson robe
+@154
+princess's robe
+@155
+dragon robe
+@156
+pot lid
+@157
+leather shield
+@158
+scale shield
+@159
+silver platter
+@160
+kitty shield
+@161
+bronze shield
+@162
+Templar's shield
+@163
+iron shield
+@164
+light shield
+@165
+white shield
+@166
+steel shield
+@167
+magic shield
+@168
+dragon shield
+@169
+power shield
+@170
+saintess shield
+@171
+bone shield
+@172
+mirror shield
+@173
+ogre shield
+@174
+silver shield
+@175
+big boss shield
+@176
+ruinous shield
+@177
+Thanatos' shield
+@178
+goddess shield
+@179
+Dragovian shield
+@180
+metal king shield
+@181
+bandana
+@182
+leather hat
+@183
+hairband
+@184
+pointy hat
+@185
+feathered cap
+@186
+turban
+@187
+silver tiara
+@188
+bunny ears
+@189
+stone hardhat
+@190
+iron helmet
+@191
+fur hood
+@192
+bronze helmet
+@193
+coral hairpin
+@194
+pirate's hat
+@195
+iron mask
+@196
+Hermes' hat
+@197
+platinum headgear
+@198
+magical hat
+@199
+happy hat
+@200
+Hades' helm
+@201
+slime crown
+@202
+mythril helm
+@203
+Mercury's bandana
+@204
+scholar's cap
+@205
+thinking cap
+@206
+iron headgear
+@207
+raging bull helm
+@208
+golden tiara
+@209
+great helm
+@210
+phantom mask
+@211
+skull helm
+@212
+Dragovian helm
+@213
+sun crown
+@214
+metal king helm
+@215
+agility ring
+@216
+meteorite bracer
+@217
+strength ring
+@218
+gold ring
+@219
+prayer ring
+@220
+recovery ring
+@221
+goddess ring
+@222
+gospel ring
+@223
+life bracer
+@224
+mighty armlet
+@225
+gold bracer
+@226
+ruby of protection
+@227
+titan belt
+@228
+scholar's specs
+@229
+tough guy tattoo
+@230
+slime earrings
+@231
+devil's tail
+@232
+fishnet stockings
+@233
+garter
+@234
+lady's ring
+@235
+gold rosary
+@236
+sorcerer's ring
+@237
+skull ring
+@238
+holy talisman
+@239
+ring of awakening
+@240
+full moon ring
+@241
+ring of clarity
+@242
+ring of truth
+@243
+ring of immunity
+@244
+catholicon ring
+@245
+dragon scale
+@246
+elevating shoes
+@247
+medicinal herb
+@248
+antidotal herb
+@249
+moonwort bulb
+@250
+strong medicine
+@251
+special medicine
+@252
+lesser panacea
+@253
+greater panacea
+@254
+rose<->root
+@255
+rose<->wort
+@256
+strong antidote
+@257
+special antidote
+@258
+moon's mercy
+@259
+mystifying mixture
+@260
+Yggdrasil leaf
+@261
+Yggdrasil dew
+@262
+amor seco essence
+@263
+chimaera wing
+@264
+holy water
+@265
+magic water
+@266
+elfin elixir
+@267
+rockbomb shard
+@268
+sage's stone
+@269
+seed of strength
+@270
+seed of agility
+@271
+seed of defence
+@272
+seed of wisdom
+@273
+seed of skill
+@274
+seed of life
+@275
+seed of magic
+@276
+mini medal
+@277
+thief's key
+@278
+magic key
+@279
+ultimate key
+@280
+orichalcum
+@281
+bunny tail
+@282
+timbrel of tension
+@283
+Baumren's bell
+@284
+gold nugget
+@285
+iron nail
+@286
+cowpat
+@287
+dragon dung
+@288
+rock salt
+@289
+saint's ashes
+@290
+wing of bat
+@291
+magic beast hide
+@292
+fresh milk
+@293
+rennet powder
+@294
+red mould
+@295
+waterweed mould
+@296
+premium mould
+@297
+plain cheese
+@298
+spicy cheese
+@299
+super spicy cheese
+@300
+scorching cheese
+@301
+cool cheese
+@302
+chilly cheese
+@303
+cold cheese
+@304
+c-c-cold cheese
+@305
+double bubble
+@306
+eau de monster
+@307
+super seed of skill
+@308
+mild cheese
+@309
+cured cheese
+@310
+angel cheese
+@311
+hard cheese
+@312
+soft cheese
+@313
+chunky cheese
+@314
+highly strung cheese
+@315
+crystal ball
+@316
+tool bag
+@317
+Jessica's letter
+@318
+Templar's ring
+@319
+world map
+@320
+Venus' tear
+@321
+Moonshadow harp
+@322
+sand of serenity
+@323
+lizard humour
+@324
+Argon heart
+@325
+great big Argon heart
+@326
+magic mirror
+@327
+sun mirror
+@328
+stone sword
+@329
+Kran Spinels
+@330
+‘The Big Book of Barriers’
+@331
+Marta's bag
+@332
+illuminated sea chart
+@333
+nook grass
+@334
+Godbird's soulstone
+@335
+Darktree leaf
+@336
+Templar Captain's ring
+@337
+Argon ring
+@338
+echo flute
+@339
+Eros' bow recipe
+@340
+imp knife recipe
+@341
+dragon slayer recipe
+@342
+thief's key recipe
+@343
+Morrie's memo #1
+@344
+Morrie's memo #2
+@345
+Morrie's memo #3
+@346
+Monster Arena key
+@347
+Godbird Sceptre
+@348
+gold orb
+@349
+silver orb
+@350
+red orb
+@351
+blue orb
+@352
+green orb
+@353
+yellow orb
+@354
+purple orb
+@355
+copper monster coin
+@356
+silver monster coin
+@357
+gold monster coin
+@358
+flame shield
+@359
+ice shield
+@360
+Erdrick's sword
+@361
+demonsbane
+@362
+dread dagger
+@363
+golden gar
+@364
+black buzzard
+@365
+bad axe
+@366
+candy cane
+@367
+honking hammer
+@368
+wizardly whip
+@369
+slime stick
+@370
+night sniper
+@371
+iron claw
+@372
+fire claw
+@373
+cobra claw
+@374
+king cobra claw
+@375
+beast claw
+@376
+beast talon
+@377
+dragon claw
+@378
+dragonlord claw
+@379
+orichalcum claw
+@380
+gryphon talon
+@381
+iron fan
+@382
+peacock fan
+@383
+rainbow fan
+@384
+stellar fan
+@385
+lunar fan
+@386
+solar fan
+@387
+dryspell fan
+@388
+kaleidoscope
+@389
+fan of peace
+@390
+big bad boss shield
+@391
+gothic mitre
+@392
+dogsbody's hood
+@393
+hexlet's hat
+@394
+kunoichi headband
+@395
+mad cap
+@396
+gothic vestment
+@397
+dogsbody's vest
+@398
+nitid tutu
+@399
+hexlet's skirt
+@400
+abiding blazer
+@401
+oriental warrior wear
+@402
+butler's best
+@403
+jester's outfit
+@404
+cap'n's clothes
+@405
+mandarin dress
+@406
+kunoichi costume
+@407
+über sacred armour
+@408
+white gold bell
+@409
+darksteel bell
+@410
+ethereal stone
+@411
+Alistair's armour
+@412
+metal slime earrings
+@413
+fire dragon charm
+@414
+light dragon charm
+@415
+lord's bracer
+@416
+super double bubble
+@417
+super seed of agility
+@418
+super seed of defence
+@419
+super seed of strength
+@420
+super seed of wisdom
+@421
+super seed of magic
+@422
+super seed of life
+@423
+metal slime platter
+@424
+healie hat
+@425
+healie t-shirt
+@426
+hearty ring
+@427
+lucky pendant
+@428
+golden slippers
+@429
+Ye Olde Sword of Erdrick
+@430
+

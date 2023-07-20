@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 121, 0, 0, 0, 130, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000BE0><se_def>Angelo: Follow me!", true],
+		["<voice_0x01000BE1><se_def>Angelo: The guard's up ahead...\nRight, no one make a sound, okay?", true],
+		["<voice_0x01000BE2><se_def>Angelo: I seasoned his supper with a generous pinch of sleeping powder.", true],
+		["<voice_0x01000BE3><se_def>Angelo: Perfect! It worked!\nSleeping like a baby!", true],
+		["<voice_0x01000BE4><se_def>Angelo: Okay. Through here!", true]
+	]
+}

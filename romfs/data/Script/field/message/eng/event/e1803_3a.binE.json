@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 76, 4, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100172D><se_high>Jessica: Phew!\n<Cap><hero>, you're okay!", true],
+		["<voice_0x0100172E><se_low>Yangus: Eh!? Wot's goin' on, guv!?\nWhere's the Princess!?\nWot's 'appened to the weddin'!?", true],
+		["<voice_0x0100172F><se_def>Angelo: Hey, <hero>! Get over here!\nWe've got trouble!", true],
+		["<voice_0x01001730><se_def>Angelo: King Trode and Princess Medea are surrounded by soldiers down there!", true],
+		["<voice_0x01001731><se_low>Yangus: You wot!? I don't get it!", true],
+		["<voice_0x01001732><se_low>Yangus: But we'd better get a move on, guv!\nIt don't look good!", true],
+		["<voice_0x01001733><se_def>*: Stay right where you are!", true],
+		["<voice_0x01001734><se_def>*: Do you think we'll just let you go after you ruined the royal wedding like that!?", true],
+		["<voice_0x01001735><se_def>Angelo: Leave them to us, <hero>. You just get the Princess and King Trode to safety.", true],
+		["<voice_0x01001736><se_high>Red: Awright then, one last punch-up for the road, eh?", true]
+	]
+}

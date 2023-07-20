@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x010014D0><se_low>*: Oi! What d'ya think you're doin'?", true],
+		["<voice_0x010014D1><se_low>*: There's no point in makin' a fuss!\nYou'll be stuck in there 'til ya kick the bucket!", true],
+		["<voice_0x010014D2><se_low>*: So just keep a lid on it an' stop makin' such a racket!", true],
+		["<voice_0x010014D6><se_low>High Priest Rolo: Goddess on high! For the first time in my life I pray to you from my heart! I beg for your mercy!", true],
+		["<voice_0x010014D7><se_low>High Priest Rolo: Please protect us...and the Lord High Priest...", true],
+		["<voice_0x010014D3><se_low>*: Oi! What d'ya think you're doin'?", true],
+		["<voice_0x010014D4><se_low>*: There's no point in makin' a fuss!\nYou'll be stuck in there 'til ya kick the bucket!", true],
+		["<voice_0x010014D5><se_low>*: So just keep a lid on it an' stop makin' such\na racket!", true]
+	]
+}

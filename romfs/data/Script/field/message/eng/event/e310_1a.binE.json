@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Mornin', guv!\nLooks like Dhoulmagus gave us the slip again, eh?", true],
+		["<se_low>Yangus: Seein' the Abbot die like that, right in front of me eyes, like... I can't get it out of me 'ead.", true],
+		["<se_low>Yangus: It's got me right depressed, it 'as.\nI just don't feel like doin' nuffin'.", true]
+	]
+}

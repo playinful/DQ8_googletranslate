@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001D09><se_high>Princess Medea: It's been so long since I last saw Father enjoy himself like that.", true],
+		["<voice_0x01001D0A><se_high>Princess Medea: He's been so lonely, waiting in the wagon all\nby himself while you and the others head\ninto town.", true],
+		["<voice_0x01001D0B><se_high>Princess Medea: It's this place, I'm sure of it. He feels happier here because humans and monsters live together in peace.", true],
+		["<voice_0x01001D0C><se_high>Princess Medea: I know we've met some friendly monsters on our travels, but they are so few and far between that people mistrust them.", true],
+		["<voice_0x01001D0D><se_high>Princess Medea: I suppose that's why the few who aren't hostile to humans have to live here, in secret.", true],
+		["<voice_0x01001D0E><se_high>Princess Medea: Wouldn't it be wonderful if they didn't have to hide <endash> if all the world were as peaceful as this. What a marvellous place it would be...", true]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<se_def>*: Ah! You've brought the magic mirror,\nif I'm not mistaken. May I have a look?", true],
+		["<se_def>*: Hm? How strange!\nI don't sense any magic in the mirror at all.", true],
+		["<se_def>*: It's only a magic mirror if it has magic in it!\nWithout magic, it's just an unmagical mirror,\nor rather, a mirror!", true],
+		["<se_def>*: I just don't understand it.\nI know it contained magic when I examined it with the old wizard...", true],
+		["<se_def>*: Hmm, curious... Maybe he could provide an explanation. I certainly have no idea.", true]
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012BA><se_high>Jessica: Oh, hi...", true],
+		["<voice_0x010012BB><se_high>Jessica: When I ran away from home, I thought that if I could only stop Dhoulmagus, I'd at least have avenged Alistair's death.", true],
+		["<voice_0x010012BC><se_high>Jessica: But it turns out Dhoulmagus was just a puppet. Rhapthorne is the real villain.", true],
+		["<voice_0x010012BD><se_high>Jessica: You know...I can't help wondering what chance people like us stand against an enemy like that... It seems so hopeless...", true],
+		["<voice_0x010012BE><se_high>Jessica: Ugh, listen to me. I sound like such a wimp!", true],
+		["<voice_0x010012BF><se_high>Jessica: I don't know what's got into me lately.\nI'm normally the one giving everyone else encouragement, right?", true],
+		["<voice_0x010012C0><se_high>Jessica: Hey! ...Well, I suppose you provide your fair share of encouragement too.", true],
+		["<voice_0x010012C1><se_high>Jessica: Do you really think so?\nHa ha! You're always so kind...", true],
+		["<voice_0x010012C2><se_high>Jessica: Ahhh...", true],
+		["<voice_0x010012C3><se_high>Jessica: All right then...", true],
+		["<voice_0x010012C4><se_high>Jessica: We've got an early start tomorrow.\nWe should probably get some sleep.", true],
+		["<voice_0x010012C5><se_high>Jessica: Alistair...", true],
+		["<voice_0x010012C6><se_high>Jessica: Once all this is over, I'll be back, I promise.", true]
+	]
+}

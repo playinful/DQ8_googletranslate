@@ -1,0 +1,32 @@
+{
+	"header": [1, 0, 0, 0, 27, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 115, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 225, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 49, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 27, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000A6A><se_def>Lorenzo: Hold on there!\nThis is a family matter.\nThe lady will attend to you shortly.", true],
+		["<voice_0x01000A6B><se_high>Rosalind: I'm going to ask you again, Jessica.", true],
+		["<voice_0x01000A6C><se_high>Rosalind: Are you entirely bereft of compassion!?\nWill you not mourn your own brother's death!?", true],
+		["<voice_0x01000A6D><se_high>Jessica: Not this, again!\nOf course I'm sad!\nI can't believe I even have to say it!", true],
+		["<voice_0x01000A6E><se_high>Jessica: But all you can think of is tradition and\nfamily obligations! I'm talking about avenging\nhis murder!", true],
+		["<voice_0x01000A6F><se_high>Rosalind: Avenging...?", true],
+		["<voice_0x01000A70><se_high>Rosalind: You will stop this foolishness this instant!\nYou are a young lady, not a warrior!", true],
+		["<voice_0x01000A71><se_high>Rosalind: Do you really think Alistair would have wanted this? You will mourn your brother's death like a proper lady! It's our family's way.", true],
+		["<voice_0x01000A72><se_high>Jessica: Our family's way?\nWho cares about our family's way!?", true],
+		["<voice_0x01000A73><se_high>Jessica: I don't expect you to believe me,\nbut Alistair spoke to me!\nHe told me to follow my heart.", true],
+		["<voice_0x01000A74><se_high>Jessica: That's why my mind is made up.\nI don't care about the consequences.\nI'm going to make Alistair's murderer pay.", true],
+		["<voice_0x01000A75>Rosalind: ......", true],
+		["<voice_0x01000A76><se_high>Rosalind: Very well.\nIt's obvious there's no talking to you.\nDo as you wish.", true],
+		["<voice_0x01000A77><se_high>Rosalind: But...", true],
+		["<voice_0x01000A78><se_high>Rosalind: As far as I'm concerned, I no longer have a daughter! I want you out of this house at once!", true],
+		["<voice_0x01000A79><se_high>Jessica: Fine! I was planning on leaving until you came to your senses, anyway!", true],
+		["<voice_0x01000A7A><se_high>Jessica: Bangerz! Mash!\nLet me through. I'm getting my things!", true],
+		["<voice_0x01000A7B><se_high>Jessica: I'm sorry for not telling you the truth before. Forgive me?", true],
+		["<voice_0x01000A7C><se_high>Bangerz: Are you really leavin', Jessica?", true],
+		["<voice_0x01000A7D><se_high>Jessica: Yes. I am. And I want you two to watch over\nthe village while I'm gone.", true],
+		["<voice_0x01000A7E><se_high>Jessica: Alistair told me this would happen.\nHe said you two would protect the town\nand grow up to be famous warriors.", true],
+		["<voice_0x01000A7F><se_high>Mash: (Sob, sob...! Sniff...)", true],
+		["<voice_0x01000A80><se_high>Jessica: Come on. Chin up.", true],
+		["<voice_0x01000A81><se_high>Jessica: Your mission guarding my room is over.\nI want you to patrol outside from now on!", true],
+		["<voice_0x01000A82><se_high>Bangerz: Yes, sir!", true],
+		["<voice_0x01000A83><se_high>Mash: (Sob!)", true],
+		["<voice_0x01000A84><se_high>Jessica: Well, I'm leaving!\nThanks for being such a great mum!\nHave a nice life!", true]
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> pushes the Templar's ring into an impression in the stone marker.", true],
+		["It reveals some steps leading down into\nthe darkness...", true],
+		["But nothing happens.", true]
+	]
+}

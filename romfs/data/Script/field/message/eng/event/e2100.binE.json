@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<tag_voice_0x01001B7D><se_low>Morrie: <Cap><nickname>...", true],
+		["<voice_0x01001B82><se_low>Morrie: Grazie mille for your awaiting.\nNow everything is ready.", true],
+		["<voice_0x01001B83><se_low>Morrie: It is time to start.\nTime to bring the PASSION to my pit.\nTime for the final rank <endash> Rank S!", true],
+		["<voice_0x01001B84><se_low>Morrie: As I promise you, in round one and round two, you will fight the two most powerful monster teams I ever encounter.", true]
+	]
+}

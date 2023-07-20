@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Awright, Brains!\nBusiness goin' well?", true],
+		["<se_def>Brains: Ah, Yangus.\nYou look pleased with yourself.\nHad a spot of luck, have you?", true],
+		["<se_low>Yangus: Too right I 'ave!\nI finally found that elucid Moonshadow 'arp!", true],
+		["<se_def>Brains: Well, good for you!\nBut I thought you were looking for a ship...", true],
+		["<se_low>Yangus: Oh yeah! The ship! Crikey!\nI forgot all about it!\nGotta go! Cheers, Brains!", true],
+		["<se_def>Brains: ...Honestly!\nWhy's he always in such a rush!?", true]
+	]
+}

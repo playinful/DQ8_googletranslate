@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<se_high>Emma: Oh! It's you!", true],
+		["<se_high>Emma: I haven't seen you in a long time!\nThanks again for what you did for the King.", true],
+		["<se_high>Emma: I'm sure he'd be delighted to see you. Make sure you go and pay him a visit at the castle.", true]
+	]
+}

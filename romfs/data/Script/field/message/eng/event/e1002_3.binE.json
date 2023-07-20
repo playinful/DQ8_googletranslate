@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E8F><se_def>Prince Charmles: I simply cannot fathom why Father won't just accept my decision and stop trying to force me to undergo that ridiculous initiation!", true],
+		["<voice_0x01000E90><se_def>Prince Charmles: It's absurd to expect me to go to the royal\nhunting ground all on my own and defeat\na lizard!", true],
+		["<voice_0x01000E91><se_def>Prince Charmles: Urgh... A lizard! The name alone is enough to give me the willies! The world would be a much better place without them in my opinion.", true],
+		["<voice_0x01000E92><se_def>Prince Charmles: I saw a portrait of Princess Medea and she looked like an absolute peach! I'd marry her tomorrow if I could.", true],
+		["<voice_0x01000E93><se_def>Prince Charmles: But first I have to get this tedious initiation out of the way...", true],
+		["<voice_0x01000E94><se_def>Prince Charmles: Oh! I can't do it! I just can't do it! At this rate, I'll never be able to marry Princess Medea...", true],
+		["<voice_0x01000E95><se_def>Prince Charmles: Blast and botheration! Why did I have the misfortune to be born a prince!?", true],
+		["<voice_0x01000E96><se_def>Prince Charmles: If only I were a lowly commoner, I wouldn't have to worry about this silly initiation!\nOh, I just can't abide those awful lizards!", true],
+		["<voice_0x01000E97><se_def>Prince Charmles: But if I were a lowly commoner, I don't suppose I should ever be able to marry a rare beauty like Princess Medea... Oh, life is so cruel!", true],
+		["<voice_0x01000E98><se_def>Prince Charmles: Hm?", true],
+		["<voice_0x01000E99><se_def>Prince Charmles: Is there something on my head?", true],
+		["<voice_0x01000E9A><se_def>Prince Charmles: GAHHH!", true],
+		["<voice_0x01000E9B><se_def>Prince Charmles: AAAAAAAAH!", true],
+		["<voice_0x01000E9C><se_def>Prince Charmles: Ick! Ick! A lizard! What's it doing here?\nGet it out! Get it out!", true]
+	]
+}

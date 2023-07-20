@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<voice_0x010015FB><se_low>Juggerwroth: Gwaaaaaargh! No... NO!\nHow could mere humans get the better of\nthe great Juggerwroth!?", true],
+		["<voice_0x010015FC><se_low>Juggerwroth: Haha! You really thought you had?\nIdiots! I-DI-OTS!", true],
+		["<voice_0x010015FD><se_low>Yangus: Wot's goin' on?\nEveryfin' feels 'eavy all of a sudden!", true],
+		["<voice_0x010015FE><se_high>Jessica: What...what's he done to us?", true],
+		["<voice_0x010015FF><se_def>Angelo: Ah. Now that...is cheating.", true],
+		["<voice_0x01001600><se_high>Red: Ohh...'ow'd I let meself get dragged into\nthis mess...?", true],
+		["<voice_0x01001601><se_low>Morrie: Aaaaaayiii!", true],
+		["<voice_0x01001602><se_low>Juggerwroth: Ha HA! IDIOTS! That is what you get for letting your guard down!", true],
+		["<voice_0x01001603><se_low>Juggerwroth: Still...my strength is not what it was.\nThen again, it is difficult to flex your muscles when you have been turned to STONE.", true],
+		["<voice_0x01001604><se_low>Juggerwroth: Speaking of weakness, how does it feel to be crushed by your own weight?", true],
+		["<voice_0x01001605><se_low>Juggerwroth: Oh, but do not fret. I am no monster.\nIt shall be my pleasure to end your suffering...\nIN ONE FELL SWOOP!", true],
+		["<voice_0x01001606><se_low>Juggerwroth: What!?\nMy, my spell is BROKEN!", true],
+		["<voice_0x01001607><se_def>Marcello: Dear me, what a disappointment.\nYou so nearly had it in the bag.", true],
+		["<voice_0x01001608><se_def>Angelo: Marcello! What are you doing here?", true],
+		["<voice_0x01001609><se_low>Yangus: Whoa, yer Angelo's bruv, intcha?\nWot you doin' 'ere?", true],
+		["<voice_0x0100160A><se_high>Jessica: Marcello! What are you doing here?", true],
+		["<voice_0x0100160B><se_low>Juggerwroth: MORE humans? Gargh! You creatures get everywhere! Just how big IS your little party?", true],
+		["<voice_0x0100160C><se_def>Marcello: Oh, we're not together.\nMost certainly not.", true],
+		["<voice_0x0100160D><se_low>Juggerwroth: No matter. You will DIE together.", true],
+		["<voice_0x0100160E><se_low>Juggerwroth: Prepare to SUFFER, you meddling little worm!", true],
+		["<voice_0x0100160F><se_low>Juggerwroth: ...Unlike the rest, I mean to kill you SLOWLY.", true],
+		["<voice_0x01001610><se_def>Marcello: Hmph, I'm hearing a lot of talk,\nbut not seeing much action.", true],
+		["<voice_0x01001611><se_def>Marcello: How about we dispense with the chatter and you let me do what I came here to do?\nBy which I mean \u2018destroy you\u2019.", true],
+		["<voice_0x01001612><se_low>Juggerwroth: You dare to make light of ME!? GRRRAAAH!\nI shall grind your bones into DUST!", true],
+		["<voice_0x01001613><se_def>Marcello: It seems he's finally ready to fight.\nTry not to get under my feet, will you?", true]
+	]
+}

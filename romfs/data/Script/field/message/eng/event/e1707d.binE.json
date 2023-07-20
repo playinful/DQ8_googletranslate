@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100162D><se_high>Jessica: This doesn't look good!\nArgh! We've got to get out of here!", true],
+		["<voice_0x0100162E><se_low>Yangus: Uh, uh-oh! We're in trouble now!\nTime to leg it!", true],
+		["<voice_0x0100162F><se_def>Angelo: Well I knew we'd bring the house down, but I didn't think it would happen quite so literally!\nThis show's over!", true],
+		["<voice_0x01001630><se_high>Red: Thanks a bunch, you lot, takin' the easy way out! Well I ain't dyin' now! Not after beatin' that dirty great lump! I'm gettin' out of 'ere if it\nkills me!", true],
+		["<voice_0x01001631><se_low>Morrie: We take out the capo di tutti capi, and he takes out the castello, ay? Time to do the splits, amici!", true]
+	]
+}

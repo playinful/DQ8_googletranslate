@@ -1,0 +1,27 @@
+{
+	"header": [1, 0, 0, 0, 22, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 104, 0, 0, 0, 105, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 211, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 203, 0, 0, 0, 44, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 146, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 246, 1, 0, 0, 22, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_low>Gemon: <IF_SOLO>A human<ELSE_NOT_SOLO>Humans<ENDIF_SOLO>!? What <IF_SOLO>is a human<ELSE_NOT_SOLO>are humans<ENDIF_SOLO> doing in MY domain!?", true],
+		["<se_low>Gemon: And that colour! You are not of the Dark realm! It seems you have strayed into a place you are not welcome.", true],
+		["<se_low>Gemon: But at a good time! I was getting bored of watching this egg.", true],
+		["<se_low>Gemon: I'm sure the Lord of Darkness would permit me to enjoy a little distraction!", true],
+		["<se_low>Gemon: You fool<IF_SOLO><ELSE_NOT_SOLO>s<ENDIF_SOLO>! Do you crave punishment!?", true],
+		["<se_low>Gemon: Still, it is tedious watching this egg all the time. Let's have some fun!", true],
+		["<voice_0x01001419><center>When you wish to return to the hill,\n<center>call for me and I will take you back.", true],
+		["<voice_0x01001410><center>Are you ready to go now?", true],
+		["<voice_0x01001422><center>If my old powers were to return,\n<center>I'm sure I could help you.\n<center>I'm sorry that I cannot be of any use.", true],
+		["<voice_0x01001421><center>No? You don't want me to take you there?\n<center>I'm afraid that's all I can do\n<center>for you at present...", true],
+		["<voice_0x0100141A><center>Farewell for now.\n<center>Please save my egg.\n<center>You are my only hope.", true],
+		["<voice_0x01001416><center>Then let us depart.", true],
+		["<center>Please. Take the soulstone of my son.", true],
+		["<center>Would you like to return to the grassy hill?", true],
+		["<center>I see. Well I shall be waiting for you here\n<center>should you change your mind.", true],
+		["<center>Very well. Then I shall take you.", true],
+		["<center>The soulstone will allow you humans to change\n<center>your physical form into that of a bird and fly.", true],
+		["<center>But its powers are limited to use in our world;\n<center>the World of Light.", true],
+		["<center>We should be leaving soon.\n<center>Climb upon my back and I shall carry you.", true]
+	]
+}

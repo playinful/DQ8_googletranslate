@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CEA><se_high>Princess Medea: I'm so glad you're safe, <hero>!", true],
+		["<voice_0x01001CEB><se_high>Princess Medea: When you were captured, I didn't know what I was going to do.", true],
+		["<voice_0x01001CEC><se_high>Princess Medea: Father and I decided to continue the journey by ourselves...", true],
+		["<voice_0x01001CED><se_high>Princess Medea: But, you know, he couldn't stop talking about you, <hero>. He really depends on you.", true],
+		["<voice_0x01001CEE><se_high>Princess Medea: Of course, I do too!", true],
+		["<voice_0x01001CEF><se_high>Princess Medea: Ah! If only Prince Charmles were more like you, <hero>!", true]
+	]
+}

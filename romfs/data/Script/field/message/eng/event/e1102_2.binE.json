@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 123, 0, 0, 0, 126, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 145, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001007><se_def>Dhoulmagus: Ha ha ha! Feisty! You surprise me!\nI never imagined you could squirm for so long!", true],
+		["<voice_0x01001008><se_def>Dhoulmagus: Had I not been healing, I would have crushed you in an instant.", true],
+		["<voice_0x01001009><se_def>Dhoulmagus: But never mind!\nIt is time we brought this little show to an end!", true],
+		["<voice_0x0100100A><se_def>Dhoulmagus: What a pity...", true],
+		["<voice_0x0100100B><se_def>Dhoulmagus: What a pity it will be to finally say goodbye!", true],
+		["<voice_0x0100100C><se_def>Dhoulmagus: Now taste my true power!", true],
+		["<voice_0x0100100D><se_def>Dhoulmagus: Ah ha ha ha hah!", true],
+		["<voice_0x0100100E><se_def>Dhoulmagus: Hwa ha ha ha hah! You will writhe in the unbearable agony of these thorns forever!", true],
+		["<voice_0x0100100F><se_def>Dhoulmagus: What!? Why isn't it working!?\nWhat kind of trickery is this!?", true],
+		["<voice_0x01001010><se_def>Dhoulmagus: ...You leave me no choice!\nNow you will face my true might!", true],
+		["<voice_0x01001011><se_def>Dhoulmagus: Gwaaaaargh!", true],
+		["<voice_0x01001012><se_def>Dhoulmagus: Ah ha ha! Ah ha ha! Hwa ha ha ha hah!", true],
+		["<voice_0x01001013><se_def>Dhoulmagus: You worthless fools! Prepare to be crushed!\nYou will never pester me again!", true]
+	]
+}

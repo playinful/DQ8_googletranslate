@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<se_def>*: Sorry about before. I was convinced you were with Dhoulmagus, you see.", true],
+		["<se_def>*: I'm not at liberty to disclose the details,\nbut we came here to the Dark Ruins in pursuit of Dhoulmagus.", true],
+		["<se_def>*: We were chasing after Dhoulmagus and we ended up here.", true],
+		["<se_def>*: Why were we chasing him?\nHmm, good question!\nWell, it's like this...", true],
+		["<se_def>*: We're here to avenge the death of our beloved Mr. Golding, owner of the famous Baccarat casino!", true],
+		["<se_high>*: You fool! That's supposed to be top secret!\nNo one's supposed to know that he's gone!", true],
+		["<se_def>*: Oh yes! Oh no! Listen to me blabbing away!", true],
+		["<se_def>*: By the Goddess!\nAll you had to do was keep your mouth shut!", true],
+		["<se_def>*: Never mind. What's done is done.\nWe may as well tell you everything now.\nAsk away!", true]
+	]
+}

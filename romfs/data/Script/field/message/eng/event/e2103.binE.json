@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<tag_voice_0x01001C25><se_low>Morrie: When we are coming back here, <nickname>, I have the business to attend to. My pit does not run on itself, ay!", true],
+		["<voice_0x01001C2A><se_low>Morrie: I must bring the dead monster in the teams back to the life, and all these things.", true],
+		["<voice_0x01001C2B><se_low>Morrie: So, scusi, but I must <endash> How do you say? <endash> make myself scared for a while!", true],
+		["<voice_0x01001C2C><se_low>Morrie: I see you in the arena, ay?", true]
+	]
+}

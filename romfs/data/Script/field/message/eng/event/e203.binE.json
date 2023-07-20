@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000A26><se_high>Bangerz: We made it!\nJessica's in there.", true],
+		["<voice_0x01000A27><se_high>Bangerz: Now let's get this door open. It's a special door, y'know. Only the people of Alexandria know how to open it.", true],
+		["<voice_0x01000A28><se_high>Bangerz: Go on, give it a try if you don't believe me.", true],
+		["<se_def>No matter how you push or pull,\nthe door doesn't budge. It seems to be locked.", true],
+		["<voice_0x01000A29><se_high>Bangerz: See? I told you!\nOnly Alexandrians know how to open this door.", true],
+		["<voice_0x01000A30><se_high>Bangerz: Looks like you trust me.\nSorry for doubting you.", true],
+		["<voice_0x01000A2A><se_high>Bangerz: This is an emergency, so I'll show you how to open the door. But you have to promise never to tell anyone!", true],
+		["<voice_0x01000A2B><se_high>Bangerz: Okay. Here we go.", true],
+		["<voice_0x01000A2C><se_high>Bangerz: Open sesame!", true],
+		["<voice_0x01000A2D><se_high>Bangerz: Pretty cool, eh?\nIt opens from the bottom!", true],
+		["<voice_0x01000A2E>Bangerz: ......", true],
+		["<voice_0x01000A2F><se_high>Bangerz: Well, this is as far as I'm goin'.\nI'll head back to the village now.\nYou help Jessica!", true]
+	]
+}

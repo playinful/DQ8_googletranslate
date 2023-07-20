@@ -1,0 +1,33 @@
+{
+	"header": [1, 0, 0, 0, 28, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 104, 1, 0, 0, 114, 1, 0, 0, 28, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001229><se_high>Jessica: I-It's not possible... N-No human...could match the power...of the sceptre...!", true],
+		["<voice_0x0100122A><se_high>Jessica: ...You won't...get away with this...!", true],
+		["<voice_0x0100122B><se_high>Jessica: Now...you'll see...the true...power...of this sceptre! Already it...has ended the bloodlines...of four of the sages!", true],
+		["<voice_0x0100122C><se_high>Jessica: ...This town will burn!\nAnd every one of you will perish!", true],
+		["<voice_0x0100122D><se_low>Dominico: Get out of the way!\nMove! Move!", true],
+		["<voice_0x0100122E><se_low>Dominico: Ha ha ha ha hah!\nJust in the nick of time!\nThe barrier is ready!", true],
+		["<voice_0x0100122F><se_low>Dominico: You villainous fiend! Take my life, would you!? Well you'll have to break through my barrier first! Alakazam!", true],
+		["<voice_0x01001230><se_low>Dominico: Ah ha ha ha hah! Behold, I am a mastermind!", true],
+		["<voice_0x01001231><se_low>Dominico: Well done! You did a fine job of keeping her at bay until I was ready!", true],
+		["<voice_0x01001232><se_low>Dominico: I must reward you! You may have the honour of finishing her off! Do you accept?", true],
+		["<voice_0x01001233><se_low>Dominico: Good! Then strike her down!\nMay she never meddle in my affairs again!", true],
+		["<voice_0x01001234><se_low>King Trode: Waaait! Have you gone completely doolally!?", true],
+		["<voice_0x01001235><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x01001236><se_low>Dominico: Who is this strange creature? A friend of yours? Hm... It seems there's more to this situation than meets the eye.", true],
+		["<voice_0x01001237><se_low>Dominico: Tell me what's going on!", true],
+		["<voice_0x01001238><se_low>Dominico: What!? Why on earth not? Explain yourself!", true],
+		["<Cap><leader> explains the situation to Dominico.", true],
+		["<voice_0x01001239><se_low>Dominico: Well, well! So this girl is a friend of yours?", true],
+		["<voice_0x0100123A><se_low>Dominico: And she's been under some kind of curse ever since you defeated Dhoulmagus?", true],
+		["<voice_0x0100123B><se_low>Dominico: Hmph! Hardly a good excuse!\nBut I don't care any more.\nThe girl is yours to do with as you please!", true],
+		["<voice_0x0100123C><se_low>Dominico: Consider it a reward for attempting to protect my life.", true],
+		["<voice_0x0100123D><se_low>Dominico: There won't be any financial reward, of course! Haa ha ha ha hah!", true],
+		["<voice_0x0100123E><se_low>Dominico: Wait! Where's Sir Leopold?", true],
+		["<voice_0x0100123F><se_low>Dominico: He's gone! He must have been scared off by all the disturbance!", true],
+		["<voice_0x01001240><se_low>Dominico: David! Go and find Sir Leopold at once!", true],
+		["<voice_0x01001241><se_def>David: Y-Yes, Master!", true],
+		["<center>The party carries the unconscious Jessica\n<center>to the inn.", true],
+		["<center>She appears to be having some kind of\n<center>dream from which she cannot wake up.", true]
+	]
+}

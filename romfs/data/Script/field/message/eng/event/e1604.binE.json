@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001547><se_def>Marcello: Hey! What's taking so long?\nWhere's the platform got to!?", true],
+		["<voice_0x01001548><se_def>*: Sorry, but you know how it is.\nI'm just a lowly guard, after all.\nNothing I can do about it.", true],
+		["<voice_0x01001549><se_def>Marcello: Curses!", true]
+	]
+}

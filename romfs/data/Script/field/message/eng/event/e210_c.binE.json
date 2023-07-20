@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B0B><se_high>Jessica: So that's how you met. But what happened to\nall the laughter, thrills, and tears?", true],
+		["<voice_0x01000B0C><se_low>Yangus: Well, I'm not finished yet!", true],
+		["<voice_0x01000B0D><se_low>Yangus: This is the best bit! I 'aven't told ya about 'ow the guv 'elped me go straight...", true],
+		["<voice_0x01000B0E><se_high>Jessica: Whatever. You can tell me all about it later.\nRight now, I need some fresh air.", true],
+		["<voice_0x01000B0F><se_low>Yangus: I shoulda known a bird wouldn't get a story like ours, guv.", true],
+		["<voice_0x01000B10><se_low>Yangus: Still, no skin off my nose.", true]
+	]
+}

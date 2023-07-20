@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D40><se_low>Yangus: I need to speak wiv Red.\nYer gonna 'ave to let us through.", true],
+		["<voice_0x01000D41><se_low>*: Yangus! You think Red's gonna wanna see your ugly mush!? Get out of 'ere! Hop it!", true],
+		["<voice_0x01000D42><se_low>Yangus: Don't you boss me around, mate!\nI ain't goin' nowhere 'til I see Red.\nSo shift, skivvy!", true],
+		["<voice_0x01000D43><se_low>*: Skivvy!?\nWho the 'ell d'you think you are!?", true],
+		["<voice_0x01000D44><se_high>Red: What's all the noise!?\nI can hear your gabbin' from in here!", true],
+		["<voice_0x01000D45><se_low>*: S-Sorry, boss!\nI got some geezer wiv no manners out 'ere.\nHe'll be gone in a mo...", true],
+		["<voice_0x01000D46><se_high>Red: It's Yangus, isn't it?\nJust let him in.\nI'll speak to him meself.", true],
+		["<voice_0x01000D47><se_low>*: ...You 'eard the boss!\nGo on! Inside wiv ya!", true]
+	]
+}

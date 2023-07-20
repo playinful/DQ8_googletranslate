@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013A5><se_low>Captain Crow: Shiver me timbers, you beat old Cap'n Crow...\n'Tis a good sign. My treasure be yours.", true],
+		["<voice_0x010013A6><se_low>Captain Crow: Arrrr, me old hearties. Take me treasure and fulfil the dream I never could, arrrr...", true]
+	]
+}

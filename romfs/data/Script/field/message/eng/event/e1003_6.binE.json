@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EEF><se_def>Prince Charmles: No. This is no good, either.\nWe need to find a bigger one.", true],
+		["<voice_0x01000EF0><se_def>Prince Charmles: The only way I'll get the respect I deserve is by returning with the biggest Argon heart the world has ever seen.", true],
+		["<voice_0x01000EF1><se_def>Prince Charmles: So we're going to keep going until we find one big enough to take back. Do I make myself clear?", true]
+	]
+}

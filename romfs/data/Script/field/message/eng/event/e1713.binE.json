@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001676><center>You must fight him now.\n<center>Take the sceptre.", true],
+		["By the mysterious power of Empyrea, each party member receives the Godbird Sceptre.", true]
+	]
+}

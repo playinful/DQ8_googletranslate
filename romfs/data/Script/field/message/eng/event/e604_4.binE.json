@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E0F><se_low>*: T-Take it to the bridge...!\nThings done...got too far......gone...", true],
+		["<voice_0x01000E10><se_high>*: (Boss!)", true],
+		["<voice_0x01000E11><se_high>*: (Boss! Stay with it!)", true],
+		["<voice_0x01000E12><se_high>*: (Thanks for shutting him up for us.\nBut there's no need to make a mountain out of a molehill.)", true],
+		["<voice_0x01000E13><se_high>*: (He steals the odd thing or two and\nhis music is the pits, but apart from that\nhe's a great boss!)", true],
+		["<voice_0x01000E14><se_high>*: (You can have the harp back.\nSo maybe you'll let him off this time...)", true],
+		["<Cap><leader> obtains <DEF_ART_SGL_I_NAME_1> and puts <IF_PLR_NOUN_I_NAME_1>them<ELSE_NOT_PLR_NOUN_I_NAME_1>it<ENDIF_PLR_NOUN_I_NAME_1> in the bag.", true]
+	]
+}

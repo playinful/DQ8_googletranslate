@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_low>*: So wot d'ya reckon to Red's ship?\nShe's a beaut, if you ask me.\nWiv plenty o' nice features.\nJust like Red 'erself, eh!?", true],
+		["<se_low>*: She's called it The Classy Lady, an' all!", true],
+		["<se_high>Red: This must be Captain Crow's study, eh?", true],
+		["<se_high>Red: Smells a bit fishy to me. There must be somefin' in 'ere, it's just a question o' findin' it.", true],
+		["<se_high>Red: Go on then! Wot yer waitin' for? Get lookin'!", true],
+		["<se_high>Red: Uuurgh...", true],
+		["Red is unconscious.", true],
+		["<se_high>Red: Uuurgh...", true],
+		["Red is still unconscious.", true]
+	]
+}

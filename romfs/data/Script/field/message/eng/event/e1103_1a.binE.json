@@ -1,0 +1,29 @@
+{
+	"header": [1, 0, 0, 0, 24, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 24, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001017><se_def>Dhoulmagus: Aaaaaaargh!", true],
+		["<voice_0x01001018><se_def>Dhoulmagus: ...No! Not now! It cannot end now...", true],
+		["<voice_0x01001019><se_low>Yangus: We done it, guv! We finally given that Dhoulmagus wot 'e 'ad comin'!", true],
+		["<voice_0x0100101A><se_low>Yangus: He 'ad us goin' all round the 'ouses, eh!", true],
+		["<voice_0x0100101B><se_low>Yangus: I bet the old codger and the 'orse-princess\nare back to normal now.\nThey'll be 'avin' a right old time!", true],
+		["<voice_0x0100101C><se_def>Angelo: Now Abbot Francisco can rest in peace.\nAnd I'm free to do as I please!", true],
+		["<voice_0x0100101D><se_def>Angelo: How about you, Jessica? Feeling better now Dhoulmagus has got his come-uppance?", true],
+		["<voice_0x0100101E><se_def>Angelo: Hm? What's wrong? You can tell me.\nI'm a good listener.", true],
+		["<voice_0x0100101F><se_high>Jessica: Defeating Dhoulmagus isn't going to bring Alistair back. It's hard to know what to feel...", true],
+		["<voice_0x01001020><se_low>*: Yoo-hoo!", true],
+		["<voice_0x01001021><se_low>Yangus: Ah! Grandad!\nFinally transmorfed back to an 'uman, eh!", true],
+		["<voice_0x01001022><se_low>Yangus: Hang on, Grandad!\nYou still look like a freak!", true],
+		["<voice_0x01001023><se_low>King Trode: I AM NOT YOUR GRANDAD!\nAnd if you must make fun of someone,\nperhaps you should look in a mirror!", true],
+		["<voice_0x01001024><se_def>Angelo: He wasn't making fun of you.\nWe've just defeated Dhoulmagus.\nYou and the Princess should be back to normal.", true],
+		["<voice_0x01001025><se_low>King Trode: You defeated Dhoulmagus!? But this can't be! Why on earth hasn't the curse been lifted?", true],
+		["<voice_0x01001026><se_low>King Trode: Oh, no, no, no!", true],
+		["<voice_0x01001027><se_low>King Trode: ...Why? Why isn't it wearing off!?", true],
+		["<voice_0x01001028><se_low>King Trode: Ever since he stole the treasured sceptre from\nmy castle...", true],
+		["<voice_0x01001029><se_low>King Trode: Ah-ha! Yes! What about the sceptre!?\nWhat's happened to it?", true],
+		["<voice_0x0100102A><se_high>Jessica: You mean this?", true],
+		["<voice_0x0100102B><se_low>King Trode: Yes! That's it! My family's treasured sceptre!", true],
+		["<voice_0x0100102C><se_low>Yangus: Oi, Grandad.\nHadn't we better be gettin' out of 'ere soon?", true],
+		["<voice_0x0100102D><se_low>King Trode: Hm! I suppose you're right. We won't accomplish anything twiddling our thumbs here.", true],
+		["<voice_0x0100102E><se_low>King Trode: Let's go back to Argonia for a while.", true]
+	]
+}

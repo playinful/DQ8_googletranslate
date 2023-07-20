@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001BBE><se_low>Morrie: Ah, champione, your banda, it has the mortal injury, ay? Leave to me! I, Morrie, will arouse the dead!", true],
+		["<voice_0x01001BC0><se_low>Morrie: Goddess of all combattenti, we ask for your comPASSION! Once again, bring the dead doornails back from beyond the graves!", true],
+		["<Cap><hero>'s team monsters live again!", true],
+		["<voice_0x01001BC1><se_low>Morrie: Whenever your banda is in trouble, amici,\nlet the wind blow you here to me, ay?", true],
+		["<voice_0x01001BC2><se_low>Morrie: ...Or perhaps it is the time for me to accompany with you on your grande avventura? What do you say, ragazzo?", true],
+		["<voice_0x01001BC3><se_low>Morrie: There are some things I must finish off\nin my pit before I join you, ragazzo.\nI arrive with you later.", true],
+		["<voice_0x01001BC4><se_low>Morrie: Hmph, I see... Va bene, if you are this determined, I do not force your hands, ay.", true],
+		["<voice_0x01001BC5><se_low>Morrie: Ah ha ha ha! Nice way to go, ay, champione!", true],
+		["<voice_0x01001BC7><se_low>Morrie: Allora, I give you the one piece of advice now.", true],
+		["<voice_0x01001BC8><se_low>Morrie: My monstrous pit, it is not about the winning and the losing. It is about the PASSION to create the strongest monster team imaginable!", true],
+		["<voice_0x01001BC9><se_low>Morrie: So do not be a strange one, ay? You visit me again. Make your team stronger and stronger. Then one day, you have the most fantastico\nteam possible!", true],
+		["<voice_0x01001BCA><se_low>Morrie: Do not think that I am throwing out the towels! Oh no! I stay and train my monsters, ready to take the revenge! Ha HAH!", true]
+	]
+}

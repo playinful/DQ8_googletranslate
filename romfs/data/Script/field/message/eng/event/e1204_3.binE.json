@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 161, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001296><se_high>Jessica: Oh, I nearly forgot!", true],
+		["<voice_0x01001297><se_high>Jessica: Wait a minute!", true],
+		["<voice_0x01001298><se_high>Jessica: Er... It's nothing much, but...", true],
+		["<voice_0x01001299><se_high>Jessica: Ever since we defeated Dhoulmagus and I picked up the sceptre, I haven't been able to speak my own mind.", true],
+		["<voice_0x0100129A><se_high>Jessica: So I just wanted to say this now: I don't feel like I've avenged my brother's death at all.", true],
+		["<voice_0x0100129B><se_high>Jessica: I don't know who or what this Lord of Darkness, Rhapthorne is, but we can't afford\nto relax while the sceptre is still missing.", true],
+		["<voice_0x0100129C><se_high>Jessica: I don't intend to stop searching until we've found that sceptre and sealed Rhapthorne\naway again.", true],
+		["<voice_0x0100129D><se_high>Jessica: So...er...I guess we'll be spending a lot more time together.", true],
+		["<voice_0x0100129E><se_high>Jessica: ...Sorry, did that come out a bit strange?", true],
+		["<voice_0x0100129F><se_high>Jessica: Oh yeah? Well, at least I don't LOOK strange! You should look in a mirror sometime, <hero>!", true],
+		["<voice_0x010012A0><se_high>Jessica: Really? Thanks, <hero>.\nYou're sweet, you know that?", true]
+	]
+}

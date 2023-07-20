@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100190B><se_low>Rylus: Is that you, Dhoulmagus?\nWhere have you been all this time?", true],
+		["<voice_0x0100190C><se_low>Rylus: Anyway, I owe you an apology. I should not have spoken to you the way I did. Your failings as an apprentice are mine as a master.", true],
+		["<voice_0x0100190D><se_low>Rylus: But enough about that. I have great news!\nAfter years of experimentation and research,\nmy elixir is all but complete!", true],
+		["<voice_0x0100190E><se_low>Rylus: When you drink it, it will awaken the latent magical potential that lies within you, Dhoulmagus.", true],
+		["<voice_0x0100190F><se_low>Rylus: And with a little hard work, you will at last be able to weave the potent enchantments you have always dreamt of.", true],
+		["<voice_0x01001910><se_low>Rylus: !!!\nDhoulmagus, what's happened to you?", true],
+		["<voice_0x01001911><se_low>Rylus: Where did you get that sceptre?\nOh no, you haven't...", true],
+		["<voice_0x01001912><se_low>Rylus: Gyuuurgh!", true],
+		["<voice_0x01001913>Dhoulmagus: .........", true],
+		["<voice_0x01001914><se_def>Dhoulmagus: Ha hah! Wah ha ha ha hah!\nWa hah hah hah haaaah!", true]
+	]
+}

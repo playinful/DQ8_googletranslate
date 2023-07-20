@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D1D><se_def>*: ...Nine 'undred 'n' ninety eight...nine 'undred 'n' ninety nine...nine 'undred 'n' ninety...er...oh, yeah!\nA grand! Sweet!", true],
+		["<voice_0x01000D1E><se_def>*: He knows 'is stuff, that ol' merchant!\nHe could see 'ow much it was werf.", true],
+		["<voice_0x01000D1F><se_def>*: Half-inchin' that 'orse was a piece o' cake!\nEasy dosh, Mitts, eh! Easy dosh! He he heh!", true],
+		["<voice_0x01000D20><se_def>Mitts: Eh!? W-Who's that!? Oh, no!\nYou ain't the owner of that 'orse, is ya!?", true],
+		["<voice_0x01000D21><se_low>King Trode: So it was you! You're the scoundrel responsible for taking the Princess!", true],
+		["<voice_0x01000D22><se_def>Mitts: Wot the 'ell!?\nGet that monster away from me!\nWot's it on about? Wot princess?\nI only knocked off a horse!", true],
+		["<voice_0x01000D23><se_low>King Trode: Who are you calling a monster!?\nGive my Medea back right now or\nsuffer the consequences!", true],
+		["<voice_0x01000D24><se_def>Mitts: Easy! Take it easy! I swear!\nI didn't know! I didn't know it was no\nmonster princess or nuffin'!", true],
+		["<voice_0x01000D25><se_def>Mitts: Here...'ave it all!\nThis is all the dough I got for it, I swear!\nJust don't 'urt me!", true],
+		["<voice_0x01000D26><se_low>King Trode: What!? You sold my daughter!?\nThat's it! <Cap><hero>!\nSlay this worthless wastrel!", true],
+		["<voice_0x01000D27><se_low>Yangus: Hold yer 'orses, Grandad! Sorry...I mean,\ntake it easy. This toerag ain't good enough\nfor the guv's sword.", true],
+		["<voice_0x01000D28><se_low>Yangus: Awright, you! Let's 'ear it!\nSell it down beggars' alley, did ya?\nTo ol' Dodgy Dave, eh?", true],
+		["<voice_0x01000D29><se_def>Mitts: Y-Yeah, that's it...\nKnow 'im, do ya?", true],
+		["<voice_0x01000D2A><se_low>Yangus: Right then, 'and over the dough!\nIf I find out you've been tellin' me porkies,\nyou're brown bread, d'you 'ear?", true],
+		["<voice_0x01000D2B><se_def>Mitts: Look, I ain't been lyin', mister, I swear!\nHere...a thousand gold pieces!\nThat's wot 'e gimme for it!", true],
+		["Yangus acquires 1000 gold coins.", true],
+		["<voice_0x01000D2C><se_low>Yangus: No need to worry! The black market geezer 'e was talkin' about is a mate o' mine.", true],
+		["<voice_0x01000D2D><se_low>Yangus: He'll give us back the 'orse-princess if we give 'im back the dough! ...I mean, money.", true],
+		["<voice_0x01000D2E><se_low>King Trode: Then why are we dallying around here!?\nWe must go to this \u2018geezer's\u2019 shop immediately!", true]
+	]
+}

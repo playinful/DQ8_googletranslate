@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C9D><se_high>Princess Medea: You know, it feels like ages since we last\ncame here.", true],
+		["<voice_0x01001C9E><se_high>Princess Medea: I want you to know how much I appreciate your hard work trying to lift the curse, <hero>.", true],
+		["<voice_0x01001C9F><se_high>Princess Medea: How are you feeling?\nYou must be exhausted.", true],
+		["<voice_0x01001CA0><se_high>Princess Medea: I want you to know that... Well, I would understand if you decided to give up.", true],
+		["<voice_0x01001CA1><se_high>Princess Medea: Why do I say that? Well, my father told me something the other day.", true],
+		["<voice_0x01001CA2><se_high>Princess Medea: He said that you have your own life to lead. That it wouldn't be right for us to drag you along with us for the rest of your life.", true],
+		["<voice_0x01001CA3><se_high>Princess Medea: You've done so much for us already. I promise I would never think badly of you if you decided to leave and go your own way.", true]
+	]
+}

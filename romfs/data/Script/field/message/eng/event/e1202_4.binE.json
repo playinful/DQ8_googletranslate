@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 181, 0, 0, 0, 182, 0, 0, 0, 183, 0, 0, 0, 190, 0, 0, 0, 191, 0, 0, 0, 192, 0, 0, 0, 193, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011FF><se_low>Dominico: Ah, there you are. I hope that little scene before didn't upset you. It's nothing unusual.", true],
+		["<voice_0x01001200><se_low>Dominico: I don't know why, but just looking at David's face makes my blood boil.", true],
+		["<voice_0x01001201><se_low>Dominico: Of course, I'd never dream of firing him.\nI have far too much fun being his master!\nHa ha ha!", true],
+		["<voice_0x01001202><se_low>Dominico: But enough of that! Have you got the jewels?\nHave you brought me the Kran Spinels?", true],
+		["<voice_0x01001203><se_low>Dominico: Then what on earth are you doing back here!?", true],
+		["<voice_0x01001204><se_low>Dominico: Get out of here now! And don't come back until you've got them!", true],
+		["<voice_0x01001206><se_low>Dominico: Ah-ha! You have!", true],
+		["<voice_0x01001207><se_low>Dominico: I won't have you bore me with details.\nI only care about results!", true],
+		["<Cap><hero> hands the Kran Spinels to Dominico.", true],
+		["Yangus hands the Kran Spinels to Dominico.", true],
+		["Jessica hands the Kran Spinels to Dominico.", true],
+		["Angelo hands the Kran Spinels to Dominico.", true],
+		["<Cap><leader> takes the Kran Spinels from <hero>'s coffin and hands them to Dominico.", true],
+		["<Cap><leader> takes the Kran Spinels from Yangus's coffin and hands them to Dominico.", true],
+		["<Cap><leader> takes the Kran Spinels from Jessica's coffin and hands them to Dominico.", true],
+		["<Cap><leader> takes the Kran Spinels from Angelo's coffin and hands them to Dominico.", true],
+		["<voice_0x01001208><se_low>Dominico: Yes! Just holding them in my hands, I can feel the waves of magical energy flowing out of them! Yes, the Kran Spinels!", true],
+		["<voice_0x01001209><se_low>Dominico: Making an impenetrable barrier will be simplicity itself with these! That wand-waving bimbo won't stand a chance!", true],
+		["<voice_0x0100120A><se_low>Dominico: And I expect you're feeling rather pleased with yourself! Helping the Great Dominico is an honour, is it not!?", true],
+		["<voice_0x0100120B><se_low>Dominico: So! Let me reward you! You may serve me as a guard until that meddling girl comes back.\nI presume you accept this honour?", true],
+		["<voice_0x0100120C><se_low>Dominico: Ha ha ha ha hah! There's no need to be diffident! I'm sure you'll do!", true],
+		["<voice_0x0100120D><se_low>Dominico: Very good! From this moment on, you will be my bodyguards. And now for the first task in your new post!", true],
+		["<voice_0x0100120E><se_low>Dominico: Come this way.", true],
+		["<voice_0x0100120F><se_low>Dominico: This leads to my secret library.\nYou will find a book for me in there.", true],
+		["<voice_0x01001210><se_low>Dominico: The book is called \u2018The Big Book of Barriers\u2019.\nIt contains a recipe for making a very powerful barrier.", true]
+	]
+}

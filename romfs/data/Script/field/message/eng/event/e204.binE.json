@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000A21><se_high>Bangerz: Hey?\nWhat's this?\nHang on!", true],
+		["<voice_0x01000A22><se_high>Bangerz: What are you playin' at!?\nThis is Port Prospect!", true],
+		["<voice_0x01000A23><se_high>Bangerz: We're meant to be at the giant tower!\nHow could you miss it!? All you had to do was\ngo left outside of Alexandria!", true],
+		["<voice_0x01000A24><se_high>Bangerz: We've gotta hurry! Jessica's in trouble!\nCome on, let's get back to the tower!", true]
+	]
+}

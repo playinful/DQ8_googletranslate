@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CA9><se_high>Princess Medea: When you were captured and taken to that underground prison, I prayed for all of you.", true],
+		["<voice_0x01001CAA><se_high>Princess Medea: But most of all, I prayed that we would meet in your dreams, <hero>.", true],
+		["<voice_0x01001CAB><se_high>Princess Medea: No matter how hard I tried, though, I just couldn't do it! I even started thinking you might have died, <hero>...", true],
+		["<voice_0x01001CAC><se_high>Princess Medea: You have no idea how happy it made me to find you alive and well!", true],
+		["<voice_0x01001CAD><se_high>Princess Medea: Please don't go anywhere I can't follow!", true],
+		["<voice_0x01001CAE><se_high>Princess Medea: I'm an only child. You're like a brother to me, <hero>!", true],
+		["<voice_0x01001CAF><se_high>Princess Medea: Promise you'll never leave me!", true]
+	]
+}

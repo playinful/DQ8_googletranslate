@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001616><se_low>Juggerwroth: No! Not again! Not AGAIN!", true],
+		["<voice_0x01001617><se_def>Angelo: Why did you come here, Marcello?", true],
+		["<voice_0x01001618><se_def>Marcello: To settle a score.\nNothing more.", true],
+		["<voice_0x01001619><se_def>Marcello: You could have died in a ditch\nfor all I cared, little brother.\nBut not before my debt was repaid.", true],
+		["<voice_0x0100161B><se_def>Marcello: ...And now it is.", true],
+		["<voice_0x0100161C><se_def>Angelo: Marcello!", true],
+		["<voice_0x0100161D><se_def>Angelo: I... Thank you.", true],
+		["Marcello: .........", true],
+		["<voice_0x0100161F><se_def>Marcello: Hmph.", true],
+		["<voice_0x0100161A><se_def>Marcello: It makes no difference to me whether you people live or die.", true],
+		["<voice_0x01001620><se_def>Marcello: But I owed Angelo.", true],
+		["<voice_0x01001621><se_def>Marcello: So give him a message from me: we're even.", true],
+		["Marcello: .........", true],
+		["<voice_0x0100161F><se_def>Marcello: Hmph.", true]
+	]
+}

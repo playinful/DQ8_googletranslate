@@ -1,0 +1,23 @@
+{
+	"header": [1, 0, 0, 0, 18, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 106, 4, 0, 0, 116, 4, 0, 0, 126, 4, 0, 0, 136, 4, 0, 0, 146, 4, 0, 0, 18, 0, 0, 0],
+	"strings": [
+		["<center>\u2018My name is Egeus.\n<center>There was once a time when people\n<center>would call me the Child of the Goddess.", true],
+		["<center>\u2018But I have come to realise that I am a mere\n<center>human child, weak and delicate like any other.", true],
+		["<center>\u2018After the Lord of Darkness was sealed away,\n<center>I sacrificed my life that others might live.", true],
+		["<center>\u2018Here I record my final prophecy.\n<center>I pray that it will be seen by\n<center>the eyes of the righteous.", true],
+		["<center>\u2018As I gaze into the future,\n<center>I foresee a period of darkness;\n<center>a time that is shrouded in mist.", true],
+		["<center>\u2018A time when the Lord of Darkness,\n<center>Rhapthorne, may once again terrorise the world.", true],
+		["<center>\u2018But we should not lose heart,\n<center>for our bloodlines will still live on.", true],
+		["<center>\u2018When the time comes...\n<center>There will be a living heir for each of us.", true],
+		["<center>\u2018The heir of the great warrior, Golding,\n<center>will be living with his two adopted children,\n<center>surrounded by the voices of joyous people.", true],
+		["<center>\u2018The heir of the sorcerer, Master Gozo,\n<center>will be carrying on the tradition,\n<center>teaching magic in a town near the castle\n<center>where the sceptre is sealed away.", true],
+		["<center>\u2018The heir of the great magician, Kupas,\n<center>will be living with monsters deep in the forest,\n<center>having abandoned his life of magic.", true],
+		["<center>\u2018The bloodline of the magical swordsman,\n<center>Alexander, will be transferred to\n<center>another family, and his heir will\n<center>be renowned across the land.", true],
+		["<center>\u2018The heir of the great scholar, Kadan,\n<center>will be living an honest life\n<center>deep in the snowy mountains,\n<center>preserving the legend of the Godbird.", true],
+		["<center>\u2018The heir of Regnar, who returned\n<center>to the world of men from heaven,\n<center>will be the keeper of the faith\n<center>for countless souls.", true],
+		["<center>\u2018And finally...my own heir will be living\n<center>a contented life as the leader\n<center>of a group of many monks.", true],
+		["<center>\u2018As long as at least one of them is alive,\n<center>this world shall be safe for all eternity.", true],
+		["<center>\u2018As such it is imperative that their lives\n<center>are protected, lest the Lord of Darkness ever\n<center>return to extinguish the light of this world.", true],
+		["<center>\u2018It is the only way.\n<center>I pray to the Goddess that our children\n<center>will abide by these words.\u2019", true]
+	]
+}

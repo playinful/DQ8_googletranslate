@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001417><center>This is as far as I can take you.\n<center>I dare not approach any closer\n<center>lest Gemon see me.", true],
+		["<voice_0x01001418><center>But the mountain is riddled with caves.\n<center>It should be possible for you humans\n<center>to ascend to its summit on foot.", true],
+		["<voice_0x01001419><center>When you wish to return to the hill,\n<center>call for me and I will take you back.", true],
+		["<voice_0x0100141A><center>Farewell for now.\n<center>Please save my egg.\n<center>You are my only hope.", true]
+	]
+}

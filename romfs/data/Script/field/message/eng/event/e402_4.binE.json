@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C8F><se_def>Ishmahri: Many moons have waxed and waned since human foot last trod this earth.\n...Weary travellers, I welcome you now to the Land of the Moonshadow.", true],
+		["<voice_0x01000C90><se_def>Ishmahri: Enlighten me, what desire opened the Moonshadow window on this night?\nNo words... Your shoes can tell the tale.", true],
+		["<voice_0x01000C91><se_def>Ishmahri: ...So, Pavan longs to be reunited with his dearly beloved, Sasha.", true],
+		["<voice_0x01000C92><se_def>Ishmahri: You stand amazed, mouths agape in wonderment. Ah, forgive me.\nI have yet to uncloud your eyes.", true],
+		["<voice_0x01000C93><se_def>Ishmahri: Children of the light of day...\nDo you believe that memories are yours alone?", true],
+		["<voice_0x01000C94><se_def>Ishmahri: Your clothes, houses, tables and chairs...\nThe sky, the land...\nThey too remember each passing day.", true],
+		["<voice_0x01000C95><se_def>Ishmahri: Silently, they sleep in a dream world\nof memories.", true],
+		["<voice_0x01000C96><se_def>Ishmahri: The moon's light may give shape to these dreams<...>these memories.", true],
+		["<voice_0x01000C97><se_def>Ishmahri: I cannot stir this daughter of the sun from her eternal sleep, but perhaps I can end your friend's waking nightmare.", true],
+		["<voice_0x01000C98><se_def>Ishmahri: Lead me to the castle.\nLead me to the scene of Pavan's misery.", true],
+		["Ishmahri joins the party!", true]
+	]
+}

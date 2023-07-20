@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 111, 0, 0, 0, 120, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001628><se_def>Rhapthorne: Pitiful humans! Even after so many failed attempts to stop me, you still labour in the hope that you can come between me and my destiny!", true],
+		["<voice_0x01001629><se_def>Rhapthorne: But your hope is trickling away.\nSoon it will be gone, leaving only despair.", true],
+		["<voice_0x0100162A><se_def>Rhapthorne: And the further you fall into its black depths, the stronger my flesh and blood shall become!", true],
+		["<voice_0x01001627><se_def>Rhapthorne: You will revere me!\nAnd you will offer up your pitiful lives as\na mark of your respect and adoration!", true]
+	]
+}

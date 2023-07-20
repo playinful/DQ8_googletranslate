@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012E2><se_def>Angelo: That dog over there's called Boris.\nHe's the one who dug us out from the snow.", true],
+		["<voice_0x010012E3><se_def>Angelo: What a dog! He's a lot more use than\na certain king, don't you think?\nAnd he smells a bit better too!", true],
+		["<voice_0x010012E4><se_low>King Trode: How dare you, boy! How could you say such a thing about your own master!?", true],
+		["<voice_0x010012E5><se_low>King Trode: Honestly! Who do you think called for the dog's help in the first place!?", true],
+		["<voice_0x010012E6><se_low>King Trode: I heard that, Angelo!\nMore use than a certain king, you say!?\nHow dare you!", true],
+		["<voice_0x010012E5><se_low>King Trode: Honestly! Who do you think called for the dog's help in the first place!?", true]
+	]
+}

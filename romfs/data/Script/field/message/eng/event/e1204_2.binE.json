@@ -1,0 +1,28 @@
+{
+	"header": [1, 0, 0, 0, 23, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 253, 0, 0, 0, 255, 0, 0, 0, 2, 1, 0, 0, 4, 1, 0, 0, 9, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 23, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001281><se_low>Dominico: I must apologise if I worried you.", true],
+		["<voice_0x01001282><se_low>Dominico: It hit me the moment I saw poor David's body. Now everything is clear.", true],
+		["<voice_0x01001283><se_low>Dominico: It appears I was put on this world as part of a grander design, to fulfil my family's destiny.", true],
+		["<voice_0x01001284><se_low>Dominico: That is, protecting the heir of one of the\ngreat sages. Protecting David.\nThis has always been my duty.", true],
+		["<voice_0x01001285><se_low>Dominico: But somewhere along the way my ancestors\nlet the power go to their heads.\nWe lost sight of our true purpose.", true],
+		["<voice_0x01001286><se_low>Dominico: ...If only I'd realised all this sooner,\nI could have prevented this tragedy.", true],
+		["<voice_0x01001287><se_low>Dominico: I ordered my servants to bury David as the heir to a great sage should be buried, but...", true],
+		["<voice_0x01001288>Dominico: ........................", true],
+		["<voice_0x01001289><se_low>Dominico: ...Nothing can put right the wrong I have done! I am not fit to show my face in public...", true],
+		["<voice_0x0100128A><se_low>Dominico: Will you do me one last favour?", true],
+		["<voice_0x0100128B><se_low>Dominico: Please don't deny me.\nThis is something I cannot do myself.\nPlease hear my request.", true],
+		["<voice_0x0100128C><se_low>Dominico: I know it was my Leopold who ended David's life. It pains me to have to ask you, but...", true],
+		["<voice_0x0100128D><se_low>Dominico: Will you destroy him for me?\nWill you avenge the spilt blood of the sages?", true],
+		["<voice_0x0100128E><se_low>Dominico: That creature isn't my Leopold any more.\nHe's being controlled by some evil magic.", true],
+		["<voice_0x0100128F><se_low>Dominico: I know this won't make amends for my\nunforgivable ignorance, but it's all I can\ndo now...", true],
+		["<voice_0x01001290><se_low>Dominico: And I owe you something too.\nFor all the trouble I have caused you...", true],
+		["<voice_0x01001291><se_low>Dominico: Ah, yes...", true],
+		["<voice_0x01001292><se_low>Dominico: I see that the girl has yet to unlock her true potential as a magician.", true],
+		["<voice_0x01001293><se_low>Dominico: Allow me to awaken the dormant powers\nwithin you!", true],
+		["Jessica learns Kasizzle!", true],
+		["Jessica learns Kacrackle!", true],
+		["<voice_0x01001294><se_low>Dominico: People say they saw Leopold heading north out of town. That's where you should start looking.", true],
+		["<voice_0x01001295><se_low>Dominico: I'm sorry to have to ask this of you.\nI wish you the best of luck!", true]
+	]
+}

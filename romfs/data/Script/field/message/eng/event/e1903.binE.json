@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100176B><se_low>*: Welcome to the Dragovian Sanctuary.\nWe Dragovians are capable of existing in\ntwo forms: human and dragon.", true],
+		["<voice_0x0100176C><se_low>*: I am Chen Mui, a Dragovian Elder.\nI'll be your guide here.", true],
+		["<voice_0x0100176D><se_low>Chen Mui: It has been many hundreds of years since humans last set foot within the Sanctuary.", true],
+		["<voice_0x0100176E><se_low>Chen Mui: Your sudden appearance may shock some Dragovians. That is why I would like to accompany you.", true],
+		["<voice_0x0100176F><se_low>Chen Mui: You may feel uncomfortable at being escorted, but I pray for your understanding in this matter.", true]
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 181, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000ADD><se_high>Jessica: Ah, there you are!\nSo, what are you two up to?", true],
+		["<voice_0x01000ADE><se_low>Yangus: Up to?\nMe an' the guv was just talkin', that's all.", true],
+		["<voice_0x01000ADF><se_high>Jessica: Guv, huh?\nI've been meaning to ask you about that.", true],
+		["<voice_0x01000AE0><se_high>Jessica: You know, he doesn't exactly look like your governor. If anything, it looks the other way around. What's the story?", true],
+		["<voice_0x01000AE1><se_low>Yangus: Well, I'm glad you asked!", true],
+		["<voice_0x01000AE2><se_low>Yangus: The story of 'ow me an' the guv fell in together is an epic tale, full o' laughter, thrills, and tears...", true],
+		["<voice_0x01000AE3><se_high>Jessica: It is, is it?\nWell, why don't you just give me the highlights?", true],
+		["<voice_0x01000AE4><se_low>Yangus: Awright, I will!\nIt all started on a fine, summer's day...\nThe sound of insects was deafenin'...", true],
+		["<voice_0x01000AE5><se_low>Yangus: I'd just decided to make a clean break of it.\nI was well 'acked off wiv the old bandithood.", true],
+		["<voice_0x01000AE6><se_low>Yangus: So I decided to leave the town that I lived in me 'ole life and start fresh, like.", true]
+	]
+}

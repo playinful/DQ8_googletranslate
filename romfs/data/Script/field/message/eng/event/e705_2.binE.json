@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010011A3><se_high>Carrie: Well, there they go.\nI guess this is goodbye.", true],
+		["<voice_0x010011A4><se_def>Cash: You know, before we met them, I never imagined things would turn out like this.", true],
+		["<voice_0x010011A5><se_def>Cash: I mean, both of us inheriting Dad's fortune?\nWho would have believed that?", true],
+		["<voice_0x010011A6><se_def>Cash: Looking back, I can't believe how stubborn we were acting about being sole heirs.", true],
+		["<voice_0x010011A7><se_def>Cash: It's amazing how easily people can change when they put their minds to it.", true],
+		["<voice_0x010011A8><se_high>Carrie: Watch it there, big brother.", true],
+		["<voice_0x010011A9><se_high>Carrie: This talk of becoming \u2018sole heir\u2019...\nIt's freaking me out.", true],
+		["<voice_0x010011AA><se_def>Cash: Don't worry. I'm not suggesting anything.\nWe're in this together.\nI swear. On the mark on my palm!", true],
+		["<voice_0x010011AB><se_high>Carrie: I swear it too, Cash.\nOn the mark of our family...", true],
+		["<voice_0x010011AC><se_high>Carrie: And on the memory of our father.", true],
+		["<voice_0x010011AD><se_high>Carrie: Now that we're working together, we can make the Golding family more successful than it's ever been. Let the good times roll!", true]
+	]
+}

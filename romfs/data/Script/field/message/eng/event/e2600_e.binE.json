@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001905><se_def>Dhoulmagus: It is an honour to be allowed to entertain you, Your Majesty. I have prepared some...tricks for your amusement.", true],
+		["<voice_0x01001906><se_low>King Trode: Very good.", true],
+		["<voice_0x01001907><se_low>King Trode: Most impressive! Yes, most impressive indeed. You will stay here at the castle tonight. I insist! As a reward for that remarkable show.", true],
+		["<voice_0x01001908><se_def>Dhoulmagus: A-ha-ha... You are too kind, Your Majesty.", true]
+	]
+}

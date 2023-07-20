@@ -1,0 +1,18 @@
+{
+	"header": [1, 0, 0, 0, 13, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 86, 4, 0, 0, 96, 4, 0, 0, 13, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001443><se_def>*: Kyaaargh! Raaargh!", true],
+		["<voice_0x01001444><se_def>*: You! Human, are you?", true],
+		["<voice_0x01001445><se_def>*: This is Tryan Gully!\nWelcome, ha haargh!", true],
+		["<voice_0x01001446><se_low>King Trode: Urgh! I, I think a monster just spoke to me!", true],
+		["<voice_0x01001447><se_low>Yangus: COR BLI<endash>\nNah. I'm fed up wiv sayin' that old line now.", true],
+		["<voice_0x01001448><se_low>King Trode: You there! You're a monster but you don't fight or run away!? What business do you have being so welcoming!? Explain yourself!", true],
+		["<voice_0x01001449><se_def>*: Here in Tryan Gully, humans and elves and...", true],
+		["<voice_0x0100144A><se_def>*: ...monsters all live happily together, haargh!", true],
+		["<voice_0x0100144B><se_def>*: So why would I run away when I see a human, haargh!?", true],
+		["<voice_0x0100144C><se_low>King Trode: I............", true],
+		["<voice_0x0100144D><se_low>King Trode: ...I... Well, I never.\nI had no idea such a place existed...", true],
+		["<voice_0x0100144E><se_low>King Trode: Of course! You know what this means!\nI can wander about without causing a stir!\nIt's a veritable paradise!", true],
+		["<voice_0x0100144F><se_low>King Trode: Well, what are we waiting for!?\nCome on! Follow me!", true]
+	]
+}

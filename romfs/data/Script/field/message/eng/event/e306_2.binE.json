@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 161, 0, 0, 0, 162, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000BE5><se_def>Angelo: ...Right, we're safe in here.\nYou can talk again now.", true],
+		["<voice_0x01000BE6><se_low>King Trode: Good! Tell us what's going on! What ordeal do you intend to put us through next, hm!?", true],
+		["<voice_0x01000BE7><se_def>Angelo: Like I said, I'm sorry about before.\nIf I hadn't lied about the ring, Marcello would have been onto me like a shot!", true],
+		["<voice_0x01000BE8><se_def>Angelo: And I haven't got anywhere else to go\nif I'm chucked out of here.\nBut I came to get you out, didn't I?", true],
+		["<voice_0x01000BE9><se_def>Angelo: Come on! Don't be angry! Anyway, let me show you something you won't have seen before.", true],
+		["<voice_0x01000BEA><se_low>King Trode: Well, what is it?", true],
+		["<voice_0x01000BEB><se_def>Angelo: There!\nAnd that's real blood on those spikes, you know.", true],
+		["<voice_0x01000BEC><se_def>Angelo: If I were to throw you in there and shut the door, your whole body would be skewered.", true],
+		["<voice_0x01000BED><se_def>Angelo: I could make you hole-ier than thou without so much as getting my hands dirty. Not bad, eh?", true],
+		["<voice_0x01000BEE><se_low>King Trode: Aaaargh!", true],
+		["<voice_0x01000BEF><se_low>King Trode: ...Eh?", true],
+		["<voice_0x01000BF0><se_low>King Trode: Oooooh!", true],
+		["<voice_0x01000BF1><se_low>King Trode: <Cap><hero>!\nCan you hear me out there?\nThere's a secret passage in here!", true],
+		["<voice_0x01000BF2><se_def>Angelo: ...Like I said, not bad, eh?", true]
+	]
+}

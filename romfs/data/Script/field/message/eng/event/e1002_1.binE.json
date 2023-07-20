@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E6F><se_low>*: Your Majesty. Are you feeling poorly?", true],
+		["<voice_0x01000E70><se_low>*: Did those travellers cause you some trouble?", true],
+		["<voice_0x01000E71><se_low>King Clavius: No, no. I'm fine.", true],
+		["<voice_0x01000E72><se_low>King Clavius: One of them reminded me of someone.\nBut I must be mistaken.", true]
+	]
+}

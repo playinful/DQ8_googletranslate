@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012E8><se_low>Marta: Go north from the bottom of the mountain\nand you will come to Orkutsk.\nPlease be careful on your journey.", true],
+		["<voice_0x010012E9><se_low>King Trode: By George!", true],
+		["<voice_0x010012EA><se_low>King Trode: Princess! Are you all right?\nWere you cold in the night!?", true],
+		["<voice_0x010012EB><se_low>Marta: Forgive me, but I must ask you a favour.", true],
+		["<voice_0x010012EC><se_low>Marta: If you meet with a man called Marek in Orkutsk, please give this to him.", true],
+		["<Cap><most_heroic> receives Marta's bag.", true],
+		["<voice_0x010012ED><se_low>Marta: He is probably working with herbs like I am.\nI would be grateful if you could give him that bag. Spasibo! Thank you.", true],
+		["<voice_0x010012EE><se_low>King Trode: Right then. Off to Orkutsk! Toodlee-bye!", true]
+	]
+}

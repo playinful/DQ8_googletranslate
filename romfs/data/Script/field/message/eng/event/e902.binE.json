@@ -1,0 +1,30 @@
+{
+	"header": [1, 0, 0, 0, 25, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 151, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 221, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 25, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001047><se_def>*: What are you doing here!? This place is off limits to anyone not of the faith!", true],
+		["<voice_0x01001048><se_def>*: High Priest Rolo!\nAbbot Marcello!", true],
+		["<voice_0x01001049><se_low>High Priest Rolo: This is the Holy Isle of Neos!\nThe coronation place of the Lord High Priest!", true],
+		["<voice_0x0100104A><se_low>High Priest Rolo: You may be Captain of the Templars, but a\nman of such humble origins as yourself has\nno place here!", true],
+		["<voice_0x0100104B><se_low>High Priest Rolo: Understood, Marcello?\nYour continued office as guard is in itself\na privilege beyond your station.", true],
+		["<voice_0x0100104C><se_low>High Priest Rolo: No doubt you're aware that it was only because\nI requested it of the Lord High Priest that you hold such a rank.", true],
+		["<voice_0x0100104D><se_low>High Priest Rolo: As his likely successor, he grants me the occasional special favour.", true],
+		["<voice_0x0100104E><se_def>Marcello: ...Yes. I am aware of that, High Priest Rolo.", true],
+		["<voice_0x0100104F><se_low>High Priest Rolo: And you could never have attained such\nan esteemed position as Abbot at your age,\nwithout my recommendation.", true],
+		["<voice_0x01001050><se_low>High Priest Rolo: You'd do well to remember that!", true],
+		["<voice_0x01001051><se_def>Marcello: Please allow me to deliver a token of my gratitude and devotion to your residence later, High Priest.", true],
+		["<voice_0x01001052><se_def>Marcello: ...Only the other day, a travelling merchant donated a truly magnificent jewel to us at\nthe abbey.", true],
+		["<voice_0x01001053><se_low>High Priest Rolo: You always did have a soft spot for material wealth, didn't you!? But listen to me, Marcello!", true],
+		["<voice_0x01001054><se_low>High Priest Rolo: The Lord High Priest is a scrupulous man of utmost integrity. He won't be won over with such earthly trinkets!", true],
+		["<voice_0x01001055><se_low>High Priest Rolo: But I'll forgive your error this once, my child. Bring the jewel to me and we shall say no more about it.", true],
+		["<voice_0x01001056><se_low>High Priest Rolo: Let that be the end of this matter, then!\nCome now, let's return.", true],
+		["<voice_0x01001057><se_def>Marcello: ...Well, well! This is a rare encounter!", true],
+		["<voice_0x01001058><se_def>Marcello: Surely someone of so little faith as you wouldn't trouble himself to make the pilgrimage?", true],
+		["<voice_0x01001059><se_def>Marcello: Come to ask for the Holy One's help?\nOr perhaps it's just sightseeing?\nHmph! What a carefree existence you enjoy!", true],
+		["<voice_0x0100105A>Angelo: ............", true],
+		["<voice_0x0100105B><se_def>Marcello: ...Suit yourself! I'm a busy man.\nI don't have time to concern myself with you!", true],
+		["<voice_0x0100105C><se_def>Marcello: If you'll excuse me, everyone!", true],
+		["<voice_0x0100105D><se_def>Marcello: Enjoy your little holiday by all means,\nbut I trust you won't forget the other\nmatter of bringing Dhoulmagus to justice!", true],
+		["<se_def>*: So you know Marcello, do you?\nStill, rules are rules.", true],
+		["<se_def>*: Go on, get out of here!\nI'm not letting you through!", true]
+	]
+}

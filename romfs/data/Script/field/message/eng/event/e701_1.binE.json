@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E55><se_low>King Trode: Hmm. We can't be absolutely sure it was\nDhoulmagus who killed Golding, but I'm\nquite sure we can be sure enough, to be sure!", true],
+		["<voice_0x01000E56><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x01000E57><se_low>King Trode: Why don't we go and have a look at those\nruins on the island to the north?\nMaybe we'll be able to find some kind of clue.", true],
+		["<voice_0x01000E55><se_low>King Trode: Hmm. We can't be absolutely sure it was\nDhoulmagus who killed Golding, but I'm\nquite sure we can be sure enough, to be sure!", true],
+		["<voice_0x01000E56><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x01000E57><se_low>King Trode: <Cap><hero>, why don't we go and have a look at those ruins on the island to the north?\nMaybe we'll be able to find some kind of clue.", true]
+	]
+}

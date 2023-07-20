@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013D9><se_high>Red: Oi, wait up.", true],
+		["<voice_0x010013DA><se_high>Red: Leavin' me behind, are ya?\nWell, that's nice, innit?", true],
+		["<voice_0x010013D9><se_high>Red: Oi, wait up.", true],
+		["<voice_0x010013DB><se_high>Red: Tryin' to sneak off while me back was turned, were ya, you 'eartless old lump?", true]
+	]
+}

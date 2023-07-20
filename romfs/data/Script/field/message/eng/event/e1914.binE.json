@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001814><se_low>Chen Mui: Hm? You want to hear my story once again?", true],
+		["<voice_0x01001815><se_low>Chen Mui: What? Er...are you quite sure? I was primed to tell you the tragic and moving tale.", true],
+		["<voice_0x01001816><se_low>Chen Mui: Good, good! Then make sure you're sitting comfortably, and I'll begin...", true],
+		["<voice_0x01001817><se_low>Chen Mui: ...Well, that's the end.\nPhew! I'm spent!", true]
+	]
+}

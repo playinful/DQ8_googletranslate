@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x010018EB><se_def>Dhoulmagus: Um, Master...", true],
+		["<voice_0x010018EC><se_low>Rylus: Hm?", true],
+		["<voice_0x010018ED><se_def>Dhoulmagus: Do you think perhaps...you could teach me some magic soon?", true],
+		["<voice_0x010018EE><se_low>Rylus: Not this again, Dhoulmagus.\nYou are not yet ready.\nAs I have said many times before.", true],
+		["<voice_0x010018EF><se_low>Rylus: What about your chores, hm?\nHave you finished clearing up outside?", true],
+		["<voice_0x010018F0><se_def>Dhoulmagus: Oh, no, not yet.", true],
+		["<voice_0x010018F1><se_low>Rylus: Well don't just stand there!\nGet on with it!", true],
+		["<voice_0x010018F2><se_def>Dhoulmagus: Sorry...Master.", true],
+		["<voice_0x010018F3><se_low>Rylus: Hm, there's still something missing. But what? I'm so close now. So very close...", true]
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 181, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001595><se_high>Carrie: Oh, look who it is!", true],
+		["<voice_0x01001596><se_high>Carrie: Like, you said you'd be my bodyguards?\nHello? You've been totally useless!", true],
+		["<voice_0x01001597><se_high>Carrie: You can't just accept a job and then go off before you've finished it! But you think that's okay, do you!?", true],
+		["<voice_0x01001598><se_high>Carrie: That's SO rude! Take that!", true],
+		["<voice_0x01001599><se_high>Carrie: Ah, that's better!\nOkay, I've forgiven you now.", true],
+		["<voice_0x0100159A><se_high>Carrie: Well...good! At least you seem to feel bad about letting me down.", true],
+		["<voice_0x0100159B><se_high>Carrie: I guess I can forgive you. But don't expect to get off so easy next time. You ever pull that kind of trick again, and your butts are toast. Got it?", true],
+		["<voice_0x0100159C><se_def>Cash: Ah, the forgetful <IF_SOLO>bodyguard returns<ELSE_NOT_SOLO>bodyguards return<ENDIF_SOLO>!", true],
+		["<voice_0x0100159D><se_def>Cash: Well, two can play at that game.", true],
+		["<voice_0x0100159E><se_def>Cash: I've decided to forget to give you your reward!\nI was halfway through getting it for you, WHEN I FORGOT ALL ABOUT IT!", true],
+		["<voice_0x0100159F><se_def>Cash: I mean, come on!? You weren't seriously expecting to get paid after running off halfway through the job, were you!?", true],
+		["<voice_0x010015A0><se_def>Cash: So that's decided, then, I guess.\nSee ya! Have a nice day! Buh-bye!", true]
+	]
+}

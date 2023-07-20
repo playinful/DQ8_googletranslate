@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C82><se_high>Princess Medea: I have some good news, <hero>!", true],
+		["<voice_0x01001C83><se_high>Princess Medea: I've just turned eighteen!\nHow about that!?", true],
+		["<voice_0x01001C84><se_high>Princess Medea: I had grass instead of birthday cake, though...", true],
+		["<voice_0x01001C85><se_high>Princess Medea: I remember the first time you came to the castle. We were just eight years old. It's hard to believe we've known each other for ten years now!", true],
+		["<voice_0x01001C86><se_high>Princess Medea: You were an orphan, so you lived in the castle. And in what seemed like no time, you worked your way up to palace guard!", true],
+		["<voice_0x01001C87><se_high>Princess Medea: Actually <hero>, I have a secret. I recommended you for the position to my father.", true],
+		["<voice_0x01001C88><se_high>Princess Medea: It was a way to bring you closer to me,\nso we could spend more time together.\nAnd anyway, you deserved it, <hero>!", true],
+		["<voice_0x01001C89><se_high>Princess Medea: So, my brave palace guardsman.\nI'm counting on you to make sure I spend my next birthday as a human! I know you can do it!", true]
+	]
+}

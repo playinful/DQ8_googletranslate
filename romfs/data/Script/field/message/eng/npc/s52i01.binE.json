@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 104, 0, 0, 0, 105, 0, 0, 0, 106, 0, 0, 0, 107, 0, 0, 0, 108, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_low>*: What are you doin' back here? Want me to give you a puff-puff, do ya?", true],
+		["<se_low>*: You're havin' me on!", true],
+		["<se_low>*: But it's a nice gesture anyway. Cheers!", true],
+		["<se_low>*: Hu hu huh. I was only jokin', of course!", true],
+		["<se_low>*: Hu hu huh. Nudge, nudge, wink, wink!", true],
+		["<se_low>*: No need to say a word! I know why you're here!", true],
+		["<se_low>*: Go on through to the next room and get yourself nice an' \u2018refreshed\u2019!", true],
+		["<se_low>*: You just have to promise one thing...", true],
+		["<se_low>*: No touchin' the merchandise, right!? Hu hu huh!", true]
+	]
+}

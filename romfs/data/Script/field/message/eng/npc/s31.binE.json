@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 200, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_def>*: Well, what have we here!? Customers, are ya?", true],
+		["<se_low>*: Greetings. I am a travelling priest. I'm actually still in training, but maybe there's something I can do to help you?", true],
+		["<se_def>*: If you keep going south along the path, you'll come to a town called Pickham. I wouldn't bother, though, if I were you.", true],
+		["<se_def>*: It's full of down-and-outs and thieves, you see. Everyone who has the misfortune to set foot in the place wishes they hadn't.", true]
+	]
+}

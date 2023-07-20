@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<se_high>Jessica: This tea's made from something called \u2018nook grass\u2019. It warms you up and makes you more resistant to the cold weather.", true],
+		["<se_high>Jessica: It's a bit strong at first, but I could get to like it! Why don't you ask the old lady for some too, <hero>?", true]
+	]
+}

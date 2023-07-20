@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001324><se_def>Marek: Have they been waiting for me!?\nThere are so many of them...", true],
+		["<voice_0x01001325><se_def>Marek: Be careful!\nThese are no normal wolves!", true],
+		["<voice_0x01001326><se_def>Marek: Aaaargh!\nHelp me, friends!", true],
+		["<voice_0x01001327><se_def>Marek: Why do they come for me like this!?", true],
+		["<voice_0x01001328><center>Wait.", true],
+		["<voice_0x01001329><center>He is not the one.\n<center>I sense sage's blood, but it is not him.", true],
+		["<voice_0x0100132A><center>There must be another...\n<center>We must find the chosen heir of the sage.", true],
+		["<voice_0x0100132B><se_def>Marek: What...what was that voice!?\nAnd what does it mean by the \u2018chosen heir\u2019?", true],
+		["<voice_0x0100132C><se_def>Marek: I cannot understand.\nIt cannot be real...", true]
+	]
+}

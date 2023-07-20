@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C55><se_def>Angelo: Hello again. Well, it looks like we'll be seeing a lot more of each other. I hope you don't mind me coming along.", true],
+		["<voice_0x01000C56><se_def>Angelo: I'm not doing this because Marcello ordered me to. I'm doing it for Abbot Francisco.", true],
+		["<voice_0x01000C57><se_def>Angelo: He was like a father to me.\nThat jester...Dhoulmagus...\nHe can't get away with this. And...", true],
+		["<voice_0x01000C58><se_def>Angelo: ...This place. I'll be glad to escape.\nIt's no hardship being asked to join you,\nbelieve me.", true],
+		["<voice_0x01000C59><se_def>Angelo: And anyway, I promised you, didn't I?\nI said I'd reward you for helping me.", true],
+		["<voice_0x01000C5A><se_def>Angelo: So, Jessica. From now on, I'll protect you.\nI won't leave your side. Consider me your personal bodyguard.", true],
+		["<voice_0x01000C5B><se_high>Jessica: Sure, Romeo. In your dreams!", true],
+		["<voice_0x01000C5C><se_def>Angelo: Okay, let's hit the road!", true],
+		["Angelo joins the party!", true]
+	]
+}

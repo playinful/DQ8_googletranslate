@@ -1,0 +1,25 @@
+{
+	"header": [1, 0, 0, 0, 20, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 15, 1, 0, 0, 24, 1, 0, 0, 20, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E1B><se_low>King Trode: W-What's going on...!?\nHow did we...", true],
+		["<voice_0x01000E1C><se_def>Ishmahri: This ship, the Moonshadow harp and myself, we are all the same. We are all from the old world.", true],
+		["<voice_0x01000E1D><se_def>Ishmahri: I must thank you for reuniting us ancient ones.", true],
+		["<voice_0x01000E1E><se_def>Ishmahri: ...Now, come. Come to me, times past.\nCome to me, ancient ocean. Return once more...", true],
+		["<voice_0x01000E1F><se_low>Yangus: Eh!?\nIs this 'arp duff, an' all!?", true],
+		["<voice_0x01000E20><se_def>Ishmahri: ...No! Can it really be beyond even the Moonshadow harp? Ah, but wait...", true],
+		["<voice_0x01000E21><se_def>Ishmahri: Forgive my ignorance.\nAt first, I saw only a horse. But now I\nsee that you are truly a noble princess.", true],
+		["<voice_0x01000E22><se_def>Ishmahri: ...Of course.\nMagic begins with a word.\nMusic begins with a voice.", true],
+		["<voice_0x01000E23><se_def>Ishmahri: The beautiful voice of this cursed princess is all this great instrument needs to play its music.", true],
+		["<voice_0x01000E24><se_def>Ishmahri: Princess, please come to my aid.\nSing with me.", true],
+		["<voice_0x01000E25><se_def>Ishmahri: Now it is time for us to part.\nI will sing to bless your journey\non the ancient ocean, my children...", true],
+		["<voice_0x01000E26><se_low>Yangus: Love a duck! Stone the crows! Blimey O'Riley!\nWot the 'ell 'appened back there!?", true],
+		["<voice_0x01000E27><se_low>King Trode: Stop your ridiculous blithering!\nThis is all thanks to my precious Medea!", true],
+		["<voice_0x01000E28><se_low>Yangus: Yeah, well, at least we got the boat up and runnin' now, eh, guv!? Nice!", true],
+		["<voice_0x01000E29><se_high>Jessica: Don't you think it's a bit early to be congratulating ourselves? We still have a lot to do. Like going after Dhoulmagus. Remember?", true],
+		["<voice_0x01000E2A><se_high>Jessica: That's why we went to so much effort to get the ship in the first place.", true],
+		["<voice_0x01000E2B><se_def>Angelo: Well, if Dhoulmagus has left the eastern continent...", true],
+		["<voice_0x01000E2C><se_def>Angelo: ...I say we head for the west and see if we can't catch up with him there.", true],
+		["<voice_0x01000E2D><se_def>Angelo: Wouldn't you say, <hero>?", true],
+		["<voice_0x01000E2E><se_low>King Trode: Right then! It's decided!\nWe sail for the west! Get to it!", true]
+	]
+}

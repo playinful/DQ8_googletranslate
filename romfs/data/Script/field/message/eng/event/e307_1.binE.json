@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000BFF><se_low>King Trode: Medea! My Medea! You're safe!", true],
+		["<voice_0x01000C00><se_low>King Trode: Were you lonely without me?\nThere, there! It's all right!\nWe'll leave this horrible place at once.", true],
+		["<voice_0x01000C01><se_low>King Trode: The Princess and I will go on ahead.\nMake sure you're not too far behind!", true],
+		["<voice_0x01000C02><se_def>Angelo: ...Princess?", true],
+		["<voice_0x01000C03><se_def>Angelo: Whatever. Come on, let's go.", true],
+		["<voice_0x01000C04><se_def>Angelo: You'd have to work pretty hard to mess up\nyour escape from here. Anyway, I'm sorry for\nall the trouble.", true],
+		["<voice_0x01000C05><se_def>Angelo: So this is farewell.\nMay the Goddess watch over you on your journey.", true]
+	]
+}

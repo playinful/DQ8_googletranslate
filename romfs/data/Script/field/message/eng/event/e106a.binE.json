@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 170, 44, 16, 0, 180, 44, 16, 0, 190, 44, 16, 0, 200, 44, 16, 0, 210, 44, 16, 0, 220, 44, 16, 0, 230, 44, 16, 0, 240, 44, 16, 0, 250, 44, 16, 0, 4, 45, 16, 0, 14, 45, 16, 0, 24, 45, 16, 0, 34, 45, 16, 0, 44, 45, 16, 0, 54, 45, 16, 0, 64, 45, 16, 0, 74, 45, 16, 0, 84, 45, 16, 0, 94, 45, 16, 0, 104, 45, 16, 0, 114, 45, 16, 0, 21, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100095A><se_low>*: Well, well! You must be really brave to come up and talk to me like this!", true],
+		["<voice_0x0100095B><se_low>*: A man that looked like a peddler came along earlier, but when he saw me he ran away without saying a word!", true],
+		["<voice_0x0100095C><se_low>*: Anyway... As you've probably realised, you'll have to fight me if you want to go any further!", true],
+		["<voice_0x0100095D><se_low>*: What do you think?\nBrave enough for that, are you!?", true],
+		["<voice_0x01000963><se_low>*: I thought as much!", true],
+		["<voice_0x01000964><se_low>*: Then you'd better be on your way.", true],
+		["<voice_0x01000965><se_low>*: Hm? What do you want now?\nHave you changed your mind about fighting me?", true],
+		["<voice_0x0100095E><se_low>*: R-Really!? Y-You are brave.\nThat means you must be a good fighter...", true],
+		["<voice_0x0100095F>*: Hmm.........", true],
+		["<voice_0x01000960>*: Hrmmm.........", true],
+		["<voice_0x01000961><se_low>*: I know! In recognition of your bravery,\nI'm going to let you through!", true],
+		["<voice_0x01000962><se_low>*: Off you go.\nBe careful now!", true],
+		["<voice_0x01000966><se_low>*: Do you, by any chance, think I'm a bit of a wimp? Well, I'm not, I tell you!", true],
+		["<voice_0x01000967><se_low>*: If you don't believe me, why don't you try your luck and fight me!?", true],
+		["<voice_0x01000969><se_low>*: Oh, r-really...!?", true],
+		["<voice_0x0100096A><se_low>*: Th-Then I suppose that's decided. Let's fight!", true],
+		["<voice_0x0100096B><se_low>*: Y-You caught me off guard. Uuurgh...", true],
+		["<voice_0x0100096C><se_low>*: But I suppose you won fair and square.\nGo on, you can pass.", true],
+		["<voice_0x0100096D><se_low>*: A-ha! You again! You do remember how strong I am, right?", true],
+		["<voice_0x0100096E><se_low>*: So what's the verdict?\nDo you want a rematch!?", true],
+		["<voice_0x01000968><se_low>*: Then off you go.\nBe careful now!", true]
+	]
+}

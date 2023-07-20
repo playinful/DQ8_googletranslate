@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D5E><se_low>Yangus: So this is it, eh...?\nThe Venus' tear!\nYou beauty!", true],
+		["<voice_0x01000D5F><se_low>Yangus: You know, guv...\nLast time I tried to get this stone,\nI done it for Red.", true],
+		["<voice_0x01000D60><se_low>Yangus: Now we're just rivals, I guess, but I actually used to 'ave a bit of a thing for Red.", true],
+		["<voice_0x01000D61><se_low>Yangus: Back in them days she weren't a scary old bird like she is now. An' I was well green.", true],
+		["<voice_0x01000D62><se_low>Yangus: So I thought I'd get her the Venus' tear to\nimpress her, like. But I ended up doin' meself\nan injury an' I 'ad to leave it.", true],
+		["<voice_0x01000D63><se_low>Yangus: Never thought I'd end up gettin' it like this, though!", true],
+		["<voice_0x01000D64><se_low>Yangus: I wonder 'ow it would've all turned out if I 'ad got it back then, eh?", true],
+		["<voice_0x01000D65><se_low>Yangus: Anyway, just me old wounds. Would ya mind keepin' this to yerself, guv? Ain't the kind o' thing ya want goin' around.", true]
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F53><se_low>King Clavius: I saw my son take an Argon heart from one of the merchants. Did you even take him to the royal hunting ground?", true],
+		["<voice_0x01000F54><se_low>King Clavius: I saw everything from up here.\nYou must tell me the truth.\nOut with it!", true],
+		["<voice_0x01000F55><se_low>King Clavius: ...I see. So this is the Argon heart he obtained with your help.", true],
+		["<voice_0x01000F56><se_low>King Clavius: Why didn't he simply show it to me?\nI would not have cared about the size.", true],
+		["<voice_0x01000F57><se_low>King Clavius: I fear this means Charmles is far too immature to take the throne... Or a wife.", true],
+		["<voice_0x01000F58><se_low>King Clavius: However, that is a matter between Charmles and myself. You did a fine job in taking him to the royal hunting ground.", true],
+		["<voice_0x01000F59><se_low>King Clavius: The magic mirror is in the royal vault on the fourth floor. You are free to take it whenever you wish. I have already instructed the guards to admit you.", true],
+		["<voice_0x01000F5A><se_low>King Clavius: And I will take this Argon heart.", true],
+		["<voice_0x01000F5B><se_low>King Clavius: It might prove useful when I need to remind Charmles of his foolhardiness.", true]
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000DDC><se_low>King Trode: Ah, you've found something!\nLet's read it and see if it can be of any help.", true],
+		["The party members pore over the book they\nhave just found.", true],
+		["<voice_0x01000DDD><se_low>King Trode: So what we've discovered is that long, long ago the area where we found the ship was at the bottom of an ocean.", true],
+		["<voice_0x01000DDE><se_low>King Trode: Hm. It doesn't really help us now though.\nIf only the ocean still existed,\nit would be plain sailing...haha...ah...", true],
+		["<voice_0x01000DDF><se_low>King Trode: ...Hm?", true],
+		["<voice_0x01000DE0><se_low>King Trode: What on earth!?", true]
+	]
+}

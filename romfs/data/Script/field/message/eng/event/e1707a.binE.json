@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001622><se_def>*: I've been waiting for you meddlesome fools! Your pitiful attempts to stop me have been in vain!", true],
+		["<voice_0x01001623><se_def>*: Behold, I am the Lord of Darkness, Rhapthorne! My resurrection to flesh has\nbeen a long and painful journey.", true],
+		["<voice_0x01001624><se_def>Rhapthorne: And what pitiful circumstances we have all\nhad to endure along the way! But, humans!\nNow I will unite us in happiness!", true],
+		["<voice_0x01001625><se_def>Rhapthorne: From this moment, the World of Light and the World of Darkness will be as one! And this union shall herald the reign of a new ruler!", true],
+		["<voice_0x01001626><se_def>Rhapthorne: One almighty power to preside over all!\nThe Lord of Darkness, Rhapthorne!", true],
+		["<voice_0x01001627><se_def>Rhapthorne: You will revere me!\nAnd you will offer up your pitiful lives as\na mark of your respect and adoration!", true]
+	]
+}

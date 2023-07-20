@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010012D7><se_low>Yangus: How yer feelin', guv?\nYou awright?", true],
+		["<voice_0x010012D8><se_low>Yangus: I was worried about ya, like.\nYou was the only one who wouldn't wake up.", true],
+		["<voice_0x010012D9><se_low>Yangus: This place belongs to the old granny over there. Lives 'ere on 'er own, y'know.", true],
+		["<voice_0x010012DA><se_low>Yangus: We're not far from where that av'lanche 'appened. She says we can stay 'ere 'til the snow clears up a bit.", true]
+	]
+}

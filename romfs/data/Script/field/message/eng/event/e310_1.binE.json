@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C3F><se_def>Angelo: Ah, you're awake!", true],
+		["<voice_0x01000C40><se_def>Angelo: ...I realise I said it before the funeral,\nbut I just wanted to assure you that\neveryone knows you're innocent.", true],
+		["<voice_0x01000C41><se_def>Angelo: If it weren't for you, Captain Marcello could well have been killed too. We're all in your debt.", true],
+		["<voice_0x01000C42><se_def>Angelo: ...Anyway, the Templar Captain has summoned you to his office.", true],
+		["<voice_0x01000C43><se_def>Angelo: See you later then.\nDon't forget!", true]
+	]
+}

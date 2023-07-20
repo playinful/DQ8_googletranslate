@@ -1,0 +1,24 @@
+{
+	"header": [1, 0, 0, 0, 19, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 111, 0, 0, 0, 120, 0, 0, 0, 125, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 19, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000DE1><se_def>Ishmahri: Aah...?\nWelcome once more to the Land of the Moonshadow, fortunate travellers.", true],
+		["<voice_0x01000DE2><se_def>Ishmahri: The Moonshadow window opens but once in a human's lifetime to grant a single wish.", true],
+		["<voice_0x01000DE3><se_def>Ishmahri: It is mysterious indeed that we should meet for a second time.", true],
+		["<voice_0x01000DE4><se_def>Ishmahri: Enlighten me, what wish has brought you back to me upon this night?", true],
+		["<Cap><leader> tells Ishmahri about the ship in the wasteland.", true],
+		["<voice_0x01000DE5><se_def>Ishmahri: I know the ship of which you speak. Long ago, it would travel the vast oceans, guided by the light of the moon. I remember it well.", true],
+		["<voice_0x01000DE6><se_def>Ishmahri: And now you wish to return this ship to the ocean from whence it came? A simple task.", true],
+		["<voice_0x01000DE7><se_def>Ishmahri: All we must do is revive the memory of ancient times. Those times when there was once an ocean where now there is only land.", true],
+		["<voice_0x01000DE8><se_def>Ishmahri: You saw for yourselves in Ascantha...\nNow I will again give form to a memory,\nthe memory of the ocean that sleeps in the land.", true],
+		["<voice_0x01000DE9><se_def>Ishmahri: Yes, yes, the music will rouse the memory...", true],
+		["<voice_0x01000DEA><se_def>Ishmahri: Ah... It is as I feared.\nThis harp is not powerful enough.", true],
+		["<voice_0x01000DEB><se_def>Ishmahri: I will need a greater instrument if I am to perform such a task.", true],
+		["<voice_0x01000DEC><se_def>Ishmahri: I must think...", true],
+		["<voice_0x01000DED><se_def>Ishmahri: Yes, it is coming to me...\nThere is an aura that surrounds you...\nIt is faint, but I can feel it.", true],
+		["<voice_0x01000DEE><se_def>Ishmahri: I see it! A Moonshadow harp in the world of the sun's light. With that, no undertaking would be beyond the realms of possibility.", true],
+		["<voice_0x01000DEF><se_def>Ishmahri: Lend me your ears. Somewhere in your world there is an almighty instrument.", true],
+		["<voice_0x01000DF0><se_def>Ishmahri: Somewhere along the path you have already trodden. A friend will guide you to it.", true],
+		["<voice_0x01000DF1><se_def>Ishmahri: My brave children.\nIf you wish to awaken the ancient ship,\nyou must first find the Moonshadow harp.", true],
+		["<voice_0x01000DF2><se_def>Ishmahri: Bring it to me and I shall summon the memory of that ancient ocean, and the ship shall sail once more.", true]
+	]
+}

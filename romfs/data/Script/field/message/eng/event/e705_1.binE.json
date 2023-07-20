@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001193><se_def>*: What happened!?\nWhat are you two doing together!?", true],
+		["<voice_0x01001194><se_def>*: Does this mean ya still don't know\nwho won?", true],
+		["<voice_0x01001195><se_high>*: Come on, it's obvious.\nIt must have been a draw.", true],
+		["<voice_0x01001196><se_low>*: Does this mean the casino's gonna stay closed? Gimme a break!", true],
+		["<voice_0x01001197><se_def>Cash: Listen up, all of you!\nAs you can see, the contest was a draw!\nHowever, an heir has been decided!", true],
+		["<voice_0x01001198><se_high>Carrie: Both of us are inheriting our father's fortune. Together.", true],
+		["<voice_0x01001199><se_def>Cash: And as proof, we have both obtained the mark of the Golding clan from the Dragon Graveyard!", true],
+		["<voice_0x0100119A><se_low>*: They look just like the scars Golding had on his hands!", true],
+		["<voice_0x0100119B><se_def>*: Yeah. He used to show 'em off all the time, down the pub, 'e did.", true],
+		["<voice_0x0100119C><se_high>Carrie: We also have some good news for everyone.\nThe casino will reopen tomorrow!", true],
+		["<voice_0x0100119D><se_low>*: YES! YES!\n(Ho ho hooo...YES!)", true],
+		["<voice_0x0100119E><se_def>*: About bleedin' time!", true],
+		["<voice_0x0100119F><se_def>Cash: And finally, we need to thank you for protecting us, my travelling friends.\nBut we're exhausted at the moment.", true],
+		["<voice_0x010011A0><se_def>Cash: We'd like you to stay in the mansion tonight\nas our guests so we can properly reward you tomorrow.", true]
+	]
+}

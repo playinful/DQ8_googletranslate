@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010017CE><se_def>*: Good morning! So today's the day!\nYou're going to face our Lord, aren't you?", true],
+		["<voice_0x010017CF><se_def>*: I humbly wish you the best of luck.\nWe can't go on like this.", true],
+		["<voice_0x010017D0><se_low>Chen Mui: If you are injured, or tire on your way to the Heavenly Dais, you should return to my house and rest.", true],
+		["<voice_0x010017D1><se_low>Chen Mui: I've made arrangements so that you can stay whenever you like. Just ask my attendant.", true]
+	]
+}

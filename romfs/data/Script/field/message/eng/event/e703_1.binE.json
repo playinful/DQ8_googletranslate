@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001118><se_def>Cash: THERE you are!\nI've been waiting for you!", true],
+		["<voice_0x01001119><se_def>Cash: Carrie's already inside.\nIf we hurry, we might be able to catch her!", true],
+		["<voice_0x0100111A><se_def>Cash: Listen, I can't lose. This is my chance to teach her to respect her older brother!", true],
+		["<voice_0x0100111B><se_high>Carrie: Man! Where have you guys BEEN?\nI was starting to think you'd never show up!", true],
+		["<voice_0x0100111C><se_high>Carrie: Cash's already inside.\nWe've got to go after him!", true],
+		["<voice_0x0100111D><se_high>Carrie: I've got to win. I swear, Cash, I'm gonna have you begging for mercy...", true]
+	]
+}

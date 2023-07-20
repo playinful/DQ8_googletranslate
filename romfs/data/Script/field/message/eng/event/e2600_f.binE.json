@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001909><se_def>*: Hm, what's...?", true],
+		["<voice_0x0100190A><se_def>*: Uwaargh, my eyes!", true],
+		["<voice_0x01000DD3><se_def>Dhoulmagus: Mua ha ha ha! HA HA HA HA! AH HA HA HA!", true]
+	]
+}

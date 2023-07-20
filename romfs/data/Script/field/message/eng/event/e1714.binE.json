@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001677><center>My beloved kin.\n<center>We sages have done all that we can...", true],
+		["<voice_0x01001678><center>Now our dear world, our future,\n<center>lies in your hands. Protect it well...", true],
+		["<voice_0x01001679><center>We will be watching you.\n<center>Farewell, my beloved kin.\n<center>Farewell, Empyrea...", true],
+		["<voice_0x0100167A><se_low><center>Whaaaaaargh!", true],
+		["<voice_0x0100167B><se_low><center>Meddling pests!\n<center>How much more of my time will you waste!?", true],
+		["<voice_0x0100167C><se_low><center>You will rot in hell for breaking my shield\n<center>of darkness! But first you will taste the\n<center>true might of my flesh and blood!", true],
+		["<voice_0x0100167D><se_low><center>You shall taste the terror eternal.\n<center>Even death shall offer you no respite.", true]
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"header": [1, 0, 0, 0, 2, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 2, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000ECD><se_def>Prince Charmles: You feather-brained rascal! You forgot to use the lizard humour I gave you, didn't you!?", true],
+		["<voice_0x01000ECE><se_def>Prince Charmles: Didn't I tell you that you wouldn't be able to get close to a lizard without it? Now do as you're told and stop wasting my time!", true]
+	]
+}

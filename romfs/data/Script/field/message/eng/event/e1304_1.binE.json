@@ -1,0 +1,21 @@
+{
+	"header": [1, 0, 0, 0, 16, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 16, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001385><se_high>Red: I thought I recognised ya! You're that lot who got the Venus' tear for me, intcha?", true],
+		["<voice_0x01001386><se_high>Red: Fancy seein' you again in a place like this!", true],
+		["<voice_0x01001387><se_low>Yangus: Red! Wot on earth are you doin' 'ere!?", true],
+		["<voice_0x01001388><se_high>Jessica: It's Red, isn't it?\nWhat brings you here?", true],
+		["<voice_0x01001389><se_def>Angelo: You're that friend of Yangus's, aren't you?\nWhat are you doing here?", true],
+		["<voice_0x0100138C><se_high>Red: Well, I 'eard a rumour that there's treasure 'ere. Belonged to that old pirate, Captain Crow.", true],
+		["<voice_0x0100138D><se_high>Red: Mention treasure to me, an' I'm unstoppable!\nI can't get enough of it! So I got meself this boat and came on down to see wot I could find.", true],
+		["<voice_0x0100138E><se_high>Red: ...By the looks of ya, you're 'ere for the same reason, eh?", true],
+		["<voice_0x0100138F><se_high>Red: Oh, this could be a bit of a laugh, then!\nFirst one to find it, keeps it!", true],
+		["<voice_0x01001390><se_high>Red: ...In which case, I'd better get a wiggle on! Sure you won't mind givin' me a bit of an 'ead start!", true],
+		["<voice_0x01001391><se_low>Yangus: Oi! Hold yer 'orses!\nYa can't just say all that and then run off!", true],
+		["<voice_0x01001392><se_low>Yangus: An' there are monsters in 'ere, y'know.\nLook at ya, goin' off 'alf-cocked on yer own!\nYou must 'ave a screw loose!", true],
+		["<voice_0x01001393><se_high>Red: Who'd you think you are, underestimatin' me like that!? You should know by now 'ow good I am at creepin' around!", true],
+		["<voice_0x01001394><se_high>Red: Those monsters won't even know I'm in 'ere!\nNot like you, you big fat clod'opper!", true],
+		["<voice_0x0100138A><se_low>Morrie: Ciao bella. My name is Morrie. It is a pleasure.", true],
+		["<voice_0x0100138B><se_low>Morrie: But why, per favore, are you here?", true]
+	]
+}

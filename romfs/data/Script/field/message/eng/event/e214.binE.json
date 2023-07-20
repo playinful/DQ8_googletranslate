@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010009F0><se_high>*: Oh! Look out!\nIt isn't safe here!", true],
+		["<voice_0x010009F1><se_high>*: Just look! There's a mouse!\nI hate mice! Why do I have to deal with it?\nOhhh...", true],
+		["<voice_0x010009F2><se_high>*: See!? See!?\nDid you see it?\nJust now!?", true],
+		["<voice_0x010009F3><se_high>*: What am I going to do!?\nJessica's room is on the other side of that wall! Oh, dear...", true]
+	]
+}

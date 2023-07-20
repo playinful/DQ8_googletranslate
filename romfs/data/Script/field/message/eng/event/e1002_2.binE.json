@@ -1,0 +1,33 @@
+{
+	"header": [1, 0, 0, 0, 28, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 15, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 104, 1, 0, 0, 28, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E73><se_low>King Clavius: The magic mirror!? But it's a precious royal heirloom. Why on earth do you require it!?\nExplain yourself!", true],
+		["<voice_0x01000E74><se_low>King Clavius: I understand. However, as I have said, the magic mirror is a treasure of the royal family. I cannot simply give it to you.", true],
+		["<voice_0x01000E75><se_low>Yangus: I knew 'e'd say no...", true],
+		["<voice_0x01000E76><se_def>Angelo: C'est la vie, I suppose. It was a lot to ask.", true],
+		["<voice_0x01000E77><se_high>Jessica: So now what? How are we going to avenge my brother's death without that mirror?", true],
+		["<voice_0x01000E78>King Clavius: Hmm...", true],
+		["<voice_0x01000E79><se_low>King Clavius: If what you say is true, you must have survived a great many ordeals on your travels.  ", true],
+		["<voice_0x01000E7A><se_low>King Clavius: That means your fighting skills must be on a par with those of my soldiers.", true],
+		["<voice_0x01000E7B><se_low>*: B-But Your Majesty!\nYou can't possibly plan to use those travellers instead of royal guardsmen!?", true],
+		["<voice_0x01000E7C><se_low>King Clavius: Well surmised, Chancellor.", true],
+		["<voice_0x01000E7D><se_low>King Clavius: Listen to me carefully, <hero>. I rule with a fair hand. But I cannot grant every request that is made of me.", true],
+		["<voice_0x01000E7E><se_low>King Clavius: However, if the royal family owes someone\na debt of gratitude, I consider it my duty to\nfulfil it.", true],
+		["<voice_0x01000E7F><se_low>King Clavius: You need the magic mirror. Then accept my request. If you complete the task I set forth for you, you may have the mirror.", true],
+		["<voice_0x01000E80><se_low>King Clavius: Summon the Prince.", true],
+		["<voice_0x01000E81><se_def>*: At once, Your Majesty.", true],
+		["<voice_0x01000E82><se_low>King Clavius: The request concerns my son, Prince Charmles.", true],
+		["<voice_0x01000E83><se_low>King Clavius: To become King of Argonia, one must undertake a special initiation ceremony. There is some risk to life and limb. And the Prince is unwilling to do it.", true],
+		["<voice_0x01000E84><se_low>King Clavius: As a father, the thought of putting my own son in danger pains me. But he must pass the initiation if he is to succeed me to the throne.", true],
+		["<voice_0x01000E85><se_low>King Clavius: It is the tradition of our kingdom.", true],
+		["<voice_0x01000E86><se_low>King Clavius: I was considering sending a detail of royal soldiers to protect him during the rite.\nHowever, I fear it will ruin his reputation.", true],
+		["<voice_0x01000E87><se_low>King Clavius: So my request is this: you outsiders will accompany my son to the royal hunting ground. Naturally, this would remain completely confidential.", true],
+		["<voice_0x01000E88><se_low>King Clavius: It is vital that everyone believes my son passed the initiation on his own.", true],
+		["<voice_0x01000E89><se_def>*: Y-Your Majesty! Prince Charmles is<endash>", true],
+		["<voice_0x01000E8A><se_low>King Clavius: What is it this time...?", true],
+		["<voice_0x01000E8B><se_def>*: The Prince has run off again!\nI'm extremely sorry, Your Majesty!\nThis is all my fault!", true],
+		["<voice_0x01000E8C><se_def>*: I will bring Prince Charmles to Your Majesty as soon as we can find him!\nAs your humble and faithful servant I beg<endash>", true],
+		["<voice_0x01000E8D><se_low>King Clavius: You incompetent FOOL!", true],
+		["<voice_0x01000E8E><se_low>King Clavius: Please pardon my outburst, <hero>.\nBut we cannot continue this discussion without my son.", true]
+	]
+}

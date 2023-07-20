@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<se_low>Chen Mui: That path only leads to my house.", true],
+		["<se_low>Chen Mui: Before we go there, I must find out\nwhat happened to the Sanctuary.\nWe must speak with the Elders!", true],
+		["<voice_0x0100177F><se_low>*: Humans!? What are they doing here?", true],
+		["<voice_0x01001780><se_low>*: Grrr...! If only I had the strength to turn into my dragon form, I would scorch them where they stand!", true],
+		["<voice_0x01001781><se_low>Chen Mui: I should have expected that even ill health wouldn't quench your hatred of humans.", true],
+		["<voice_0x01001782><se_low>*: Master Chen Mui! So you brought these humans into our Sanctuary!?", true],
+		["<voice_0x01001783><se_low>*: You, you, you traitor! It's ridiculous notions like this that made your daughter commit her offence against our race!", true],
+		["<voice_0x01001784><se_low>Chen Mui: An offence against our race, you say?\nYou haven't changed one bit.", true],
+		["<voice_0x01001785><se_low>Chen Mui: Well. There's no sense trying to reason with a stone. Let's leave this stubborn old man to his own devices.", true],
+		["<voice_0x01001786><se_low>Chen Mui: Fool or not, it isn't right to antagonise a man on his sickbed.", true]
+	]
+}

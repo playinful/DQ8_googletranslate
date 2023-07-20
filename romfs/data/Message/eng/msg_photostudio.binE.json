@@ -1,0 +1,22 @@
+{
+	"header": [2, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 0, 0, 4, 0, 0, 0, 5, 0, 0, 0, 6, 0, 0, 0, 7, 0, 0, 0, 8, 0, 0, 0, 9, 0, 0, 0, 10, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 0, 0, 4, 0, 0, 0, 12, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["*: FIRST TIME ", true],
+		["*: REGULAR CLIENT", true],
+		["*: ALL CHALLENGES COMPLETE ", true],
+		["*: NO RATED PHOTOS ", true],
+		["*: RATED PHOTO EXISTS ", true],
+		["You've managed to collect <val_0> stamps, which earns you <INDEF_ART_SGL_I_NAME_0>!", true],
+		["You've completed all <DEF_ART_TARGET> challenges, which earns you a new sticker to use in your photo album.", true],
+		["You've completed all <DEF_ART_TARGET> challenges, which earns you a new frame to use in your photo album.", true],
+		["Stupendous! You've completed every single photographic challenge! You've earnt yourself a new sticker!", true],
+		["Fantastic! You've completed every single photographic challenge! You've earnt yourself a new frame!", true],
+		["*: COME AGAIN! ", true],
+		["You successfully snapped a shot of the stupendous Stella! You've earnt yourself a new sticker!", true],
+		["Completed Challenges", true],
+		["Finish", true],
+		["You've completed <IF_SING val_0>a new challenge<ELSE_NOT_SING><val_0> new challenges<ENDIF_SING>!", true],
+		["You obtain <val_0> stamps!", true],
+		["Stamps", true]
+	]
+}

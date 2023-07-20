@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 195, 0, 0, 0, 200, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000CD1><se_low>King Trode: Well it's all right for some, isn't it!?", true],
+		["<voice_0x01000CD2><se_low>King Trode: No doubt King Pavan treated you to plenty of fine food and drink! You lucky toads!", true],
+		["<voice_0x01000CD3><se_low>King Trode: The Princess and I have been waiting, you know! Stuck here outside town! And Medea isn't much for conversation these days, hm!", true],
+		["<voice_0x01000CD4><se_low>Yangus: I know 'ow ya feel, Grandad.", true],
+		["<voice_0x01000CD5><se_low>Yangus: If only you weren't so...green, eh?\nMaybe we could get ya into town\nand you could 'ave a drink or somefin'.", true],
+		["<voice_0x01000CD6><se_low>Yangus: I ain't exactly a looker meself.\nI know wot it's like to be discrimated against.", true],
+		["<voice_0x01000CD7><se_low>Yangus: ...Oi, guv! I've got an idea.\nThe town I used to live in ain't too far south of 'ere. How about we 'ead off down there, eh?", true],
+		["<voice_0x01000C65><se_low>Yangus: Sure, Pickham ain't no rose garden, but it's in\nthe middle o' nowhere, right. Even a strange\nold geezer like 'im would fit in no problem.", true],
+		["<voice_0x01000C66><se_low>Yangus: Old Grandad 'ere 'll be able to getta drink!", true],
+		["<voice_0x01000CD8><se_low>Yangus: An' we might get a clue about where that Dhoulmagus 'as got to an' all.", true],
+		["<voice_0x01000CD9><se_low>Yangus: There's a bloke there who knows ev'ryfin' about ev'ryfin'. We call 'im Brains. He's a mate o' mine. He'll know somefin'! Dead cert!", true],
+		["<voice_0x01000CDA><se_low>Yangus: See, two birds wiv one stone, eh!\nI ain't just a pretty face! Come on!\nLet's get goin' south! Pickham 'ere we come!", true]
+	]
+}

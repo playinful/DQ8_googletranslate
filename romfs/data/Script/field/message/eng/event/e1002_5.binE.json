@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EBE><se_def>Prince Charmles: That stinky old wagon is far too small for me!", true],
+		["<voice_0x01000EBF><se_def>Prince Charmles: Maybe I could stretch my legs if you got rid of that worthless pot.", true],
+		["<voice_0x01000EC0><se_def>Prince Charmles: Good grief! What's THAT? What kind of people are you, travelling with a freak like that?", true],
+		["<voice_0x01000EC1><se_low>Yangus: Here, Grandad! You'd o' bitten my 'ead off if I'd o' said somefin' like that! \u2018I'm a king, you half<->witted twerp!\u2019", true],
+		["<voice_0x01000EC2><se_low>King Trode: Come a little closer.", true],
+		["<voice_0x01000EC3><se_low>King Trode: Look at us! Don't you see? We can't tell him his fianc\u00e9e has turned into a horse!", true],
+		["<voice_0x01000EC4><se_low>King Trode: Much better to keep the truth a secret for now. Make sure everyone knows to keep it under their hats.", true],
+		["<voice_0x01000EC5><se_low>King Trode: Prince Charmless! What is our destination?", true],
+		["<voice_0x01000EC6><se_def>Prince Charmles: It's \u2018Charmles\u2019, you clot! Just head east. Eventually we'll come to the royal hunting ground. That's where the initiations take place.", true],
+		["<voice_0x01000EC7><se_def>Prince Charmles: Oh! And before I forget, <hero>...", true],
+		["<voice_0x01000EC8><se_def>Prince Charmles: This phial contains a powder that masks human scent. You must sprinkle it on yourselves before we enter the royal hunting ground.", true],
+		["<voice_0x01000EC9><se_def>Prince Charmles: Argon lizards are very sensitive to smell.\nIf they get wind of our unmasked scent,\nthey'll run away.", true],
+		["<voice_0x01000ECA><se_def>Prince Charmles: In other words, we've got to smell like lizards to fight lizards!", true],
+		["<voice_0x01000ECB><se_def>Prince Charmles: I'm supposed to be doing this by myself, so I shall be staying in the wagon until we arrive.", true],
+		["<voice_0x01000ECC><se_def>Prince Charmles: I'll alight upon arrival, and we shall then proceed on foot. Now get a move on,\nyou lazy rascals!", true]
+	]
+}

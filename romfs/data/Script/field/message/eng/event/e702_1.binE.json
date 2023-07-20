@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x010010D6><se_high>Carrie: I hate you, Cash!\nI SO cannot stand you!", true],
+		["<voice_0x010010D7><se_high>Carrie: We're both orphans, remember!?\nDad took us in when we were still babies!", true],
+		["<voice_0x010010D8><se_high>Carrie: That means we don't know who's actually older!\nFor all you know I could be your older sister!", true],
+		["<voice_0x010010D9><se_def>Cash: Yeah, and for all I know maybe you're actually a boy! Whatever, Carrie. Why don't you just chill out? I'm giving you an equal chance!", true],
+		["<voice_0x010010DA><se_def>Cash: Like, how many times do we have to go over\nthis? We do the contest. The winner inherits\nthe Golding family's fortune. End of story.", true],
+		["<voice_0x010010DB><se_def>Cash: Wait, don't tell me!", true],
+		["<voice_0x010010DC><se_def>Cash: You're too scared to go to the Dragon Graveyard, even with your bodyguards.", true],
+		["<voice_0x010010DD><se_high>Carrie: As if! Don't be more of a jerk than usual, Cash.", true],
+		["<voice_0x010010DE><se_high>Carrie: Huh!? Cash, we have guests! They could be applying for the bodyguard position!", true],
+		["<voice_0x010010DF><se_def>Cash: Hello, there! Please forgive our manners.\nWelcome to the Golding mansion!", true]
+	]
+}

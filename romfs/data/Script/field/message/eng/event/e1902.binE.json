@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001768><se_low>Yangus: That gate's a whopper, innit!\nWonder wot's behind it, eh?", true],
+		["<voice_0x01001769><se_def>Angelo: It won't move an inch!\nWhat do we do now?", true],
+		["<voice_0x0100176A><se_high>Jessica: Well, we can't just turn back.\nC'mon, someone must have a bright idea!", true]
+	]
+}

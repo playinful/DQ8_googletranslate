@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000EF4><se_def>Prince Charmles: I say, <leader>!\nShow me what it is you've got there!", true],
+		["<voice_0x01000EF5><se_def>Prince Charmles: Well, well... A salamango, eh?\nThe Chancellor said that Argon lizards absolutely adore these.", true],
+		["<voice_0x01000EF6><se_def>Prince Charmles: A sleeping lizard will wake up at the\nslightest whiff of one, apparently!\nI suppose that's proof enough!", true]
+	]
+}

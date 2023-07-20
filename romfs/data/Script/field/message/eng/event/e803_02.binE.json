@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001C5C><se_high>Princess Medea: Thank you for bringing me to the spring again, <hero>.", true],
+		["<voice_0x01001C5D><se_high>Princess Medea: Coming here is the only chance I get to relax and forget my troubles.", true],
+		["<voice_0x01001C5E><se_high>Princess Medea: I miss the time we spent together at the castle\nso much...", true],
+		["<voice_0x01001C5F><se_high>Princess Medea: Do you remember when we first met, <hero>?", true],
+		["<voice_0x01001C60><se_high>Princess Medea: We were so small. I remember spending every waking hour together when we were children.", true],
+		["<voice_0x01001C61><se_high>Princess Medea: You were always running everywhere, <hero>. It took all of my energy just to keep up with you!", true],
+		["<voice_0x01001C62><se_high>Princess Medea: Oh! I can feel the spring water wearing off...\nI hope we can talk again soon.\nI'll miss you, <hero>!", true]
+	]
+}

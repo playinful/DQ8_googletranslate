@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 170, 68, 12, 0, 180, 68, 12, 0, 190, 68, 12, 0, 200, 68, 12, 0, 210, 68, 12, 0, 220, 68, 12, 0, 230, 68, 12, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CCB><se_high>Princess Medea: Oh! I'm human again!\nAnd I can see your face, <hero>!", true],
+		["<voice_0x01001CCC><se_high>Princess Medea: Is this a dream? It must be...\nCan you hear my voice, <hero>?", true],
+		["<voice_0x01001CCD><se_high>Princess Medea: I have to admit to being a little glum.\nI thought the curse would be lifted after you defeated Dhoulmagus.", true],
+		["<voice_0x01001CCE><se_high>Princess Medea: And now Jessica's gone, too...", true],
+		["<voice_0x01001CCF><se_high>Princess Medea: I wonder where she could be?", true],
+		["<voice_0x01001CD0><se_high>Princess Medea: Do you think this has anything to do with\nthe curse?", true],
+		["<voice_0x01001CD1><se_high>Princess Medea: I'll be praying for her safe return.", true]
+	]
+}

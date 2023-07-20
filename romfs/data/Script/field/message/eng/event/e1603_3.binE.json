@@ -1,0 +1,14 @@
+{
+	"header": [1, 0, 0, 0, 9, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 9, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100156B><se_def>Marcello: ...I...I don't believe it...!\nHow...could you...?", true],
+		["<voice_0x0100156C><se_def>Ah ha ha!", true],
+		["<voice_0x0100156D><se_def><center>I must thank you, <hero>!", true],
+		["<voice_0x0100156D><se_def>Marcello: I must thank you, <hero>!", true],
+		["<voice_0x0100156F><se_def>Rhapthorne: He has been a stubborn one, but with your help I can finally control this flesh as my own.", true],
+		["<voice_0x01001570><se_def>Rhapthorne: Now that this fool has disposed of the Lord High Priest for me, the final heir is no more and the seal of the sceptre is broken!", true],
+		["<voice_0x01001571><se_def>Rhapthorne: Yes! The time has come for my resurrection!", true],
+		["<voice_0x01001572><se_def>Rhapthorne: Now!", true],
+		["<voice_0x01001573><se_def>Rhapthorne: Complete my revival!\nMy revival to flesh and blood!", true]
+	]
+}

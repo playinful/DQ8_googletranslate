@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D7A><se_low>*: Red told me to get the 'orse out for ya before ya got 'ere.", true],
+		["<voice_0x01000D7B><se_low>*: Looks like she knew you'd come up wiv the goods. She must rate ya.", true],
+		["<voice_0x01000D7C><se_low>King Trode: Medea! What a terrible ordeal you must have been through! I'm so sorry! I won't leave you alone again!", true],
+		["<voice_0x01000D7D><se_low>King Trode: I'll never go to the pub like that again!\nI promise!", true],
+		["<voice_0x01000D7E><se_low>Yangus: COR BLIMEY!", true],
+		["<voice_0x01000D7F><se_low>King Trode: Well, we're ready to leave whenever you are, <most_heroic>. What's our next destination?", true],
+		["<voice_0x01000D80><se_low>Yangus: How about tryin' Brains again?\nMaybe the old geezer'll be around to give us some intelligents this time.", true],
+		["<voice_0x01000D81><se_low>Yangus: Let's 'ead back to Pickham.", true],
+		["<voice_0x01000D82><se_low>Yangus: We've gotta find out where Dhoulmagus is.\nOtherwise we'll just be wand'rin' 'round like 'eadless chickens.", true],
+		["<voice_0x01000D83><se_low>King Trode: Hmph. It would be no hardship to me if I\nnever ever set foot in Pickham again.\nBut I suppose we have no choice.", true]
+	]
+}

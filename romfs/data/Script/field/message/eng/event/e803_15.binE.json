@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001CB0><se_high>Princess Medea: So I'll be a member of the royal family of Argonia soon...", true],
+		["<voice_0x01001CB1><se_high>Princess Medea: I've accepted that.\nIt's my duty as princess.", true],
+		["<voice_0x01001CB2><se_high>Princess Medea: It's just that no matter how hard I try,\nI simply can't imagine getting married yet.", true],
+		["<voice_0x01001CB3><se_high>Princess Medea: I mean, I don't have the faintest idea what it means to be a wife...", true],
+		["<voice_0x01001CB4><se_high>Princess Medea: And...I don't have the faintest idea what it would feel like to live away from you, <hero>.", true],
+		["<voice_0x01001CB5><se_high>Princess Medea: But it can't be helped.\nI've got to get myself used to the thought.\nI've got to be strong.", true],
+		["<voice_0x01001CB6><se_high>Princess Medea: Farewell, <hero>, my faithful palace guardsman...", true]
+	]
+}

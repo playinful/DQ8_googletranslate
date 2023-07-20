@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100139C><se_high>Red: Wot took ya so long!?\nLooks like the goodies are mine, eh!?\nWe did say it was first come first served!", true],
+		["<voice_0x0100139D><se_low>Captain Crow: Ahoy there, they call me Cap'n Crow.\nLong ago, I were one o' the pirates who sailed the seven seas...", true],
+		["<voice_0x0100139E><se_low>Captain Crow: Think you can take my treasure, do ya?\nThink you've got what it takes?", true],
+		["<voice_0x0100139F><se_low>Captain Crow: Yo, ho, ho, then prove it by fightin' me.", true],
+		["<voice_0x010013A0><se_low>Captain Crow: Else get your hands off me jewels!", true],
+		["<voice_0x010013A1><se_high>Red: Oh...\nFightin' ain't really my cuppa tea, but...", true],
+		["<voice_0x010013A2><se_low>Yangus: Red! Wot you doin' gettin' yerself into this!?", true]
+	]
+}

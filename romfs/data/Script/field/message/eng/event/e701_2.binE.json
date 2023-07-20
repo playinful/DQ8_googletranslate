@@ -1,0 +1,25 @@
+{
+	"header": [1, 0, 0, 0, 20, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 181, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 20, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000E41><se_def>Bartender: Okay, so tell me what happened the other day.\nThe suspense is killing me!", true],
+		["<voice_0x01000E42><se_def>*: All right, all right, already!\nBut you've got to keep this under your hat, okay?\nThis is between you and me.", true],
+		["<voice_0x01000E43><se_def>Bartender: I swear I won't say a word.\nWe barmen know when to keep our mouths shut.", true],
+		["<voice_0x01000E44><se_def>*: By the Goddess, lower your voice!\nI assume you've heard about Mr. Golding's\nhouse being burgled.", true],
+		["<voice_0x01000E45><se_def>*: Well, the fact is, Mr. Golding was murdered during the robbery.", true],
+		["<voice_0x01000E46><se_def>Bartender: MURDERED!?\nYou mean Mr. Golding is DEAD!?", true],
+		["<voice_0x01000E47><se_def>*: I told you to keep it down!\nThat's why nobody's seen hide nor hair of him recently. He isn't among the living any more.", true],
+		["<voice_0x01000E48><se_def>Bartender: But Mr. Golding was such a big man!\nYou're trying to tell me he was killed by a random burglar!?", true],
+		["<voice_0x01000E49><se_def>*: Well, the really weird thing about it\nwas that the burglar was apparently dressed\nas a jester!", true],
+		["<voice_0x01000E4A><se_def>*: I didn't see him myself, mind you,\nbut that's what they say.", true],
+		["<voice_0x01000E4B><se_def>Bartender: A jester, huh?", true],
+		["<voice_0x01000E4C><se_def>*: A strange one, this burglar.\nSeems he broke in, killed Mr. Golding, and left.\nHe didn't take anything valuable.", true],
+		["<voice_0x01000E4D><se_def>*: From the looks of it, he was after\nMr. Golding's life, not his gold.", true],
+		["<voice_0x01000E4E><se_def>*: I also heard that Cash and Carrie have ordered some men to find the jester and avenge their father's death.", true],
+		["<voice_0x01000E4F><se_def>Bartender: By the Goddess! This is big...\nI won't tell a soul. You can count on me.", true],
+		["<voice_0x01000E50><se_def>Bartender: I'd better get back to my customers.\nSee you later.", true],
+		["<voice_0x01000E51><se_def>Bartender: GAH!", true],
+		["<voice_0x01000E52><se_def>Bartender: I'm sorry.\nI did not see you standing there.", true],
+		["<voice_0x01000E53><se_def>Bartender: Did you...\nDid you hear what we were talking about?", true],
+		["<voice_0x01000E54><se_def>Bartender: Ah, forgive me for the strange question.\nA slip of the tongue! I'd better get back to work.", true]
+	]
+}

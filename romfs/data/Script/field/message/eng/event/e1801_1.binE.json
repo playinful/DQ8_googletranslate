@@ -1,0 +1,21 @@
+{
+	"header": [1, 0, 0, 0, 16, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 16, 0, 0, 0],
+	"strings": [
+		["<center>Several months later...", true],
+		["<voice_0x010016BE><se_low>Yangus: Guv!", true],
+		["<voice_0x010016BF><se_low>Yangus: Heh heh, long time no see, eh!? I ain't seen your mug since we polished off that fat geezer!", true],
+		["<voice_0x010016C6><se_low>Yangus: I'm well chuffed I can 'elp you out on yer first big job, an' all!", true],
+		["<voice_0x010016C7><se_low>Yangus: An' it's for none other than our darlin' 'orse-prin<endash> Oh! Listen to me!\nShe ain't an 'orse any more, is she!?", true],
+		["<voice_0x010016C8><se_low>Yangus: So we're escortin' the Princess to 'er weddin' at Savella Cathedral, right?", true],
+		["<voice_0x010016C9><se_low>Yangus: I dunno, though.\nBeats me why she's still marryin' that Charmless bloke after all that's 'appened.", true],
+		["<voice_0x010016CA><se_low>Yangus: Oh yeah! Nearly forgot!\nI was s'posed to give you a message from this old minister I saw on the way over.", true],
+		["<voice_0x010016CB><se_low>Yangus: Seems the Princess is ready to deport now,\nso ya can go an' fetch 'er from 'er room, like.", true],
+		["<voice_0x010016CC><se_low>Yangus: I'll be waitin' down in the courtyard then, eh?\nSee you in a bit.", true],
+		["<voice_0x010016C0><se_high>Red: Yeah, we ain't 'eard a flamin' peep from you since. I mean, I know yer the strong silent type, but still...", true],
+		["<voice_0x010016C1><se_high>Red: I've 'ad to put up wiv this one grumblin' and moanin' the whole time.", true],
+		["<voice_0x010016C2><se_high>Red: Honest to Goddess, 'is first words to me\nwhen 'e come to me gaff were,\n\u2018D'you think the guv's forgot about me?\u2019", true],
+		["<voice_0x010016C3><se_low>Yangus: Awright, Red, there's no need to make me sound so flamin' soft!", true],
+		["<voice_0x010016C4><se_high>Red: Wot? I'm only tellin' the truth.", true],
+		["<voice_0x010016C5><se_low>Yangus: Er...any-anyway, guv, I 'eard the news.\nHead guard, eh? It don't get much better\nthan that, does it!? You deserve it, though.", true]
+	]
+}

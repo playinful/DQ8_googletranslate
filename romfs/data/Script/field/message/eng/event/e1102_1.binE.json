@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 131, 0, 0, 0, 132, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 165, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000FF8><se_def>Dhoulmagus: Well, well!\nWhat persistent fools, coming after me in here!", true],
+		["<voice_0x01000FF9><se_def>Dhoulmagus: If I'm not mistaken, you're the very same servants of Trode I had the displeasure of meeting at Maella Abbey.", true],
+		["<voice_0x01000FFA><se_def>Dhoulmagus: So! You think you can defeat me and lift your master's curse!", true],
+		["<voice_0x01000FFB><se_def>Dhoulmagus: Ha ha ha! What admirable loyalty!\nBut alas, I am not receiving visitors at present!", true],
+		["<voice_0x01000FFC><se_def>Dhoulmagus: I'm healing. This magic is so overwhelming\nthat my body can hardly contain it.\nSuch is its power!", true],
+		["<voice_0x01000FFD><se_def>Dhoulmagus: A small price to pay for obtaining such unimaginable might!", true],
+		["<voice_0x01000FFE><se_def>Dhoulmagus: Anyway, you won't be staying long, will you!?", true],
+		["<voice_0x01000FFF><se_def>Dhoulmagus: Such a pity...", true],
+		["<voice_0x01001000><se_def>Dhoulmagus: You won't be able to fulfil your master's wish.", true],
+		["<voice_0x01001001><se_def>Dhoulmagus: But at least you shall fulfil your own destiny. To die at my hand!", true],
+		["<voice_0x01001002><se_def>Dhoulmagus: Tut, tut! We never learn, do we!?\nYou've come back for more?", true],
+		["<voice_0x01001003><se_def>Dhoulmagus: One wishes to turn his master back to normal. Another wishes to avenge her brother's death... I see you all have your own pitiful circumstances.", true],
+		["<voice_0x01001004><se_def>Dhoulmagus: But the most pitiful thing of all is this!\nYou will never defeat me, no matter how many times you try!", true],
+		["<voice_0x01001005><se_def>Dhoulmagus: Did you really imagine you could stand up to one as mighty as I? Your fates are sealed, worthless fools!", true],
+		["<voice_0x01001006><se_def>Dhoulmagus: Shall we begin?", true]
+	]
+}

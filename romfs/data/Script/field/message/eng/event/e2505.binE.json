@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010016D7><se_low>Morrie: Ragazzo! I have been searching for you low and high. So, you take the bellissima principessa to the Savella Cathedral, ay?", true],
+		["<voice_0x010016D8><se_low>Morrie: I, too, have been invited to the matrimoniales. And by the King of Argonia his self.", true],
+		["<voice_0x010016D9><se_low>Morrie: But I think to myself, if I follow the wind here, to Trodain, I can be reunited with my old ragazzo compagno!", true],
+		["<voice_0x010016DA><se_low>Morrie: Another adventure together already, ay? FANTASTICO!", true]
+	]
+}

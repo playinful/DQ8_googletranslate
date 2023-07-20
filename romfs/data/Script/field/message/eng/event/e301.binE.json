@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 90, 0, 0, 0, 95, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000B3F><se_def>*: Halt! Who goes there?", true],
+		["<voice_0x01000B40><se_def>*: I don't know you!\nWhat are you doing in here!?", true],
+		["<voice_0x01000B41><se_def>*: You need special permission to enter here.", true],
+		["<voice_0x01000B42><se_def>*: Leave! Now!\nUnless you want to die by a Templar's sword!", true],
+		["<voice_0x01000B43><se_def>*: I ordered you to keep strangers out, not to be rude. We have a reputation. Do you want to sully the name of the Templars!?", true],
+		["<voice_0x01000B44><se_def>*: Marcello!?\n*: I'm sorry, Captain!", true],
+		["<voice_0x01000B45><se_def>Marcello: I apologise for the heavy-handedness of my men.\nWe've had some trouble with strangers of late.", true],
+		["<voice_0x01000B46><se_def>Marcello: Our duty is to protect the abbey.\nWe cannot permit nameless travellers to\nwander around at will.", true],
+		["<voice_0x01000B47><se_def>Marcello: Matters within the abbey are trouble enough.\nBut that's no concern of yours!", true],
+		["<voice_0x01000B48><se_def>Marcello: These are the Templars' quarters anyway.\nI trust you have no business here,\nso I would ask you to leave.", true],
+		["<voice_0x01000B49><se_def>Marcello: I warn you, my men are ill at ease.\nI may not be able to stop them next time.", true],
+		["<voice_0x01000B4A><se_def>*: You again? What is it this time?\n...What? You've got Angelo's ring?", true],
+		["<voice_0x01000B4B><se_def>*: Hmph!\nPut it up as credit at the pub again, did he?\nThat boy's a disgrace!", true],
+		["<voice_0x01000B4D><se_def>*: Very well, then!\nAngelo's inside.\nNow hurry up!", true]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["That meddlesome old hag! Trying to cheat me of my destiny!? Argh, my eyes, my eyes...!", true],
+		["But now only one seal remains. Just one more... When the last sage's heir is buried,\nit will all be over!", true],
+		["<se_high>Jessica: Stop where you are!\nYou aren't getting away this time!", true],
+		["<se_low>Yangus: Oi! You ain't gettin' off the 'ook that easy!", true],
+		["<se_def>Angelo: Stop! We'll put an end to this here and now!", true]
+	]
+}

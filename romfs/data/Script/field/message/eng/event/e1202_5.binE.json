@@ -1,0 +1,32 @@
+{
+	"header": [1, 0, 0, 0, 27, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 141, 0, 0, 0, 142, 0, 0, 0, 143, 0, 0, 0, 150, 0, 0, 0, 151, 0, 0, 0, 152, 0, 0, 0, 153, 0, 0, 0, 154, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 203, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 27, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001211><se_low>Dominico: What on earth took you so long!?", true],
+		["<voice_0x01001212><se_low>Dominico: That pesky wand-waving bimbo has turned up again! I must erect the barrier immediately!", true],
+		["<voice_0x01001213><se_low>Dominico: Did you find \u2018The Big Book of Barriers\u2019!?\nDon't disappoint me, now!", true],
+		["<voice_0x01001214><se_low>Dominico: What are you playing at!?\nThere's no time to fool around!\nI need that book!", true],
+		["<Cap><hero> hands \u2018The Big Book of Barriers\u2019 to Dominico.", true],
+		["Yangus hands \u2018The Big Book of Barriers\u2019\nto Dominico.", true],
+		["Jessica hands \u2018The Big Book of Barriers\u2019\nto Dominico.", true],
+		["Angelo hands \u2018The Big Book of Barriers\u2019\nto Dominico.", true],
+		["<Cap><leader> takes \u2018The Big Book of Barriers\u2019 from <hero>'s coffin and hands it to Dominico.", true],
+		["<Cap><leader> takes \u2018The Big Book of Barriers\u2019 from Yangus's coffin and hands it to Dominico.", true],
+		["<Cap><leader> takes \u2018The Big Book of Barriers\u2019 from Jessica's coffin and hands it to Dominico.", true],
+		["<Cap><leader> takes \u2018The Big Book of Barriers\u2019 from Angelo's coffin and hands it to Dominico.", true],
+		["<Cap><leader> hands \u2018The Big Book of Barriers\u2019 to Dominico.", true],
+		["<voice_0x01001215><se_low>Dominico: Yes, yes! This is it!", true],
+		["<voice_0x01001216><se_low>Dominico: Now let me see... Yes, \u2018The Final Barrier\u2019!\nI must begin at once! You!\nGo outside and stall that meddlesome floozy!", true],
+		["<voice_0x01001217><se_low>Dominico: What are you worrying about!? I'll have it done in a flash! Can't you tell a great magician when you see one!?", true],
+		["<voice_0x01001218><se_low>Dominico: Just before you go! Fiery foo and bubbling goo... Behold!", true],
+		["<Cap><hero> is resurrected!!!", true],
+		["Yangus is resurrected!!!", true],
+		["Jessica is resurrected!!!", true],
+		["Angelo is resurrected!!!", true],
+		["The party is fully healed!", true],
+		["<voice_0x01001219><se_low>Dominico: Now that you're in top form, go and stall that wand-waving menace! Every second counts! Go!", true],
+		["<voice_0x0100121A><se_low>Dominico: What are you waiting for!? I told you to go outside and stall that wand-waving slip of a girl immediately!", true],
+		["<voice_0x0100121B><se_low>Dominico: Now go! GO! If you can just buy enough time to get the barrier in place, I'll show her who's boss!", true],
+		["<voice_0x0100121C><se_low>Dominico: What!? Injured!? We can't afford to waste time! Fiery foo and bubbling goo... Behold!", true],
+		["<voice_0x0100121B><se_low>Dominico: Now go! GO! If you can just buy enough time to get the barrier in place, I'll show her who's boss!", true]
+	]
+}

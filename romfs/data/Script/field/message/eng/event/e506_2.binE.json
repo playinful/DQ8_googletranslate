@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 5, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000D84><se_low>Yangus: Hello Brains.\nLong time no see.\nBack at last, eh?", true],
+		["<voice_0x01000D85><se_def>Brains: Well, well. Look who it is!\nYou came when I was out, did you Yangus?\nI'm sorry I wasn't here.", true],
+		["<voice_0x01000D86><se_def>Brains: But you're back again. So if I'm not mistaken,\nyou must be in need of some information.\nAm I right?", true],
+		["<voice_0x01000D87><se_low>Yangus: Always on the ball, eh, Brains!\nWe're lookin' for this bloke who looks like a clown. Goes by the name o' Dhoulmagus.", true],
+		["<voice_0x01000D88><se_low>Yangus: He's a slipp'ry customer.\nKeeps gettin' away from us.\nHave you 'eard anyfin'?", true],
+		["<voice_0x01000D89><se_def>Brains: Yes, I've heard about him.\nThe criminal responsible for murdering the Abbot of Maella Abbey, no less...", true],
+		["<voice_0x01000D8A><se_def>Brains: My sources report seeing him walking over the surface of the sea toward the western continent.", true],
+		["<voice_0x01000D8B><se_low>Yangus: The western cont'nent?\nThat's a bit 'azy, innit?\nCan't ya be more spific?", true],
+		["<voice_0x01000D8C><se_def>Brains: Sorry, that's all I know.\nI wish I could tell you more.", true],
+		["<voice_0x01000D8D><se_low>Yangus: Well if you don't know nuffin' more, Brains,\nthere ain't nuffin' more to know. We'll 'ave to\ngo to the western cont'nent ourselves.", true],
+		["<voice_0x01000D8E><se_def>Brains: A fine idea, but aren't you forgetting something?\nHow do you intend to cross the sea?", true],
+		["<voice_0x01000D8F><se_low>Yangus: ...Eh?", true],
+		["<voice_0x01000D90><se_def>Brains: Monster attacks at sea have been significantly worse recently. All crossings from here and from the northern continent have been cancelled.", true],
+		["<voice_0x01000D91><se_def>Brains: You could go if you had your own ship,\nbut unless I'm misinformed, you don't.\nI'd say that will pose quite a problem.", true],
+		["<voice_0x01000D92><se_low>Yangus: Er...yeah...I 'adn't thought o' that.", true],
+		["<voice_0x01000D93><se_def>Brains: No, I can see that.\nWell, perhaps I can help you out there with\na little snippet of information I heard.", true],
+		["<voice_0x01000D94><se_def>Brains: Follow the cliffs along the coast to the west from Port Prospect, and you will come to a wide open wasteland.", true],
+		["<voice_0x01000D95><se_def>Brains: According to what I hear, there's an old, abandoned ship there.", true],
+		["<voice_0x01000D96><se_def>Brains: I don't know why a ship should be in a\nplace devoid of water, but anyway...\nPeople say it's a magic ship.", true],
+		["<voice_0x01000D97><se_def>Brains: If you could get it up and running again,\nyou'd be able to sail anywhere you wanted.", true],
+		["<voice_0x01000D98><se_def>Brains: You might want to try the path to the west of Port Prospect. It was blocked by a rockslide,\nbut I hear that's been cleared up now.", true]
+	]
+}

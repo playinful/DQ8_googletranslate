@@ -1,0 +1,19 @@
+{
+	"header": [1, 0, 0, 0, 14, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 203, 0, 0, 0, 204, 0, 0, 0, 210, 0, 0, 0, 214, 0, 0, 0, 215, 0, 0, 0, 14, 0, 0, 0],
+	"strings": [
+		["<voice_0x0100167E><center>We are fighting the mighty Lord of Darkness.\n<center>He will not be easily defeated.", true],
+		["<voice_0x0100167F><center>But there will always be a glimmer of hope\n<center>as long as we refuse to surrender.\n<center>As long as we are not subdued.", true],
+		["<voice_0x01001680><center>Stand up to him!\n<center>I know you can do it!", true],
+		["<voice_0x01001681><center>Are you ready to try again?", true],
+		["<voice_0x01001675><center>Please, time is short.", true],
+		["<voice_0x01001682><center>Then climb up onto my back.", true],
+		["<Cap><hero> returns to life!", true],
+		["Yangus returns to life!", true],
+		["Jessica returns to life!", true],
+		["Angelo returns to life!", true],
+		["The party's HP and MP are fully restored!", true],
+		["DUMMY (e1716 - 210)", true],
+		["Red returns to life!", true],
+		["Morrie returns to life!", true]
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"header": [1, 0, 0, 0, 17, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 17, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000DF3><se_def>King Pavan: ...Ah!", true],
+		["<voice_0x01000DF4><se_def>King Pavan: What a pleasant surprise! It's so nice to see you all back at my humble home.", true],
+		["<voice_0x01000DF5><se_def>King Pavan: I'll never forget that day you brought\nthe vision of my dear Sasha to me...\nI cannot thank you enough.", true],
+		["<voice_0x01000DF6><se_def>King Pavan: So what brings you to my kingdom on this fine and sunny day?", true],
+		["<voice_0x01000DF7><se_def>King Pavan: ...I see.\nThe Moonshadow harp is indeed in Ascantha.", true],
+		["<voice_0x01000DF8><se_def>King Pavan: It has been one of our treasures since\nancient times.", true],
+		["<voice_0x01000DF9><se_def>King Pavan: But I cannot deny my honoured friends' request.\nIt would be my pleasure to give it to you.", true],
+		["<voice_0x01000DFA><se_def>King Pavan: It is locked securely away in the vault below\nthe castle. Allow me to escort you there.", true],
+		["<voice_0x01000DFB><se_def>King Pavan: This brooch has been passed down through many generations of the royal family.", true],
+		["<voice_0x01000DFC><se_def>King Pavan: Here we are...", true],
+		["<voice_0x01000DFD><se_def>King Pavan: The vault is just below us.\nCome with me.", true],
+		["<voice_0x01000DFE><se_def>King Pavan: ...I don't believe it!\nHow can this be...!?", true],
+		["<voice_0x01000DFF><se_def>King Pavan: It must be the work of thieves!\nI will not stand for this!", true],
+		["<voice_0x01000E00><se_def>King Pavan: ...It appears that the unthinkable has happened and the Moonshadow harp has been stolen.", true],
+		["<voice_0x01000E01><se_def>King Pavan: The culprits could still be inside this tunnel.", true],
+		["<voice_0x01000E02><se_def>King Pavan: It's too dangerous for you to go after them.\nYou mustn't set foot inside.", true],
+		["<voice_0x01000E03><se_def>King Pavan: I will summon the castle guards.\nThey'll get the harp back!\nYou mark my words!", true]
+	]
+}

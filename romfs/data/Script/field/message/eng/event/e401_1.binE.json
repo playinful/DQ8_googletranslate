@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C69><se_high>Emma: Are you feeling all right, Your Majesty?\nIt's me. Emma, the maid.", true],
+		["<voice_0x01000C6A><se_high>Emma: I see you haven't eaten any of the lunch I brought you, Your Majesty. I'll be sure to\nbring you your favourite for supper...", true],
+		["<voice_0x01000C6B>Emma: ............", true],
+		["<voice_0x01000C6C><se_high>Emma: Please, Your Majesty. Please answer me.\nI just want to make sure you're all right.", true],
+		["<voice_0x01000C6D><se_high>Emma: ...Very well.\nI'll leave you in peace.\nExcuse me.", true]
+	]
+}

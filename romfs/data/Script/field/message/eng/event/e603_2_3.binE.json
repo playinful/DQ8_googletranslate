@@ -1,0 +1,13 @@
+{
+	"header": [1, 0, 0, 0, 8, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 8, 0, 0, 0],
+	"strings": [
+		["<se_high>Red: ...Wot d'ya think you're doin', eh!?", true],
+		["<se_high>Red: I ain't your mate, got it!?\nSo get outta 'ere!", true],
+		["<se_low>Yangus: Wait a minute! I come all this way specially cos I got somefin' to ask ya!", true],
+		["<se_high>Red: Spit it out, then!\nWot is it!? Out wiv it!", true],
+		["<se_low>Yangus: Take it easy! I was just wonderin' if you've 'eard o' the Moonshadow 'arp?", true],
+		["<se_high>Red: Well... No! 'Fraid not!\nAnyfin' else!?", true],
+		["<se_low>Yangus: Oh...right. Never mind, then.\nSee ya!", true],
+		["<se_high>Red: I 'ope not! I don't wanna see your ugly mug 'ere again! Got it!?", true]
+	]
+}

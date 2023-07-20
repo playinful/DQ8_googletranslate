@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 104, 0, 0, 0, 105, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<se_high>Jessica: Are you out of your mind!?", true],
+		["<se_def>Angelo: Why not!? Some of them need a bit of a nudge in the right direction.", true],
+		["<se_high>Jessica: That's not what I meant!", true],
+		["<se_high>Jessica: Aren't you supposed to be a Templar?\nI would have thought impersonating the Goddess is against the rules!", true],
+		["<se_def>Angelo: No problem there either! The Goddess I believe in doesn't care about nonsense like that!", true],
+		["<se_high>Jessica: Well, don't come crying to me if the Goddess drops a mountain on you or something!", true]
+	]
+}

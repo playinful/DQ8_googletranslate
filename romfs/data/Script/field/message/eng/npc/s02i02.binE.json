@@ -1,0 +1,23 @@
+{
+	"header": [1, 0, 0, 0, 18, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 102, 0, 0, 0, 103, 0, 0, 0, 104, 0, 0, 0, 105, 0, 0, 0, 106, 0, 0, 0, 107, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 46, 1, 0, 0, 47, 1, 0, 0, 48, 1, 0, 0, 49, 1, 0, 0, 50, 1, 0, 0, 18, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_high>*: Greetings, <IF_SOLO>traveller<ELSE_NOT_SOLO>travellers<ENDIF_SOLO>. Would you like to rest here at our chapel?", true],
+		["<se_high>*: Today is a religious holiday. We usually accept a small donation for our beds, but tonight you may stay for free.", true],
+		["<se_high>*: As you wish. Farewell and keep safe.", true],
+		["<se_high>*: The facilities are rather basic, but I trust you will rest well.", true],
+		["<se_high>*: Good morning. May the Goddess be with you on your travels.", true],
+		["<se_high>*: We recommend a donation of 10 gold coins in return...", true],
+		["<se_high>*: Dear me, it seems you can't afford it.", true],
+		["<se_high>*: I'm afraid I won't be able to offer you a bed, but I pray that you will have a safe journey.", true],
+		["<se_high>*: Greetings, <IF_SOLO>traveller<ELSE_NOT_SOLO>travellers<ENDIF_SOLO>. Would you like to rest here at our chapel?", true],
+		["<se_high>*: We recommend a donation of 10 gold coins in return...", true],
+		["<se_high>*: As you wish. Farewell and keep safe.", true],
+		["<se_high>*: The facilities are rather basic, but I trust you will rest well.", true],
+		["<se_high>*: Good morning. May the Goddess be with you on your travels.", true],
+		["<se_high>*: Dear me, it seems you can't afford it.", true],
+		["<se_high>*: I'm afraid I won't be able to offer you a bed, but I pray that you will have a safe journey.", true]
+	]
+}

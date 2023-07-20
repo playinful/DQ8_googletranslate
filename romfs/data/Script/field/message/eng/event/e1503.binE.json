@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001467><se_high>Raya: Thank you. No doubt it is the guidance of Kupas that has brought you here.", true],
+		["<voice_0x01001468><se_high>Raya: The only way to stop the revival of the Lord of Darkness, Rhapthorne, is to seal away the sceptre that contains him once more...", true],
+		["<voice_0x01001469><se_high>Raya: Please let us do what little we can to assist you.", true],
+		["<voice_0x0100146A><se_high>Raya: Drang, would you come here?", true],
+		["<voice_0x0100146B><se_high>Drang: Right away!", true],
+		["<voice_0x0100146C><se_high>Raya: I want these people to have Kupas's great treasure. Would you go and let the guard know?", true],
+		["<voice_0x0100146D><se_high>Drang: Right away!", true],
+		["<voice_0x0100146E><se_high>Raya: As you just heard, I wish to give you something from our gully's treasure chamber.", true],
+		["<voice_0x0100146F><se_high>Raya: It's called the Darktree leaf and it belonged to Kupas. It's the leaf from a giant tree that exists in the World of Darkness.", true],
+		["<voice_0x01001470><se_high>Raya: People say that, if you place it on a map, it will instantly show you the location of a great evil.", true],
+		["<voice_0x01001471><se_high>Raya: The fate of the world is in your hands.\nWe're all depending on you. We will await\nnews of your success here in the gully.", true]
+	]
+}

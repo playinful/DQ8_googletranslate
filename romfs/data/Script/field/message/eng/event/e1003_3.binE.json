@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 31, 4, 0, 0, 36, 4, 0, 0, 41, 4, 0, 0, 46, 4, 0, 0, 51, 4, 0, 0, 208, 7, 0, 0, 218, 7, 0, 0, 228, 7, 0, 0, 238, 7, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000ECF><se_low>*: Ah, if it isn't Prince Charmless<endash> I mean, Prince Charmles! I s'pose you must be 'ere for the initiation, then?", true],
+		["<voice_0x01000ED0><se_def>Prince Charmles: Indeed I am...you uneducated bumpkin.", true],
+		["<voice_0x01000ED1><se_low>*: Ah, ha ha! An' who's this with you, eh?\nLast I heard, you royals had to go in alone...", true],
+		["<voice_0x01000ED2><se_def>Prince Charmles: They merely accompanied me here.", true],
+		["<voice_0x01000ED3><se_def>Prince Charmles: They shall be accompanying me on the way home as well. I've instructed them to await my return just inside the royal hunting ground.", true],
+		["<voice_0x01000ED4><se_low>*: Oh, right you are! Well I hope you have a good hunt then. I got to be gettin' on now...", true],
+		["<voice_0x01000ED7><se_low>*: Oh, right you are! Well I hope you have a good hunt then. I got to be<endash>", true],
+		["<voice_0x01000ED8><se_low>*: Oh no, you can't go like that...", true],
+		["<voice_0x01000ED5><se_low>*: I s'pose Your Highness knows this already, but them Argon lizards are shy beasts.\nThey'll run at the first whiff of a man.", true],
+		["<voice_0x01000ED9><se_low>*: You won't get no Argon hearts smelling like that, Your Highness! You want to cover that up with something!", true],
+		["<voice_0x01000ED6><se_low>*: You'll still need to take care, mind.\nThe only way to get close to them Argon\nlizards is to sneak up behind them.", true],
+		["<voice_0x01000EDD><se_high>*: Ooh, hang on a mo. If you're off to the initiation, you'd better know your stuff about the old salamango! What you do is...", true],
+		["<voice_0x01000EDE><se_high>*: You hold it like this...\nAnd then you throw it with all your might!", true],
+		["<voice_0x01000EDF><se_high>*: That'll break the skin, see.\nThen you can get at the fruit inside.\nThem Argon lizards can't get enough of it!", true],
+		["<voice_0x01000EE0><se_high>*: Just a sniff of one of these and\nthey're awake!", true]
+	]
+}

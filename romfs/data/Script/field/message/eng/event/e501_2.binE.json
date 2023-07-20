@@ -1,0 +1,17 @@
+{
+	"header": [1, 0, 0, 0, 12, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 155, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 12, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000C5D><se_low>King Trode: Argh!\nThat despicable abbey!\nWhat a hideous affair!", true],
+		["<voice_0x01000C5E><se_low>King Trode: It was bad enough being turned into a monster, but that's the first time I've been threatened\nwith torture!", true],
+		["<voice_0x01000C5F><se_low>King Trode: It's a disgrace! I'm a king! A great ruler!\nJust thinking about it makes my blood boil!", true],
+		["<voice_0x01000C60><se_low>Yangus: Looks like Grandad's 'avin' a bad day, eh.", true],
+		["<voice_0x01000C61><se_low>Yangus: Not that I blame 'im.\nWot 'e needs is a drink down the pub.\nThat'll sort 'im out.", true],
+		["<voice_0x01000C62><se_low>Yangus: Only...'ow the 'ell are we gonna get 'im into a town lookin' like that, eh?", true],
+		["<voice_0x01000C63><se_low>Yangus: ...Hang on a minute!", true],
+		["<voice_0x01000C64><se_low>Yangus: Here, guv! The town I used to live in is\ndown in the south o' this cont'nent.\nHow about we 'ead off down there, eh?", true],
+		["<voice_0x01000C65><se_low>Yangus: Sure, Pickham ain't no rose garden, but it's in\nthe middle o' nowhere, right. Even a strange\nold geezer like 'im would fit in no problem.", true],
+		["<voice_0x01000C66><se_low>Yangus: Old Grandad 'ere 'll be able to getta drink!", true],
+		["<voice_0x01000C67><se_low>Yangus: There's a mate o' mine there who knows ev'ryfin' about ev'ryfin'. We calls 'im Brains. He'll know the story on Dhoulmagus.", true],
+		["<voice_0x01000C68><se_low>Yangus: See, two birds wiv one stone, eh!\nI ain't just a pretty face! Come on, let's get goin'! Back to me bandit roots!", true]
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"header": [1, 0, 0, 0, 18, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 18, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001753><se_high>Princess Medea: Thank you, <hero>.\nI will forever be in your debt.", true],
+		["<voice_0x01001754><se_high>Princess Medea: You always come to my aid,\nwhenever I'm in need.", true],
+		["<voice_0x01001755><se_high>Princess Medea: But let us make this the last time, shall we?\nI must learn to look after myself.", true],
+		["<voice_0x01001756><se_high>Princess Medea: After all, I shan't have you at my beck and call forever...", true],
+		["<voice_0x01001757><se_high>Princess Medea: Captain <endash> you are dismissed, with immediate effect! You may consider that a direct order from your princess.", true],
+		["<voice_0x01001758><se_high>Princess Medea: You have done your duty.", true],
+		["<voice_0x01001759><se_high>Princess Medea: Now, please...", true],
+		["<voice_0x0100175A><se_high>Princess Medea: Follow your dreams.\nYou have your own life to live.\nSay you will.", true],
+		["<voice_0x0100175B><se_high>Princess Medea: Hee hee, I know you so well...\nBut then we did grow up together.", true],
+		["<voice_0x0100175C><se_high>Princess Medea: There's someone else who needs you at her side now, isn't there?", true],
+		["<voice_0x0100175D><se_high>Princess Medea: You mean...", true],
+		["<voice_0x0100175E><se_high>Princess Medea: You would rather stay with me?", true],
+		["<voice_0x0100175F><se_high>Princess Medea: Then you must be her protector from now on.", true],
+		["<voice_0x01001760><se_high>Princess Medea: And I will pray with all my heart for\nyour happiness.", true],
+		["<voice_0x01001761><se_high>Princess Medea: There's no need to pretend.\nI meant what I said.", true],
+		["<voice_0x01001762><se_high>Princess Medea: You don't have to devote your life to me.\nIt's time for you to follow your heart.", true],
+		["<voice_0x01001763><se_high>Princess Medea: I... I'm so happy to hear you say that...", true],
+		["<voice_0x01001764><se_high>Princess Medea: I am so very lucky to have you.", true]
+	]
+}

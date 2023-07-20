@@ -1,0 +1,11 @@
+{
+	"header": [1, 0, 0, 0, 6, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 6, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F28><se_def>Prince Charmles: Home at last. It feels like a lifetime since we left on our epic journey.", true],
+		["<voice_0x01000F29><se_def>Prince Charmles: What's this!?", true],
+		["<voice_0x01000F2A><se_def>Prince Charmles: The flags are up! Oh, the bazaar is on!\nIt must have started while we were away!", true],
+		["<voice_0x01000F2B><se_def>Prince Charmles: I'm going to do a little shopping before I go back to the castle. DIS-MISSED!", true],
+		["<voice_0x01000F2C><se_def>Prince Charmles: If I go back to the castle now, I won't have any time to enjoy the bazaar... Ah!", true],
+		["<voice_0x01000F2D><se_def>Prince Charmles: I'll go back tomorrow. Tonight we stay at the inn. Don't worry. I'll pay for you paupers.", true]
+	]
+}

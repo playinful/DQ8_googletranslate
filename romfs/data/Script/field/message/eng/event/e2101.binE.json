@@ -1,0 +1,31 @@
+{
+	"header": [1, 0, 0, 0, 26, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 204, 1, 0, 0, 78, 2, 0, 0, 88, 2, 0, 0, 26, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001BAA><se_low>Morrie: You like it, ay? I erect this statue here over my molto monstrous pit so the world can know of the GUSTO and PASSION inside you, ragazzo.", true],
+		["<voice_0x01001BAB><se_low>Morrie: Like I tell you before, you make my dream to come true. And this dream, I have it for a very, very long time.", true],
+		["<voice_0x01001BAC><se_low>Morrie: So now it is for I, Morrie, to help to make your dream to come true, ragazzo.", true],
+		["<voice_0x01001BAD><se_low>Morrie: I come with you on your avventura!\nYou like this plan, si?", true],
+		["<voice_0x01001BAE><se_low>Morrie: Ah ha ha! I knew you would say this!", true],
+		["<voice_0x01001BAF><se_low>Morrie: I do not know what is your dream, ragazzo.\nBut I DO know that I, Morrie, will play a\nmolto importante role in it becoming true!", true],
+		["Morrie joins the party!", true],
+		["<voice_0x01001BB0><se_low>Morrie: So, ragazzo, lead the ways!", true],
+		["<voice_0x01001BB1><se_low>King Trode: Well, it would seem I've accumulated a somewhat larger entourage since we left Trodain.", true],
+		["<voice_0x01001BB2><se_low>King Trode: Henceforth, I think it would be prudent if one or the other of you remained behind to guard Medea and I whenever the rest of the party leaves the wagon.", true],
+		["<voice_0x01001BB3><se_low>King Trode: Yes, I know what you're thinking <endash> but one will be quite sufficient. And I daresay it will stop you tripping over each other in those cramped caves you like to frequent.", true],
+		["<voice_0x01001BB4><se_low>King Trode: Naturally, if whoever is on guard duty is\ncarrying an important item, I'll see that it\ngets transferred to the bag before the rest\nof you set off.", true],
+		["<voice_0x01001BB5><se_low>Morrie: I will make the great companion of travelling, ay. Just you wait in the sea!", true],
+		["<voice_0x01001BAE><se_low>Morrie: Ah ha ha! I knew you would say this!", true],
+		["<voice_0x01001BAF><se_low>Morrie: I do not know what is your dream, ragazzo.\nBut I DO know that I, Morrie, will play a\nmolto importante role in it becoming true!", true],
+		["<voice_0x01001BB6><se_high>Marrie: Er...Morrie, darlin', I think he said he didn't want you taggin' along, didn't he?", true],
+		["<voice_0x01001BB7><se_low>Morrie: Che? No no no NO! Think of the GUSTO I will bring to your banda of brothers, ay?", true],
+		["<voice_0x01001BB8><se_low>Morrie: No no no, do not say these words!\nTake me with you.", true],
+		["<voice_0x01001BB9><se_low>Morrie: I will do everything in my powers to help you on your quest. Say si, per favore. I beg to you!", true],
+		["<voice_0x01001BBA><se_low>Morrie: Hmph, I see... Va bene, if you are this determined, I do not force your hands, ay.", true],
+		["<voice_0x01001BBB><se_low>Morrie: But, one day you may need the GUSTO only I, Morrie, can bring to your party. When that day comes, you find me here, ay?", true],
+		["<voice_0x01001BBC><se_low>Morrie: I am waiting for you in this place until then, ragazzo.", true],
+		["<voice_0x01001BBD><se_low>Morrie: Ah, ragazzo! You have the change of heart, ay?", true],
+		["<voice_0x010013C3><se_high>Red: Awright, I'll see you lot on the boat, then.", true],
+		["<voice_0x01000A65><se_low>King Trode: I shall await you by the carriage.", true],
+		["<voice_0x01000A66><se_low>King Trode: Cheerio!", true]
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: This ain't right!\nWe ain't done nuffin'!\nLet us out of 'ere!", true],
+		["<se_low>King Trode: I am royalty! A king!\nI am most certainly not a monster!\nThe cheek of that impertinent swine!", true],
+		["<se_high>Jessica: There's no point kicking up a fuss. We've got to think of a way to get out of this cell.", true],
+		["<se_high>Jessica: Haven't you got any bright ideas, <hero>?", true],
+		["<voice_0x01000BDA><se_high>Jessica: ...Ssh! Someone's coming!", true],
+		["<voice_0x01000BDB><se_def>Angelo: Good evening, everyone!\nGlad to see you're all looking so well!", true],
+		["<voice_0x01000BDC><se_low>Yangus: Come 'ere, you!", true],
+		["<voice_0x01000BDD><se_def>Angelo: Now, now! Control your temper!\nI must apologise for before.\nPerhaps you will accept this as conciliation?", true],
+		["<voice_0x01000BDE><se_high>Jessica: What are you up to?", true],
+		["<voice_0x01000BDF><se_def>Angelo: The guard upstairs might hear if we talk now.\nI'll explain later. Come on!", true]
+	]
+}

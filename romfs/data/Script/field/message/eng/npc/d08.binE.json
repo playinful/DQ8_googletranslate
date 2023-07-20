@@ -1,0 +1,26 @@
+{
+	"header": [1, 0, 0, 0, 21, 0, 0, 0, 10, 0, 0, 0, 20, 0, 0, 0, 21, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 201, 0, 0, 0, 202, 0, 0, 0, 203, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 145, 1, 0, 0, 146, 1, 0, 0, 244, 1, 0, 0, 245, 1, 0, 0, 246, 1, 0, 0, 247, 1, 0, 0, 248, 1, 0, 0, 249, 1, 0, 0, 250, 1, 0, 0, 21, 0, 0, 0],
+	"strings": [
+		["<Cap><leader> discovers a new recipe for the alchemy pot!", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3>", true],
+		["<Cap><string_1> <equal> <Cap><string_2> + <Cap><string_3> + <Cap><string_4>", true],
+		["<se_def>*: I must tell you, there's a fearfully cold land at the other end of this tunnel. You can run into a blizzard at any time of year.", true],
+		["<se_def>*: If you've some business up there,\nthat's one thing.<page>*: But if you're just going out of curiosity,\nI'd turn back if I were you.\nDon't say I didn't warn you!", true],
+		["<se_def>*: Dear Goddess! I thought I'd had it!", true],
+		["<se_def>*: A huge dog just came bounding through here.", true],
+		["<se_def>*: It nearly sent me flying, I tell you!\nAnd it was no ordinary dog, either!\nOh, no! Its eyes were burning red.", true],
+		["<se_def>*: And it was armed!\nIt had a bloody great stick in its mouth!", true],
+		["<se_def>*: The whole world's been thrown into panic because of the sky turning red, but look at me...", true],
+		["<se_def>*: I'm stuck out here all on my own!\nI know I've got orders and everything, but\nsometimes I wonder what on earth I'm doing.", true],
+		["<se_def>*: Oooh, it's so c-c-cold...", true],
+		["<se_def>*: Duty is duty, but it's enough to kill a man,\nstanding out here in the cold all the time.", true],
+		["<se_def>*: I think I'll stop by at Marta's place after my shift and ask her for some of that hot tea again.", true],
+		["<se_def>*: Oooh, it's so c-c-cold...", true],
+		["<se_def>*: Duty is duty, but it's enough to kill a man, standing out here in the cold all the time.", true],
+		["<se_def>*: I think I'll stop by at Marta's place after my shift and ask her for some of that hot tea again.", true],
+		["<se_def>*: What!? Marta's dead!?", true],
+		["<se_def>*: So there'll be no more hot tea, then!?\nThat was just about the only thing I had to\nlook forward to after a hard day's work!", true],
+		["<se_def>*: I can't believe it.\nI mean, Marta seemed to be in such good health.", true],
+		["<se_def>*: Just goes to show you never can tell. You never know when your number's going to be up.", true]
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 101, 0, 0, 0, 200, 0, 0, 0, 44, 1, 0, 0, 45, 1, 0, 0, 144, 1, 0, 0, 244, 1, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<se_low>Yangus: Hahh...hahh...I...can't...breathe...hahh!", true],
+		["<se_low>Yangus: This is the first time I've 'ad to climb a mountain as tough as this!", true],
+		["<se_high>Jessica: We must be getting close to the summit now.\nAnd when we get there, we're going to have to fight Gemon!<page>Jessica: Let's hurry up and get this over with!", true],
+		["<se_def>Angelo: If I'd known it was this hard to get to, I'd never have made such a rash promise to go and save this stupid egg.", true],
+		["<se_def>Angelo: ...Er, I was just having a little grumble to myself.\nI don't really mean it.", true],
+		["<se_high>Red: Wot, you out o' puff already? That's a bit naff. Come on, pull yer socks up!", true],
+		["<se_low>Morrie: Ah ha ha! You young ones get tired easy, ay?\nNot Moro Mozzarella! I can keep going all nighties!", true]
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001739><se_low>King Trode: Ah! There you are, <hero>!\nJust in the nick of time.\nI knew I could depend on you.", true],
+		["<voice_0x0100173A><se_low>King Trode: You have to take Medea and escape from here\nat once!", true],
+		["<voice_0x0100173B><se_low>King Trode: I can't possibly let that awful Prince Charmless marry my beautiful Medea.", true],
+		["<voice_0x0100173C><se_low>King Trode: My country's honour matters not one jot compared to her happiness.\nPlease, take her to safety!", true]
+	]
+}

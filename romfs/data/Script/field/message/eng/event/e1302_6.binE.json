@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 44, 1, 0, 0, 54, 1, 0, 0, 64, 1, 0, 0, 74, 1, 0, 0, 84, 1, 0, 0, 94, 1, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<se_def>*: Oh, Marek! You are back!\nIt is so good to see you!\nWe were getting a little worried, you know.", true],
+		["<se_def>Marek: And worry you might! Would you believe,\nI was attacked by a group of wolves!\nAnd these people here came to my rescue.", true],
+		["<se_def>*: What terrible misfortune! But fortunate, of course, that you are now back safe and sound.", true],
+		["<se_def>*: My humble shop depends on you and your herbs, just as the rest of the town does.", true],
+		["<se_def>*: Hey hey hey! Marek the medicine man's back!\nWha's wrong!? Hic! Why the long face!?\nHa ha ha!", true],
+		["<se_def>Marek: Drunk again, I see. Do not expect sympathy when the next hangover comes.", true],
+		["<se_def>*: Don't be so cold! I thought we were <endash> Hic! <endash> friends! Go on, you big old bear, make me some o' tha' sober-up cocktail!", true],
+		["<se_def>Marek: I think the best medicine for you is not my herbs, but a headache that will make you think twice next time.", true],
+		["<se_def>*: HIC! Hold your huskies! Tha's not jus' cold, it's <endash> Hic! <endash> downright <endash> Hic! <endash> FREEZIN'! You leave me no choice! ...I mus' keep on drinking...", true],
+		["<se_low>*: Ah, Marek. I see you have returned.\nHow is the nook grass coming along?", true],
+		["<se_def>Marek: No luck, as usual. But someone was kind enough to give me a big bag of it.", true],
+		["<se_def>Marek: Now I will be able to help plenty of people who are suffering from the cold. This is just what I love about being a herb doctor.", true],
+		["<se_low>*: Well, well. That is good news.\nI am glad to hear it.", true],
+		["<se_low>*: Marek normally has something of a shadow on his face, but today it is all lit up.", true],
+		["<se_low>*: Is it really the nook grass alone that has made him this way? Or is there perhaps some other reason?", true]
+	]
+}

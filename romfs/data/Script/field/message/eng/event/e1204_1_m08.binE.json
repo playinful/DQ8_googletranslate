@@ -1,0 +1,20 @@
+{
+	"header": [1, 0, 0, 0, 15, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 15, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001272><se_high>*: It's L-Leopold!\nH-He's got David with the sceptre!", true],
+		["<voice_0x01001274><se_def>David: Urrrgh!", true],
+		["<voice_0x01001275><center>Now there are only two left...\n<center>You will interfere no more...", true],
+		["<se_high>*: P-Please! You must help David!", true],
+		["<voice_0x01001276><se_def>David: P-Please...\nGo after...S-Sir Leopold...", true],
+		["<voice_0x01001277><se_def>David: H-He's... He's the only one who makes...\nMaster Dominico...happy...", true],
+		["<voice_0x01001278><se_def>David: Without...Sir Leo...pold,\nMaster...Dominico would...", true],
+		["<voice_0x01001279><se_def>David: ...would...be so...u-unhappy...", true],
+		["<voice_0x0100127A><se_def>David: Ma...ster...", true],
+		["<voice_0x0100127B><se_low>Dominico: W-What's happened?", true],
+		["<voice_0x0100127C><se_low>Dominico: David? Esteemed heir to the great sage Kupas?", true],
+		["<voice_0x0100127D><se_low>Dominico: ...Why has it taken me so long to realise?", true],
+		["<voice_0x0100127E><se_low>Dominico: I... I couldn't protect you... All the magic that has been in my family for generations...", true],
+		["<voice_0x0100127F><se_low>Dominico: My ancestors brought me and Kupas's heir together for a reason, but I...", true],
+		["<voice_0x01001280><se_low>Dominico: No! Just thinking about it is too painful!\nIt's unbearable!", true]
+	]
+}

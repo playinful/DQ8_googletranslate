@@ -1,0 +1,10 @@
+{
+	"header": [1, 0, 0, 0, 5, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 5, 0, 0, 0],
+	"strings": [
+		["<voice_0x010018E6><se_low>Kalderasha: So, you're back, are you?", true],
+		["<voice_0x010018E7><se_low>Kalderasha: Hmph, and not just to say hello to your old friend Kalderasha, I see.", true],
+		["<voice_0x010018E8><se_low>Kalderasha: Very well, for you, I will clear the mists for free. But you are lucky. The Great Kalderasha's usual fee is...astrological!", true],
+		["<voice_0x010018E9><se_low>Kalderasha: So, what hides in the mists of my crystal ball today? Let me see...", true],
+		["<voice_0x010018EA><se_low>Kalderasha: Yesss! YESSS! They are clearing now!\nAnd what- WHAT is this?", true]
+	]
+}

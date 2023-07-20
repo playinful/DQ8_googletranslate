@@ -1,0 +1,8 @@
+{
+	"header": [1, 0, 0, 0, 3, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 3, 0, 0, 0],
+	"strings": [
+		["<voice_0x01000F22><se_def>Prince Charmles: This is it! This is exactly what I needed!\nThis will show Father and his servants!", true],
+		["<voice_0x01000F23><se_def>Prince Charmles: I can just see their faces now! 'Oh, Charmles! How wonderful! What a hero you are!'\nThey'd better, after all I went through to get it!", true],
+		["<voice_0x01000F24><se_def>Prince Charmles: Servants! Back to the castle!", true]
+	]
+}

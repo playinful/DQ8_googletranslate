@@ -1,0 +1,12 @@
+{
+	"header": [1, 0, 0, 0, 7, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 7, 0, 0, 0],
+	"strings": [
+		["<voice_0x010015CF><se_high>Jessica: Ugh...", true],
+		["<voice_0x010015D0><se_def>Angelo: Jessica, are you all right?", true],
+		["<voice_0x010015D1><se_high>Jessica: I, I just got this strange image in my head.\nThere was a desert...and a huge skeleton...\nof a dragon, was it? And a crystal ball...", true],
+		["<voice_0x010015D2><se_low>Yangus: That'll be that Dragon Graveyard place\nin the desert. South of Argonia, weren't it?\nWe should get down there, pronto!", true],
+		["<voice_0x010015D3><se_high>Jessica: Ugh, no, I don't like it. It feels too much like when I was being controlled by Rhapthorne.", true],
+		["<voice_0x010015D4><se_low>King Trode: Nonsense! We would be nitwits to ignore such an obvious message. Let us make immediate preparations to depart for the desert!", true],
+		["<voice_0x010015D5><se_low>Yangus: The Dragon Graveyard's a fair old way to the west of 'ere, right? Lucky we can fly, eh!?", true]
+	]
+}

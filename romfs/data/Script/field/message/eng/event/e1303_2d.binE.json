@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 232, 3, 0, 0, 242, 3, 0, 0, 252, 3, 0, 0, 6, 4, 0, 0, 16, 4, 0, 0, 26, 4, 0, 0, 36, 4, 0, 0, 46, 4, 0, 0, 56, 4, 0, 0, 66, 4, 0, 0, 76, 4, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x01001378><se_def>Marek: That evil dog flew off to the east, yes?", true],
+		["<voice_0x01001379><se_def>Marek: East, hm... I think the Lord High Priest's island is to the east.", true],
+		["<voice_0x0100137A><se_def>Marek: Oh-yo-yoy! You say you have been chasing this dog!? You must not give up!", true],
+		["<voice_0x0100137B><se_def>Marek: We cannot allow another life to be\nsacrificed like my mother's.\nYou must find him and defeat him!", true],
+		["<voice_0x0100137C><se_low>King Trode: Believe me, his list of crimes needed no addition to persuade us of that.", true],
+		["<voice_0x0100137D><se_low>King Trode: But what are we supposed to do now!? We finally catch up with the fiend and he flies off! How can we possibly hope to follow!?", true],
+		["<voice_0x0100137E><se_def>Marek: ...That is it! Empyrea!", true],
+		["<voice_0x0100137F><se_def>Marek: If the enemy can fly, then you need to fly too... You must enlist the help of the Godbird Empyrea!", true],
+		["<voice_0x01001380><se_def>Marek: There are monuments about her in the shrine inside this ruin.", true],
+		["<voice_0x01001381><se_def>Marek: It is written on them how she fights\nagainst evil.", true],
+		["<voice_0x01001382><se_def>Marek: If anyone can help you in this battle,\nI am certain that Empyrea can.", true]
+	]
+}

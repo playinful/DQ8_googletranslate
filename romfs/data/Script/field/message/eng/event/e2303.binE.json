@@ -1,0 +1,16 @@
+{
+	"header": [1, 0, 0, 0, 11, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 11, 0, 0, 0],
+	"strings": [
+		["<voice_0x010015EE><se_low>Juggerwroth: Hahh, hahh... Hahh, hahh...", true],
+		["<voice_0x010015EF><se_low>Juggerwroth: Argh! Those...pesky...SAGES!", true],
+		["<voice_0x010015F0><se_low>Juggerwroth: They dare turn ME to stone?\nME!?", true],
+		["<voice_0x010015F1><se_low>Juggerwroth: To think of all the time I've WASTED breaking their wretched seal!", true],
+		["<voice_0x010015F2><se_low>Juggerwroth: Hm? I sense...a presence...\nCan it be...? Has my lord returned already!?", true],
+		["<voice_0x010015F3><se_low>Juggerwroth: Then there is no time to waste!\nI must take my rightful place at his side!", true],
+		["<voice_0x010015F4><se_low>Juggerwroth: Graaaaaaaaaah!\nDeath to the humans!\nDeath to the sages!", true],
+		["<voice_0x010015F5><se_low>Juggerwroth: Hm? Who are you?", true],
+		["<voice_0x010015F6><se_low>Juggerwroth: What are humans doing in MY lair?", true],
+		["<voice_0x010015F7><se_low>Juggerwroth: ...If you have come to plead for your pathetic lives, you are going to be SORELY disappointed.", true],
+		["<voice_0x010015F8><se_low>Juggerwroth: But your journey was not entirely wasted.\nYou can amuse me until I crush those accursed sages ONCE AND FOR ALL!", true]
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"header": [1, 0, 0, 0, 4, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 4, 0, 0, 0],
+	"strings": [
+		["<voice_0x010014CD><se_low>*: There's no difference between night and day down here, but I can still judge the passing of time.", true],
+		["<voice_0x010014CE><se_low>*: Ah, it looks like it's that time again.", true],
+		["<voice_0x010014CF><se_low>*: The guards change shift once a day.\nSo I can always tell when I'm one day closer\nto heaven...", true],
+		["<center>The party was helpless to do anything\n<center>but watch time tick slowly by,\n<center>imprisoned on Purgatory Island...", true]
+	]
+}

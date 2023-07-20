@@ -1,0 +1,25 @@
+{
+	"header": [1, 0, 0, 0, 20, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 200, 0, 0, 0, 210, 0, 0, 0, 220, 0, 0, 0, 230, 0, 0, 0, 240, 0, 0, 0, 250, 0, 0, 0, 4, 1, 0, 0, 14, 1, 0, 0, 24, 1, 0, 0, 34, 1, 0, 0, 20, 0, 0, 0],
+	"strings": [
+		["<se_low>Chen Mui: This leads to the Heavenly Dais where you will find the Lord of the Dragovians.", true],
+		["<se_low>Chen Mui: But going into battle when you are so tired would be most unwise. Come, rest at my house.", true],
+		["<voice_0x010017B0><se_def>*: Master Chen Mui! You've finally returned!\nI have looked forward to this day!", true],
+		["<voice_0x010017B1><se_low>Chen Mui: Ah, yes. Thank you for watching over things in my absence.", true],
+		["<voice_0x010017B2><se_low>Chen Mui: I brought some human guests with me today.\nI want you to make sure they are comfortable.", true],
+		["<voice_0x010017B3><se_def>*: Guests from the human world!?\nDo you mean one of them is Miss Xia's<endash>", true],
+		["<voice_0x010017B4><se_low>Chen Mui: Why don't you begin preparing tonight's meal?", true],
+		["<voice_0x010017B5><se_def>*: Uh... Of course, Master!\nA cheese banquet, I presume?\nI'll begin preparations right away.", true],
+		["<voice_0x010017B6><se_low>Chen Mui: Please, make yourselves at home!", true],
+		["<voice_0x010017B7><se_low>Yangus: Wot a spread, eh? I don't think I've ever eaten that much cheese in me 'ole life!", true],
+		["<voice_0x010017B8><se_low>Yangus: Not that I'm complainin', mind.\nThat was good grub!\nI'm just feelin' a bit cosy round the old midriff.", true],
+		["<voice_0x010017B9><se_high>Jessica: That's Yangus, always thinking with his stomach! By the way, there's something about this Chen Mui fellow that sticks in my mind.", true],
+		["<voice_0x010017BA><se_high>Jessica: We only just met him today.\nHow does he know so much about us?", true],
+		["<voice_0x010017BB><se_def>Angelo: Actually, I found the attitude of the Elders even more bizarre.", true],
+		["<voice_0x010017BC><se_def>Angelo: It was as if they'd known about <hero> for a long time.", true],
+		["<voice_0x010017BD><se_low>Yangus: You reckon? I didn't notice nuffin' weird.", true],
+		["<voice_0x010017BE><se_low>Yangus: But if it's buggin' ya, like, why don't you ask that old Chen-wotsit bloke, eh?", true],
+		["<voice_0x010017BF><se_high>Jessica: You know, for once I actually agree with you, Yangus!", true],
+		["<voice_0x010017C0><se_def>Angelo: I seriously doubt he'll spit out the truth there and then, but it can't hurt to try.", true],
+		["<se_low>Yangus: Here, guv!\nIt's a bit late to be goin' places, ain't it?", true]
+	]
+}

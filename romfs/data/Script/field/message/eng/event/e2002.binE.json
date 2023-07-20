@@ -1,0 +1,15 @@
+{
+	"header": [1, 0, 0, 0, 10, 0, 0, 0, 100, 0, 0, 0, 110, 0, 0, 0, 120, 0, 0, 0, 130, 0, 0, 0, 140, 0, 0, 0, 150, 0, 0, 0, 160, 0, 0, 0, 170, 0, 0, 0, 180, 0, 0, 0, 190, 0, 0, 0, 10, 0, 0, 0],
+	"strings": [
+		["<voice_0x010013CF><se_high>Red: Ahh, it ain't 'alf good to be 'ome.\nI feel like I can finally relax...", true],
+		["<voice_0x010013D0><se_high>Red: Well, don't just stand there doin' nuffin'!\nPut the kettle on or somefin'.\nI could do wiv a brew.", true],
+		["<voice_0x010013D1><se_low>Yangus: Yer 'avin' a bubble, intcha?\nI'm a bleedin' guest 'ere.\nGet yer servin' boy to do it.", true],
+		["<voice_0x010013D2><se_high>Red: Oooh, makin' tea's beneath ya now, is it, Mr. 'Igh 'n' Mighty? I thought there weren't nuffin' you wouldn't do for a mate?", true],
+		["<voice_0x010013D3><se_low>Yangus: Well...that's different, innit?", true],
+		["<voice_0x010013D4><se_low>Yangus: Anyway...you sayin' we're mates now, are ya?", true],
+		["<voice_0x010013D5><se_high>Red: Er...", true],
+		["<voice_0x010013D6><se_high>Red: Don't try to be smart. It don't suit ya.\nWho'd wanna be mates wiv a lump like you?", true],
+		["<voice_0x010013D7><se_high>Red: Awright, look, I'll be straight wiv ya: we're on the same team now <endash> but that is as far as it goes.", true],
+		["<voice_0x010013D8><se_high>Red: I ain't 'avin' no more to do wiv you than I 'ave to, got it?", true]
+	]
+}
