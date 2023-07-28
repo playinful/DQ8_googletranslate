@@ -103,7 +103,7 @@ replacements = [
 #    "romfs\\data\\Message\\eng\\msg_action.binE", "romfs\\data\\Message\\eng\\msg_church.binE", "romfs\\data\\Message\\eng\\msg_common.binE",
 #    "romfs\\data\\Message\\eng\\msg_item.binE", "romfs\\data\\Message\\eng\\msg_equipment.binE", "romfs\\data\\Message\\eng\\msg_menu.binE",
 #    "romfs\\data\\Message\\eng\\msg_monster.binE"]
-paths = ["romfs\\data\\Message", "romfs\\data\\Script", "romfs\\data\\Params"]
+paths = ["romfs\\data\\Message", "romfs\\data\\Script"]#, "romfs\\data\\Params"]
 skip_files = []
 #escapes = []
 
@@ -273,6 +273,7 @@ def translate_binE(js: dict):
         trans = translate_entry(string)
 
         js["strings"][string_index] = trans
+
     #return
 
     return js
@@ -314,7 +315,7 @@ def translate_entry(string: str, bypass_charname: bool = False, dont_dic: bool =
         or re.search("^(<[^>]*?>|\W)*$", string): # <-- regex matches strings that contain only <escape codes> and non-words
         return string
     
-    if string.lower() in dictionary:
+    if string.lower() in dictionary and not dont_dic:
         print(f"{string} -> {dictionary[string.lower()]}")
         return dictionary[string.lower()]
     
@@ -325,7 +326,7 @@ def translate_entry(string: str, bypass_charname: bool = False, dont_dic: bool =
         for page in pages:
             trans_pages.append(translate_entry(page))
         
-        return "<page>".join(pages)
+        return "<page>".join(trans_pages)
     
     prefix = re.search("^(<[^<>]*?voice_?[0-9A-Fx]*>|<se_[^>]*>|\*<?\:>? )*", string).group()
     if len(prefix) > 0:
